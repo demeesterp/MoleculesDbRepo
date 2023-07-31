@@ -1,0 +1,8744 @@
+{
+  "NameInfo": "co2",
+  "Description": null,
+  "Comment": null,
+  "Status": 0,
+  "Bonds": [
+    {
+      "Atom1Position": 2,
+      "Atom2Position": 1,
+      "Distance": 1.183,
+      "BondOrder": 1.798,
+      "BondOrderAcid": -0.265,
+      "BondOrderBase": 0.265,
+      "OverlapPopulation": 0.4842562,
+      "OverlapPopulationAcid": -0.1033615,
+      "OverlapPopulationBase": 0.1611139
+    },
+    {
+      "Atom1Position": 3,
+      "Atom2Position": 1,
+      "Distance": 1.183,
+      "BondOrder": 1.798,
+      "BondOrderAcid": -0.265,
+      "BondOrderBase": 0.265,
+      "OverlapPopulation": 0.4842561,
+      "OverlapPopulationAcid": -0.1033575,
+      "OverlapPopulationBase": 0.1611146
+    },
+    {
+      "Atom1Position": 3,
+      "Atom2Position": 2,
+      "Distance": 2.366,
+      "BondOrder": 0.258,
+      "BondOrderAcid": -0.106,
+      "BondOrderBase": 0.094,
+      "OverlapPopulation": -0.0223741,
+      "OverlapPopulationAcid": 0.0099171,
+      "OverlapPopulationBase": 0.0011524
+    }
+  ],
+  "Atoms": [
+    {
+      "Position": 1,
+      "Number": 1,
+      "Symbol": "C",
+      "AtomicWeight": 6,
+      "Info": null,
+      "PosX": 0.0000010146,
+      "PosY": 0.0000000000,
+      "PosZ": 0.0000000000,
+      "Radius": 0,
+      "MullikenPopulation": 4.917927,
+      "MullikenPopulationAcid": -0.151766,
+      "MullikenPopulationBase": -0.547868,
+      "LowdinPopulation": 5.587340,
+      "LowdinPopulationAcid": -0.078504,
+      "LowdinPopulationBase": -0.498392,
+      "CHelpGCharge": 0.8225,
+      "ConnollyCharge": 0,
+      "GeoDiscCharge": 0.8075,
+      "Orbitals": [
+        {
+          "Position": 1,
+          "Symbol": "S",
+          "MullikenPopulation": 1.98675,
+          "MullikenPopulationAcid": -0.00072,
+          "MullikenPopulationBase": 0.00075,
+          "LowdinPopulation": 1.97711,
+          "LowdinPopulationAcid": -0.00165,
+          "LowdinPopulationBase": 0.00084
+        },
+        {
+          "Position": 2,
+          "Symbol": "S",
+          "MullikenPopulation": 0.48667,
+          "MullikenPopulationAcid": 0.00206,
+          "MullikenPopulationBase": 0.05727,
+          "LowdinPopulation": 0.46560,
+          "LowdinPopulationAcid": -0.00785,
+          "LowdinPopulationBase": 0.03101
+        },
+        {
+          "Position": 3,
+          "Symbol": "X",
+          "MullikenPopulation": 0.73852,
+          "MullikenPopulationAcid": -0.01374,
+          "MullikenPopulationBase": 0.05671,
+          "LowdinPopulation": 0.70213,
+          "LowdinPopulationAcid": -0.01340,
+          "LowdinPopulationBase": 0.04000
+        },
+        {
+          "Position": 4,
+          "Symbol": "Y",
+          "MullikenPopulation": 0.38311,
+          "MullikenPopulationAcid": -0.03972,
+          "MullikenPopulationBase": -0.27310,
+          "LowdinPopulation": 0.35829,
+          "LowdinPopulationAcid": -0.04252,
+          "LowdinPopulationBase": -0.29564
+        },
+        {
+          "Position": 5,
+          "Symbol": "Z",
+          "MullikenPopulation": 0.38311,
+          "MullikenPopulationAcid": 0.12972,
+          "MullikenPopulationBase": 0.07123,
+          "LowdinPopulation": 0.35829,
+          "LowdinPopulationAcid": 0.11988,
+          "LowdinPopulationBase": 0.05824
+        },
+        {
+          "Position": 6,
+          "Symbol": "S",
+          "MullikenPopulation": 0.27139,
+          "MullikenPopulationAcid": -0.07709,
+          "MullikenPopulationBase": -0.05726,
+          "LowdinPopulation": 0.44519,
+          "LowdinPopulationAcid": -0.03671,
+          "LowdinPopulationBase": -0.02414
+        },
+        {
+          "Position": 7,
+          "Symbol": "X",
+          "MullikenPopulation": -0.09486,
+          "MullikenPopulationAcid": -0.07303,
+          "MullikenPopulationBase": -0.05098,
+          "LowdinPopulation": 0.42321,
+          "LowdinPopulationAcid": -0.02799,
+          "LowdinPopulationBase": -0.02078
+        },
+        {
+          "Position": 8,
+          "Symbol": "Y",
+          "MullikenPopulation": 0.38162,
+          "MullikenPopulationAcid": -0.09692,
+          "MullikenPopulationBase": -0.31095,
+          "LowdinPopulation": 0.42876,
+          "LowdinPopulationAcid": -0.07851,
+          "LowdinPopulationBase": -0.25885
+        },
+        {
+          "Position": 9,
+          "Symbol": "Z",
+          "MullikenPopulation": 0.38162,
+          "MullikenPopulationAcid": 0.01768,
+          "MullikenPopulationBase": -0.04154,
+          "LowdinPopulation": 0.42876,
+          "LowdinPopulationAcid": 0.01024,
+          "LowdinPopulationBase": -0.02908
+        }
+      ],
+      "Bonds": []
+    },
+    {
+      "Position": 2,
+      "Number": 2,
+      "Symbol": "O",
+      "AtomicWeight": 8,
+      "Info": null,
+      "PosX": -1.1830206635,
+      "PosY": 0.0000000000,
+      "PosZ": 0.0000000000,
+      "Radius": 0,
+      "MullikenPopulation": 8.541036,
+      "MullikenPopulationAcid": -0.424118,
+      "MullikenPopulationBase": -0.226067,
+      "LowdinPopulation": 8.206330,
+      "LowdinPopulationAcid": -0.460749,
+      "LowdinPopulationBase": -0.250805,
+      "CHelpGCharge": -0.4112,
+      "ConnollyCharge": 0,
+      "GeoDiscCharge": -0.4037,
+      "Orbitals": [
+        {
+          "Position": 10,
+          "Symbol": "S",
+          "MullikenPopulation": 1.98762,
+          "MullikenPopulationAcid": 0.00081,
+          "MullikenPopulationBase": 0.00070,
+          "LowdinPopulation": 1.98195,
+          "LowdinPopulationAcid": 0.00114,
+          "LowdinPopulationBase": 0.00099
+        },
+        {
+          "Position": 11,
+          "Symbol": "S",
+          "MullikenPopulation": 0.44039,
+          "MullikenPopulationAcid": 0.03054,
+          "MullikenPopulationBase": 0.02281,
+          "LowdinPopulation": 0.59213,
+          "LowdinPopulationAcid": 0.02997,
+          "LowdinPopulationBase": 0.02456
+        },
+        {
+          "Position": 12,
+          "Symbol": "X",
+          "MullikenPopulation": 0.63001,
+          "MullikenPopulationAcid": 0.05333,
+          "MullikenPopulationBase": 0.01334,
+          "LowdinPopulation": 0.61279,
+          "LowdinPopulationAcid": 0.04644,
+          "LowdinPopulationBase": 0.00701
+        },
+        {
+          "Position": 13,
+          "Symbol": "Y",
+          "MullikenPopulation": 0.71085,
+          "MullikenPopulationAcid": 0.08949,
+          "MullikenPopulationBase": -0.10630,
+          "LowdinPopulation": 0.70853,
+          "LowdinPopulationAcid": 0.08307,
+          "LowdinPopulationBase": -0.12688
+        },
+        {
+          "Position": 14,
+          "Symbol": "Z",
+          "MullikenPopulation": 0.71085,
+          "MullikenPopulationAcid": -0.20268,
+          "MullikenPopulationBase": 0.03435,
+          "LowdinPopulation": 0.70853,
+          "LowdinPopulationAcid": -0.21214,
+          "LowdinPopulationBase": 0.02862
+        },
+        {
+          "Position": 15,
+          "Symbol": "S",
+          "MullikenPopulation": 1.53683,
+          "MullikenPopulationAcid": 0.02922,
+          "MullikenPopulationBase": 0.02744,
+          "LowdinPopulation": 1.02755,
+          "LowdinPopulationAcid": -0.00580,
+          "LowdinPopulationBase": -0.00213
+        },
+        {
+          "Position": 16,
+          "Symbol": "X",
+          "MullikenPopulation": 0.71092,
+          "MullikenPopulationAcid": -0.03264,
+          "MullikenPopulationBase": -0.06753,
+          "LowdinPopulation": 0.77896,
+          "LowdinPopulationAcid": -0.02796,
+          "LowdinPopulationBase": -0.04390
+        },
+        {
+          "Position": 17,
+          "Symbol": "Y",
+          "MullikenPopulation": 0.90679,
+          "MullikenPopulationAcid": -0.02125,
+          "MullikenPopulationBase": -0.10155,
+          "LowdinPopulation": 0.89795,
+          "LowdinPopulationAcid": -0.02263,
+          "LowdinPopulationBase": -0.09576
+        },
+        {
+          "Position": 18,
+          "Symbol": "Z",
+          "MullikenPopulation": 0.90679,
+          "MullikenPopulationAcid": -0.37096,
+          "MullikenPopulationBase": -0.04930,
+          "LowdinPopulation": 0.89795,
+          "LowdinPopulationAcid": -0.35286,
+          "LowdinPopulationBase": -0.04331
+        }
+      ],
+      "Bonds": [
+        {
+          "Atom1Position": 2,
+          "Atom2Position": 1,
+          "Distance": 1.183,
+          "BondOrder": 1.798,
+          "BondOrderAcid": -0.265,
+          "BondOrderBase": 0.265,
+          "OverlapPopulation": 0.4842562,
+          "OverlapPopulationAcid": -0.1033615,
+          "OverlapPopulationBase": 0.1611139
+        }
+      ]
+    },
+    {
+      "Position": 3,
+      "Number": 3,
+      "Symbol": "O",
+      "AtomicWeight": 8,
+      "Info": null,
+      "PosX": 1.1830196489,
+      "PosY": 0.0000000000,
+      "PosZ": 0.0000000000,
+      "Radius": 0,
+      "MullikenPopulation": 8.541038,
+      "MullikenPopulationAcid": -0.424117,
+      "MullikenPopulationBase": -0.226065,
+      "LowdinPopulation": 8.206330,
+      "LowdinPopulationAcid": -0.460747,
+      "LowdinPopulationBase": -0.250803,
+      "CHelpGCharge": -0.4112,
+      "ConnollyCharge": 0,
+      "GeoDiscCharge": -0.4037,
+      "Orbitals": [
+        {
+          "Position": 19,
+          "Symbol": "S",
+          "MullikenPopulation": 1.98762,
+          "MullikenPopulationAcid": 0.00081,
+          "MullikenPopulationBase": 0.00070,
+          "LowdinPopulation": 1.98195,
+          "LowdinPopulationAcid": 0.00114,
+          "LowdinPopulationBase": 0.00099
+        },
+        {
+          "Position": 20,
+          "Symbol": "S",
+          "MullikenPopulation": 0.44039,
+          "MullikenPopulationAcid": 0.03054,
+          "MullikenPopulationBase": 0.02281,
+          "LowdinPopulation": 0.59213,
+          "LowdinPopulationAcid": 0.02997,
+          "LowdinPopulationBase": 0.02456
+        },
+        {
+          "Position": 21,
+          "Symbol": "X",
+          "MullikenPopulation": 0.63001,
+          "MullikenPopulationAcid": 0.05333,
+          "MullikenPopulationBase": 0.01334,
+          "LowdinPopulation": 0.61279,
+          "LowdinPopulationAcid": 0.04644,
+          "LowdinPopulationBase": 0.00700
+        },
+        {
+          "Position": 22,
+          "Symbol": "Y",
+          "MullikenPopulation": 0.71085,
+          "MullikenPopulationAcid": 0.08949,
+          "MullikenPopulationBase": -0.10630,
+          "LowdinPopulation": 0.70853,
+          "LowdinPopulationAcid": 0.08307,
+          "LowdinPopulationBase": -0.12688
+        },
+        {
+          "Position": 23,
+          "Symbol": "Z",
+          "MullikenPopulation": 0.71085,
+          "MullikenPopulationAcid": -0.20268,
+          "MullikenPopulationBase": 0.03435,
+          "LowdinPopulation": 0.70853,
+          "LowdinPopulationAcid": -0.21214,
+          "LowdinPopulationBase": 0.02862
+        },
+        {
+          "Position": 24,
+          "Symbol": "S",
+          "MullikenPopulation": 1.53683,
+          "MullikenPopulationAcid": 0.02922,
+          "MullikenPopulationBase": 0.02744,
+          "LowdinPopulation": 1.02755,
+          "LowdinPopulationAcid": -0.00580,
+          "LowdinPopulationBase": -0.00213
+        },
+        {
+          "Position": 25,
+          "Symbol": "X",
+          "MullikenPopulation": 0.71092,
+          "MullikenPopulationAcid": -0.03264,
+          "MullikenPopulationBase": -0.06753,
+          "LowdinPopulation": 0.77896,
+          "LowdinPopulationAcid": -0.02796,
+          "LowdinPopulationBase": -0.04390
+        },
+        {
+          "Position": 26,
+          "Symbol": "Y",
+          "MullikenPopulation": 0.90679,
+          "MullikenPopulationAcid": -0.02125,
+          "MullikenPopulationBase": -0.10155,
+          "LowdinPopulation": 0.89795,
+          "LowdinPopulationAcid": -0.02263,
+          "LowdinPopulationBase": -0.09576
+        },
+        {
+          "Position": 27,
+          "Symbol": "Z",
+          "MullikenPopulation": 0.90679,
+          "MullikenPopulationAcid": -0.37095,
+          "MullikenPopulationBase": -0.04930,
+          "LowdinPopulation": 0.89795,
+          "LowdinPopulationAcid": -0.35286,
+          "LowdinPopulationBase": -0.04331
+        }
+      ],
+      "Bonds": [
+        {
+          "Atom1Position": 3,
+          "Atom2Position": 1,
+          "Distance": 1.183,
+          "BondOrder": 1.798,
+          "BondOrderAcid": -0.265,
+          "BondOrderBase": 0.265,
+          "OverlapPopulation": 0.4842561,
+          "OverlapPopulationAcid": -0.1033575,
+          "OverlapPopulationBase": 0.1611146
+        },
+        {
+          "Atom1Position": 3,
+          "Atom2Position": 2,
+          "Distance": 2.366,
+          "BondOrder": 0.258,
+          "BondOrderAcid": -0.106,
+          "BondOrderBase": 0.094,
+          "OverlapPopulation": -0.0223741,
+          "OverlapPopulationAcid": 0.0099171,
+          "OverlapPopulationBase": 0.0011524
+        }
+      ]
+    }
+  ],
+  "ElPot": [
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -7.55890,
+      "PosY": -0.75589,
+      "PosZ": -0.75589,
+      "Nuclear": 3.071316,
+      "Electronic": -3.080679,
+      "Total": -0.009363
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -7.55890,
+      "PosY": -0.75589,
+      "PosZ": 0.75589,
+      "Nuclear": 3.071316,
+      "Electronic": -3.080679,
+      "Total": -0.009363
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -7.55890,
+      "PosY": 0.75589,
+      "PosZ": -0.75589,
+      "Nuclear": 3.071316,
+      "Electronic": -3.080679,
+      "Total": -0.009363
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -7.55890,
+      "PosY": 0.75589,
+      "PosZ": 0.75589,
+      "Nuclear": 3.071316,
+      "Electronic": -3.080679,
+      "Total": -0.009363
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": -3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": -3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": -2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 3.383311,
+      "Electronic": -3.391792,
+      "Total": -0.008481
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": -2.26767,
+      "PosZ": -0.75589,
+      "Nuclear": 3.628879,
+      "Electronic": -3.641099,
+      "Total": -0.012220
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": -2.26767,
+      "PosZ": 0.75589,
+      "Nuclear": 3.628879,
+      "Electronic": -3.641099,
+      "Total": -0.012220
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": -2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 3.383311,
+      "Electronic": -3.391792,
+      "Total": -0.008481
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": -0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": -0.75589,
+      "PosZ": -2.26767,
+      "Nuclear": 3.628879,
+      "Electronic": -3.641099,
+      "Total": -0.012220
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": -0.75589,
+      "PosZ": -0.75589,
+      "Nuclear": 3.955893,
+      "Electronic": -3.974184,
+      "Total": -0.018291
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": -0.75589,
+      "PosZ": 0.75589,
+      "Nuclear": 3.955893,
+      "Electronic": -3.974184,
+      "Total": -0.018291
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": -0.75589,
+      "PosZ": 2.26767,
+      "Nuclear": 3.628879,
+      "Electronic": -3.641099,
+      "Total": -0.012220
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": -0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": 0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": 0.75589,
+      "PosZ": -2.26767,
+      "Nuclear": 3.628879,
+      "Electronic": -3.641099,
+      "Total": -0.012220
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": 0.75589,
+      "PosZ": -0.75589,
+      "Nuclear": 3.955893,
+      "Electronic": -3.974184,
+      "Total": -0.018291
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": 0.75589,
+      "PosZ": 0.75589,
+      "Nuclear": 3.955893,
+      "Electronic": -3.974184,
+      "Total": -0.018291
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": 0.75589,
+      "PosZ": 2.26767,
+      "Nuclear": 3.628879,
+      "Electronic": -3.641099,
+      "Total": -0.012220
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": 0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": 2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 3.383311,
+      "Electronic": -3.391792,
+      "Total": -0.008481
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": 2.26767,
+      "PosZ": -0.75589,
+      "Nuclear": 3.628879,
+      "Electronic": -3.641099,
+      "Total": -0.012220
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": 2.26767,
+      "PosZ": 0.75589,
+      "Nuclear": 3.628879,
+      "Electronic": -3.641099,
+      "Total": -0.012220
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": 2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 3.383311,
+      "Electronic": -3.391792,
+      "Total": -0.008481
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": 3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -6.04712,
+      "PosY": 3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": -3.77945,
+      "PosZ": -2.26767,
+      "Nuclear": 3.548122,
+      "Electronic": -3.551692,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": -3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": -3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": -3.77945,
+      "PosZ": 2.26767,
+      "Nuclear": 3.548122,
+      "Electronic": -3.551692,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": -2.26767,
+      "PosZ": -3.77945,
+      "Nuclear": 3.548122,
+      "Electronic": -3.551692,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": -2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 4.175181,
+      "Electronic": -4.186119,
+      "Total": -0.010938
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": -2.26767,
+      "PosZ": -0.75589,
+      "Nuclear": 4.696283,
+      "Electronic": -4.716613,
+      "Total": -0.020330
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": -2.26767,
+      "PosZ": 0.75589,
+      "Nuclear": 4.696283,
+      "Electronic": -4.716613,
+      "Total": -0.020330
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": -2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 4.175181,
+      "Electronic": -4.186119,
+      "Total": -0.010938
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": -2.26767,
+      "PosZ": 3.77945,
+      "Nuclear": 3.548122,
+      "Electronic": -3.551692,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": -0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": -0.75589,
+      "PosZ": -2.26767,
+      "Nuclear": 4.696283,
+      "Electronic": -4.716613,
+      "Total": -0.020330
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": -0.75589,
+      "PosZ": 2.26767,
+      "Nuclear": 4.696283,
+      "Electronic": -4.716613,
+      "Total": -0.020330
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": -0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": 0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": 0.75589,
+      "PosZ": -2.26767,
+      "Nuclear": 4.696283,
+      "Electronic": -4.716613,
+      "Total": -0.020330
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": 0.75589,
+      "PosZ": 2.26767,
+      "Nuclear": 4.696283,
+      "Electronic": -4.716613,
+      "Total": -0.020330
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": 0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": 2.26767,
+      "PosZ": -3.77945,
+      "Nuclear": 3.548122,
+      "Electronic": -3.551692,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": 2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 4.175181,
+      "Electronic": -4.186119,
+      "Total": -0.010938
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": 2.26767,
+      "PosZ": -0.75589,
+      "Nuclear": 4.696283,
+      "Electronic": -4.716613,
+      "Total": -0.020330
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": 2.26767,
+      "PosZ": 0.75589,
+      "Nuclear": 4.696283,
+      "Electronic": -4.716613,
+      "Total": -0.020330
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": 2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 4.175181,
+      "Electronic": -4.186119,
+      "Total": -0.010938
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": 2.26767,
+      "PosZ": 3.77945,
+      "Nuclear": 3.548122,
+      "Electronic": -3.551692,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": 3.77945,
+      "PosZ": -2.26767,
+      "Nuclear": 3.548122,
+      "Electronic": -3.551692,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": 3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": 3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -4.53534,
+      "PosY": 3.77945,
+      "PosZ": 2.26767,
+      "Nuclear": 3.548122,
+      "Electronic": -3.551692,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -5.29123,
+      "PosZ": -0.75589,
+      "Nuclear": 3.524676,
+      "Electronic": -3.521805,
+      "Total": 0.002871
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -5.29123,
+      "PosZ": 0.75589,
+      "Nuclear": 3.524676,
+      "Electronic": -3.521805,
+      "Total": 0.002871
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -3.77945,
+      "PosZ": -3.77945,
+      "Nuclear": 3.524676,
+      "Electronic": -3.521805,
+      "Total": 0.002871
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -3.77945,
+      "PosZ": -2.26767,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073179,
+      "Total": 0.001972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 4.485287,
+      "Electronic": -4.485134,
+      "Total": 0.000153
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 4.485287,
+      "Electronic": -4.485134,
+      "Total": 0.000153
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -3.77945,
+      "PosZ": 2.26767,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073179,
+      "Total": 0.001972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -3.77945,
+      "PosZ": 3.77945,
+      "Nuclear": 3.524676,
+      "Electronic": -3.521805,
+      "Total": 0.002871
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -2.26767,
+      "PosZ": -3.77945,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073179,
+      "Total": 0.001972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 5.082548,
+      "Electronic": -5.087165,
+      "Total": -0.004617
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 5.082548,
+      "Electronic": -5.087165,
+      "Total": -0.004617
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -2.26767,
+      "PosZ": 3.77945,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073179,
+      "Total": 0.001972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -0.75589,
+      "PosZ": -5.29123,
+      "Nuclear": 3.524676,
+      "Electronic": -3.521805,
+      "Total": 0.002871
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 4.485287,
+      "Electronic": -4.485134,
+      "Total": 0.000153
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 4.485287,
+      "Electronic": -4.485134,
+      "Total": 0.000153
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": -0.75589,
+      "PosZ": 5.29123,
+      "Nuclear": 3.524676,
+      "Electronic": -3.521805,
+      "Total": 0.002871
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 0.75589,
+      "PosZ": -5.29123,
+      "Nuclear": 3.524676,
+      "Electronic": -3.521805,
+      "Total": 0.002871
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 4.485287,
+      "Electronic": -4.485134,
+      "Total": 0.000153
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 4.485287,
+      "Electronic": -4.485134,
+      "Total": 0.000153
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 0.75589,
+      "PosZ": 5.29123,
+      "Nuclear": 3.524676,
+      "Electronic": -3.521805,
+      "Total": 0.002871
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 2.26767,
+      "PosZ": -3.77945,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073179,
+      "Total": 0.001972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 5.082548,
+      "Electronic": -5.087165,
+      "Total": -0.004617
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 5.082548,
+      "Electronic": -5.087165,
+      "Total": -0.004617
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 2.26767,
+      "PosZ": 3.77945,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073179,
+      "Total": 0.001972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 3.77945,
+      "PosZ": -3.77945,
+      "Nuclear": 3.524676,
+      "Electronic": -3.521805,
+      "Total": 0.002871
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 3.77945,
+      "PosZ": -2.26767,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073179,
+      "Total": 0.001972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 4.485287,
+      "Electronic": -4.485134,
+      "Total": 0.000153
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 4.485287,
+      "Electronic": -4.485134,
+      "Total": 0.000153
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 3.77945,
+      "PosZ": 2.26767,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073179,
+      "Total": 0.001972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 3.77945,
+      "PosZ": 3.77945,
+      "Nuclear": 3.524676,
+      "Electronic": -3.521805,
+      "Total": 0.002871
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 5.29123,
+      "PosZ": -0.75589,
+      "Nuclear": 3.524676,
+      "Electronic": -3.521805,
+      "Total": 0.002871
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -3.02356,
+      "PosY": 5.29123,
+      "PosZ": 0.75589,
+      "Nuclear": 3.524676,
+      "Electronic": -3.521805,
+      "Total": 0.002871
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -5.29123,
+      "PosZ": -0.75589,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -5.29123,
+      "PosZ": 0.75589,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -3.77945,
+      "PosZ": -3.77945,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -3.77945,
+      "PosZ": -2.26767,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -3.77945,
+      "PosZ": 2.26767,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -3.77945,
+      "PosZ": 3.77945,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -2.26767,
+      "PosZ": -3.77945,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 5.747640,
+      "Electronic": -5.722885,
+      "Total": 0.024755
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 5.747640,
+      "Electronic": -5.722885,
+      "Total": 0.024755
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -2.26767,
+      "PosZ": 3.77945,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -0.75589,
+      "PosZ": -5.29123,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": -0.75589,
+      "PosZ": 5.29123,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 0.75589,
+      "PosZ": -5.29123,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 0.75589,
+      "PosZ": 5.29123,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 2.26767,
+      "PosZ": -3.77945,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 5.747640,
+      "Electronic": -5.722885,
+      "Total": 0.024755
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 5.747640,
+      "Electronic": -5.722885,
+      "Total": 0.024755
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 2.26767,
+      "PosZ": 3.77945,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 3.77945,
+      "PosZ": -3.77945,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 3.77945,
+      "PosZ": -2.26767,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 3.77945,
+      "PosZ": 2.26767,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 3.77945,
+      "PosZ": 3.77945,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 5.29123,
+      "PosZ": -0.75589,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": -1.51178,
+      "PosY": 5.29123,
+      "PosZ": 0.75589,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -5.29123,
+      "PosZ": -0.75589,
+      "Nuclear": 3.884200,
+      "Electronic": -3.872510,
+      "Total": 0.011690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -5.29123,
+      "PosZ": 0.75589,
+      "Nuclear": 3.884200,
+      "Electronic": -3.872510,
+      "Total": 0.011690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -3.77945,
+      "PosZ": -3.77945,
+      "Nuclear": 3.884200,
+      "Electronic": -3.872510,
+      "Total": 0.011690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -3.77945,
+      "PosZ": -2.26767,
+      "Nuclear": 4.598783,
+      "Electronic": -4.578893,
+      "Total": 0.019889
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 5.147591,
+      "Electronic": -5.118833,
+      "Total": 0.028758
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 5.147591,
+      "Electronic": -5.118833,
+      "Total": 0.028758
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -3.77945,
+      "PosZ": 2.26767,
+      "Nuclear": 4.598783,
+      "Electronic": -4.578893,
+      "Total": 0.019889
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -3.77945,
+      "PosZ": 3.77945,
+      "Nuclear": 3.884200,
+      "Electronic": -3.872510,
+      "Total": 0.011690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -2.26767,
+      "PosZ": -3.77945,
+      "Nuclear": 4.598783,
+      "Electronic": -4.578893,
+      "Total": 0.019889
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 5.963745,
+      "Electronic": -5.915265,
+      "Total": 0.048480
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 5.963745,
+      "Electronic": -5.915265,
+      "Total": 0.048480
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -2.26767,
+      "PosZ": 3.77945,
+      "Nuclear": 4.598783,
+      "Electronic": -4.578893,
+      "Total": 0.019889
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -0.75589,
+      "PosZ": -5.29123,
+      "Nuclear": 3.884200,
+      "Electronic": -3.872510,
+      "Total": 0.011690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 5.147591,
+      "Electronic": -5.118833,
+      "Total": 0.028758
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 5.147591,
+      "Electronic": -5.118833,
+      "Total": 0.028758
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": -0.75589,
+      "PosZ": 5.29123,
+      "Nuclear": 3.884200,
+      "Electronic": -3.872510,
+      "Total": 0.011690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 0.75589,
+      "PosZ": -5.29123,
+      "Nuclear": 3.884200,
+      "Electronic": -3.872510,
+      "Total": 0.011690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 5.147591,
+      "Electronic": -5.118833,
+      "Total": 0.028758
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 5.147591,
+      "Electronic": -5.118833,
+      "Total": 0.028758
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 0.75589,
+      "PosZ": 5.29123,
+      "Nuclear": 3.884200,
+      "Electronic": -3.872510,
+      "Total": 0.011690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 2.26767,
+      "PosZ": -3.77945,
+      "Nuclear": 4.598783,
+      "Electronic": -4.578893,
+      "Total": 0.019889
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 5.963745,
+      "Electronic": -5.915265,
+      "Total": 0.048480
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 5.963745,
+      "Electronic": -5.915265,
+      "Total": 0.048480
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 2.26767,
+      "PosZ": 3.77945,
+      "Nuclear": 4.598783,
+      "Electronic": -4.578893,
+      "Total": 0.019889
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 3.77945,
+      "PosZ": -3.77945,
+      "Nuclear": 3.884200,
+      "Electronic": -3.872510,
+      "Total": 0.011690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 3.77945,
+      "PosZ": -2.26767,
+      "Nuclear": 4.598783,
+      "Electronic": -4.578893,
+      "Total": 0.019889
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 5.147591,
+      "Electronic": -5.118833,
+      "Total": 0.028758
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 5.147591,
+      "Electronic": -5.118833,
+      "Total": 0.028758
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 3.77945,
+      "PosZ": 2.26767,
+      "Nuclear": 4.598783,
+      "Electronic": -4.578893,
+      "Total": 0.019889
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 3.77945,
+      "PosZ": 3.77945,
+      "Nuclear": 3.884200,
+      "Electronic": -3.872510,
+      "Total": 0.011690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 5.29123,
+      "PosZ": -0.75589,
+      "Nuclear": 3.884200,
+      "Electronic": -3.872510,
+      "Total": 0.011690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 0.00000,
+      "PosY": 5.29123,
+      "PosZ": 0.75589,
+      "Nuclear": 3.884200,
+      "Electronic": -3.872510,
+      "Total": 0.011690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -5.29123,
+      "PosZ": -0.75589,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -5.29123,
+      "PosZ": 0.75589,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -3.77945,
+      "PosZ": -3.77945,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -3.77945,
+      "PosZ": -2.26767,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -3.77945,
+      "PosZ": 2.26767,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -3.77945,
+      "PosZ": 3.77945,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -2.26767,
+      "PosZ": -3.77945,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 5.747641,
+      "Electronic": -5.722885,
+      "Total": 0.024756
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 5.747641,
+      "Electronic": -5.722885,
+      "Total": 0.024756
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -2.26767,
+      "PosZ": 3.77945,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -0.75589,
+      "PosZ": -5.29123,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": -0.75589,
+      "PosZ": 5.29123,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 0.75589,
+      "PosZ": -5.29123,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 0.75589,
+      "PosZ": 5.29123,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 2.26767,
+      "PosZ": -3.77945,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 5.747641,
+      "Electronic": -5.722885,
+      "Total": 0.024756
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 5.747641,
+      "Electronic": -5.722885,
+      "Total": 0.024756
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 2.26767,
+      "PosZ": 3.77945,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 3.77945,
+      "PosZ": -3.77945,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 3.77945,
+      "PosZ": -2.26767,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 4.977330,
+      "Electronic": -4.960147,
+      "Total": 0.017183
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 3.77945,
+      "PosZ": 2.26767,
+      "Nuclear": 4.461554,
+      "Electronic": -4.448426,
+      "Total": 0.013128
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 3.77945,
+      "PosZ": 3.77945,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 5.29123,
+      "PosZ": -0.75589,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 1.51178,
+      "PosY": 5.29123,
+      "PosZ": 0.75589,
+      "Nuclear": 3.788921,
+      "Electronic": -3.780277,
+      "Total": 0.008644
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -5.29123,
+      "PosZ": -0.75589,
+      "Nuclear": 3.524677,
+      "Electronic": -3.521805,
+      "Total": 0.002872
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -5.29123,
+      "PosZ": 0.75589,
+      "Nuclear": 3.524677,
+      "Electronic": -3.521805,
+      "Total": 0.002872
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -3.77945,
+      "PosZ": -3.77945,
+      "Nuclear": 3.524677,
+      "Electronic": -3.521805,
+      "Total": 0.002872
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -3.77945,
+      "PosZ": -2.26767,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073180,
+      "Total": 0.001973
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 4.485288,
+      "Electronic": -4.485134,
+      "Total": 0.000154
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 4.485288,
+      "Electronic": -4.485134,
+      "Total": 0.000154
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -3.77945,
+      "PosZ": 2.26767,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073180,
+      "Total": 0.001973
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -3.77945,
+      "PosZ": 3.77945,
+      "Nuclear": 3.524677,
+      "Electronic": -3.521805,
+      "Total": 0.002872
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -2.26767,
+      "PosZ": -3.77945,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073180,
+      "Total": 0.001973
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 5.082550,
+      "Electronic": -5.087166,
+      "Total": -0.004616
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 5.082550,
+      "Electronic": -5.087166,
+      "Total": -0.004616
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -2.26767,
+      "PosZ": 3.77945,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073180,
+      "Total": 0.001973
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -0.75589,
+      "PosZ": -5.29123,
+      "Nuclear": 3.524677,
+      "Electronic": -3.521805,
+      "Total": 0.002872
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 4.485288,
+      "Electronic": -4.485134,
+      "Total": 0.000154
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 4.485288,
+      "Electronic": -4.485134,
+      "Total": 0.000154
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": -0.75589,
+      "PosZ": 5.29123,
+      "Nuclear": 3.524677,
+      "Electronic": -3.521805,
+      "Total": 0.002872
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 0.75589,
+      "PosZ": -5.29123,
+      "Nuclear": 3.524677,
+      "Electronic": -3.521805,
+      "Total": 0.002872
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 4.485288,
+      "Electronic": -4.485134,
+      "Total": 0.000154
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 4.485288,
+      "Electronic": -4.485134,
+      "Total": 0.000154
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 0.75589,
+      "PosZ": 5.29123,
+      "Nuclear": 3.524677,
+      "Electronic": -3.521805,
+      "Total": 0.002872
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 2.26767,
+      "PosZ": -3.77945,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073180,
+      "Total": 0.001973
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 5.082550,
+      "Electronic": -5.087166,
+      "Total": -0.004616
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 5.082550,
+      "Electronic": -5.087166,
+      "Total": -0.004616
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 2.26767,
+      "PosZ": 3.77945,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073180,
+      "Total": 0.001973
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 3.77945,
+      "PosZ": -3.77945,
+      "Nuclear": 3.524677,
+      "Electronic": -3.521805,
+      "Total": 0.002872
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 3.77945,
+      "PosZ": -2.26767,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073180,
+      "Total": 0.001973
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 4.485288,
+      "Electronic": -4.485134,
+      "Total": 0.000154
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 4.485288,
+      "Electronic": -4.485134,
+      "Total": 0.000154
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 3.77945,
+      "PosZ": 2.26767,
+      "Nuclear": 4.075152,
+      "Electronic": -4.073180,
+      "Total": 0.001973
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 3.77945,
+      "PosZ": 3.77945,
+      "Nuclear": 3.524677,
+      "Electronic": -3.521805,
+      "Total": 0.002872
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 5.29123,
+      "PosZ": -0.75589,
+      "Nuclear": 3.524677,
+      "Electronic": -3.521805,
+      "Total": 0.002872
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 3.02356,
+      "PosY": 5.29123,
+      "PosZ": 0.75589,
+      "Nuclear": 3.524677,
+      "Electronic": -3.521805,
+      "Total": 0.002872
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": -3.77945,
+      "PosZ": -2.26767,
+      "Nuclear": 3.548123,
+      "Electronic": -3.551693,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": -3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": -3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": -3.77945,
+      "PosZ": 2.26767,
+      "Nuclear": 3.548123,
+      "Electronic": -3.551693,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": -2.26767,
+      "PosZ": -3.77945,
+      "Nuclear": 3.548123,
+      "Electronic": -3.551693,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": -2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 4.175182,
+      "Electronic": -4.186120,
+      "Total": -0.010938
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": -2.26767,
+      "PosZ": -0.75589,
+      "Nuclear": 4.696284,
+      "Electronic": -4.716614,
+      "Total": -0.020329
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": -2.26767,
+      "PosZ": 0.75589,
+      "Nuclear": 4.696284,
+      "Electronic": -4.716614,
+      "Total": -0.020329
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": -2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 4.175182,
+      "Electronic": -4.186120,
+      "Total": -0.010938
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": -2.26767,
+      "PosZ": 3.77945,
+      "Nuclear": 3.548123,
+      "Electronic": -3.551693,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": -0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": -0.75589,
+      "PosZ": -2.26767,
+      "Nuclear": 4.696284,
+      "Electronic": -4.716614,
+      "Total": -0.020329
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": -0.75589,
+      "PosZ": 2.26767,
+      "Nuclear": 4.696284,
+      "Electronic": -4.716614,
+      "Total": -0.020329
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": -0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": 0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": 0.75589,
+      "PosZ": -2.26767,
+      "Nuclear": 4.696284,
+      "Electronic": -4.716614,
+      "Total": -0.020329
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": 0.75589,
+      "PosZ": 2.26767,
+      "Nuclear": 4.696284,
+      "Electronic": -4.716614,
+      "Total": -0.020329
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": 0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": 2.26767,
+      "PosZ": -3.77945,
+      "Nuclear": 3.548123,
+      "Electronic": -3.551693,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": 2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 4.175182,
+      "Electronic": -4.186120,
+      "Total": -0.010938
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": 2.26767,
+      "PosZ": -0.75589,
+      "Nuclear": 4.696284,
+      "Electronic": -4.716614,
+      "Total": -0.020329
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": 2.26767,
+      "PosZ": 0.75589,
+      "Nuclear": 4.696284,
+      "Electronic": -4.716614,
+      "Total": -0.020329
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": 2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 4.175182,
+      "Electronic": -4.186120,
+      "Total": -0.010938
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": 2.26767,
+      "PosZ": 3.77945,
+      "Nuclear": 3.548123,
+      "Electronic": -3.551693,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": 3.77945,
+      "PosZ": -2.26767,
+      "Nuclear": 3.548123,
+      "Electronic": -3.551693,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": 3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": 3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 3.817324,
+      "Electronic": -3.823520,
+      "Total": -0.006196
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 4.53534,
+      "PosY": 3.77945,
+      "PosZ": 2.26767,
+      "Nuclear": 3.548123,
+      "Electronic": -3.551693,
+      "Total": -0.003570
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": -3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": -3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": -2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 3.383312,
+      "Electronic": -3.391793,
+      "Total": -0.008481
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": -2.26767,
+      "PosZ": -0.75589,
+      "Nuclear": 3.628880,
+      "Electronic": -3.641099,
+      "Total": -0.012219
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": -2.26767,
+      "PosZ": 0.75589,
+      "Nuclear": 3.628880,
+      "Electronic": -3.641099,
+      "Total": -0.012219
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": -2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 3.383312,
+      "Electronic": -3.391793,
+      "Total": -0.008481
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": -0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": -0.75589,
+      "PosZ": -2.26767,
+      "Nuclear": 3.628880,
+      "Electronic": -3.641099,
+      "Total": -0.012219
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": -0.75589,
+      "PosZ": -0.75589,
+      "Nuclear": 3.955894,
+      "Electronic": -3.974185,
+      "Total": -0.018291
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": -0.75589,
+      "PosZ": 0.75589,
+      "Nuclear": 3.955894,
+      "Electronic": -3.974185,
+      "Total": -0.018291
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": -0.75589,
+      "PosZ": 2.26767,
+      "Nuclear": 3.628880,
+      "Electronic": -3.641099,
+      "Total": -0.012219
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": -0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": 0.75589,
+      "PosZ": -3.77945,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": 0.75589,
+      "PosZ": -2.26767,
+      "Nuclear": 3.628880,
+      "Electronic": -3.641099,
+      "Total": -0.012219
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": 0.75589,
+      "PosZ": -0.75589,
+      "Nuclear": 3.955894,
+      "Electronic": -3.974185,
+      "Total": -0.018291
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": 0.75589,
+      "PosZ": 0.75589,
+      "Nuclear": 3.955894,
+      "Electronic": -3.974185,
+      "Total": -0.018291
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": 0.75589,
+      "PosZ": 2.26767,
+      "Nuclear": 3.628880,
+      "Electronic": -3.641099,
+      "Total": -0.012219
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": 0.75589,
+      "PosZ": 3.77945,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": 2.26767,
+      "PosZ": -2.26767,
+      "Nuclear": 3.383312,
+      "Electronic": -3.391793,
+      "Total": -0.008481
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": 2.26767,
+      "PosZ": -0.75589,
+      "Nuclear": 3.628880,
+      "Electronic": -3.641099,
+      "Total": -0.012219
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": 2.26767,
+      "PosZ": 0.75589,
+      "Nuclear": 3.628880,
+      "Electronic": -3.641099,
+      "Total": -0.012219
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": 2.26767,
+      "PosZ": 2.26767,
+      "Nuclear": 3.383312,
+      "Electronic": -3.391793,
+      "Total": -0.008481
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": 3.77945,
+      "PosZ": -0.75589,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 6.04712,
+      "PosY": 3.77945,
+      "PosZ": 0.75589,
+      "Nuclear": 3.188237,
+      "Electronic": -3.194290,
+      "Total": -0.006053
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 7.55890,
+      "PosY": -0.75589,
+      "PosZ": -0.75589,
+      "Nuclear": 3.071317,
+      "Electronic": -3.080680,
+      "Total": -0.009363
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 7.55890,
+      "PosY": -0.75589,
+      "PosZ": 0.75589,
+      "Nuclear": 3.071317,
+      "Electronic": -3.080680,
+      "Total": -0.009363
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 7.55890,
+      "PosY": 0.75589,
+      "PosZ": -0.75589,
+      "Nuclear": 3.071317,
+      "Electronic": -3.080680,
+      "Total": -0.009363
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 1,
+      "PosX": 7.55890,
+      "PosY": 0.75589,
+      "PosZ": 0.75589,
+      "Nuclear": 3.071317,
+      "Electronic": -3.080680,
+      "Total": -0.009363
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -2.08632,
+      "PosZ": 3.37574,
+      "Nuclear": 5.024711,
+      "Electronic": -4.998182,
+      "Total": 0.026529
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.29560,
+      "PosY": -1.60145,
+      "PosZ": 3.39193,
+      "Nuclear": 5.133656,
+      "Electronic": -5.112592,
+      "Total": 0.021064
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -0.80073,
+      "PosZ": 3.88680,
+      "Nuclear": 5.024711,
+      "Electronic": -4.998182,
+      "Total": 0.026529
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.41602,
+      "PosY": 0.00000,
+      "PosZ": 3.70719,
+      "Nuclear": 5.156422,
+      "Electronic": -5.136498,
+      "Total": 0.019923
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 0.80073,
+      "PosZ": 3.88680,
+      "Nuclear": 5.024711,
+      "Electronic": -4.998182,
+      "Total": 0.026529
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.29560,
+      "PosY": 1.60145,
+      "PosZ": 3.39193,
+      "Nuclear": 5.133656,
+      "Electronic": -5.112592,
+      "Total": 0.021064
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 2.08632,
+      "PosZ": 3.37574,
+      "Nuclear": 5.024711,
+      "Electronic": -4.998182,
+      "Total": 0.026529
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.80073,
+      "PosY": -2.89705,
+      "PosZ": 2.59120,
+      "Nuclear": 5.064813,
+      "Electronic": -5.040297,
+      "Total": 0.024516
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.80073,
+      "PosY": 2.89705,
+      "PosZ": 2.59120,
+      "Nuclear": 5.064813,
+      "Electronic": -5.040297,
+      "Total": 0.024516
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -2.08632,
+      "PosZ": -3.37574,
+      "Nuclear": 5.024711,
+      "Electronic": -4.998182,
+      "Total": 0.026529
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.29560,
+      "PosY": -1.60145,
+      "PosZ": -3.39193,
+      "Nuclear": 5.133656,
+      "Electronic": -5.112592,
+      "Total": 0.021064
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.80073,
+      "PosY": -2.89705,
+      "PosZ": -2.59120,
+      "Nuclear": 5.064813,
+      "Electronic": -5.040297,
+      "Total": 0.024516
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 2.08632,
+      "PosZ": -3.37574,
+      "Nuclear": 5.024711,
+      "Electronic": -4.998182,
+      "Total": 0.026529
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.29560,
+      "PosY": 1.60145,
+      "PosZ": -3.39193,
+      "Nuclear": 5.133656,
+      "Electronic": -5.112592,
+      "Total": 0.021064
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 0.80073,
+      "PosZ": -3.88680,
+      "Nuclear": 5.024711,
+      "Electronic": -4.998182,
+      "Total": 0.026529
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.41602,
+      "PosY": 0.00000,
+      "PosZ": -3.70719,
+      "Nuclear": 5.156422,
+      "Electronic": -5.136498,
+      "Total": 0.019923
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -0.80073,
+      "PosZ": -3.88680,
+      "Nuclear": 5.024711,
+      "Electronic": -4.998182,
+      "Total": 0.026529
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.80073,
+      "PosY": 2.89705,
+      "PosZ": -2.59120,
+      "Nuclear": 5.064813,
+      "Electronic": -5.040297,
+      "Total": 0.024516
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.80073,
+      "PosY": 3.88680,
+      "PosZ": 0.00000,
+      "Nuclear": 5.064813,
+      "Electronic": -5.040297,
+      "Total": 0.024516
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -0.80072,
+      "PosY": 3.88680,
+      "PosZ": 0.00000,
+      "Nuclear": 5.064813,
+      "Electronic": -5.040297,
+      "Total": 0.024516
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 3.70719,
+      "PosZ": 1.41602,
+      "Nuclear": 5.024711,
+      "Electronic": -4.998182,
+      "Total": 0.026529
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -0.80072,
+      "PosY": 2.89705,
+      "PosZ": 2.59120,
+      "Nuclear": 5.064813,
+      "Electronic": -5.040297,
+      "Total": 0.024516
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 3.70719,
+      "PosZ": -1.41602,
+      "Nuclear": 5.024711,
+      "Electronic": -4.998182,
+      "Total": 0.026529
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -0.80072,
+      "PosY": 2.89705,
+      "PosZ": -2.59120,
+      "Nuclear": 5.064813,
+      "Electronic": -5.040297,
+      "Total": 0.024516
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.29560,
+      "PosY": 1.60145,
+      "PosZ": -3.39193,
+      "Nuclear": 5.133657,
+      "Electronic": -5.112593,
+      "Total": 0.021064
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.41602,
+      "PosY": 0.00000,
+      "PosZ": -3.70719,
+      "Nuclear": 5.156422,
+      "Electronic": -5.136499,
+      "Total": 0.019923
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.29560,
+      "PosY": -1.60145,
+      "PosZ": -3.39193,
+      "Nuclear": 5.133657,
+      "Electronic": -5.112593,
+      "Total": 0.021064
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.29560,
+      "PosY": 1.60145,
+      "PosZ": 3.39193,
+      "Nuclear": 5.133657,
+      "Electronic": -5.112593,
+      "Total": 0.021064
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -0.80072,
+      "PosY": -2.89705,
+      "PosZ": -2.59120,
+      "Nuclear": 5.064813,
+      "Electronic": -5.040297,
+      "Total": 0.024516
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -0.80072,
+      "PosY": -3.88680,
+      "PosZ": 0.00000,
+      "Nuclear": 5.064813,
+      "Electronic": -5.040297,
+      "Total": 0.024516
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -3.70719,
+      "PosZ": -1.41602,
+      "Nuclear": 5.024711,
+      "Electronic": -4.998182,
+      "Total": 0.026529
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.80073,
+      "PosY": -3.88680,
+      "PosZ": 0.00000,
+      "Nuclear": 5.064813,
+      "Electronic": -5.040297,
+      "Total": 0.024516
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.29560,
+      "PosY": -1.60145,
+      "PosZ": 3.39193,
+      "Nuclear": 5.133657,
+      "Electronic": -5.112593,
+      "Total": 0.021064
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -0.80072,
+      "PosY": -2.89705,
+      "PosZ": 2.59120,
+      "Nuclear": 5.064813,
+      "Electronic": -5.040297,
+      "Total": 0.024516
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -3.70719,
+      "PosZ": 1.41602,
+      "Nuclear": 5.024711,
+      "Electronic": -4.998182,
+      "Total": 0.026529
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.41602,
+      "PosY": 0.00000,
+      "PosZ": 3.70719,
+      "Nuclear": 5.156422,
+      "Electronic": -5.136499,
+      "Total": 0.019923
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -1.94724,
+      "PosZ": 3.15069,
+      "Nuclear": 4.924668,
+      "Electronic": -4.916501,
+      "Total": 0.008167
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -0.74734,
+      "PosZ": 3.62768,
+      "Nuclear": 4.924668,
+      "Electronic": -4.916501,
+      "Total": 0.008167
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 0.74734,
+      "PosZ": 3.62768,
+      "Nuclear": 4.924668,
+      "Electronic": -4.916501,
+      "Total": 0.008167
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 1.94724,
+      "PosZ": 3.15069,
+      "Nuclear": 4.924668,
+      "Electronic": -4.916501,
+      "Total": 0.008167
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -1.94724,
+      "PosZ": -3.15069,
+      "Nuclear": 4.924668,
+      "Electronic": -4.916501,
+      "Total": 0.008167
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 1.94724,
+      "PosZ": -3.15069,
+      "Nuclear": 4.924668,
+      "Electronic": -4.916501,
+      "Total": 0.008167
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 0.74734,
+      "PosZ": -3.62768,
+      "Nuclear": 4.924668,
+      "Electronic": -4.916501,
+      "Total": 0.008167
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -0.74734,
+      "PosZ": -3.62768,
+      "Nuclear": 4.924668,
+      "Electronic": -4.916501,
+      "Total": 0.008167
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.98293,
+      "PosY": 3.62768,
+      "PosZ": 0.00000,
+      "Nuclear": 4.696173,
+      "Electronic": -4.696910,
+      "Total": -0.000737
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.18282,
+      "PosY": 3.15069,
+      "PosZ": 0.00000,
+      "Nuclear": 4.424548,
+      "Electronic": -4.436002,
+      "Total": -0.011453
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 3.46005,
+      "PosZ": 1.32162,
+      "Nuclear": 4.924668,
+      "Electronic": -4.916501,
+      "Total": 0.008167
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.73027,
+      "PosY": 3.16580,
+      "PosZ": 1.20923,
+      "Nuclear": 4.516412,
+      "Electronic": -4.524252,
+      "Total": -0.007840
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.98293,
+      "PosY": 2.70391,
+      "PosZ": 2.41845,
+      "Nuclear": 4.696173,
+      "Electronic": -4.696910,
+      "Total": -0.000737
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.73027,
+      "PosY": 3.16580,
+      "PosZ": -1.20923,
+      "Nuclear": 4.516412,
+      "Electronic": -4.524252,
+      "Total": -0.007840
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 3.46005,
+      "PosZ": -1.32162,
+      "Nuclear": 4.924668,
+      "Electronic": -4.916501,
+      "Total": 0.008167
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.98293,
+      "PosY": 2.70391,
+      "PosZ": -2.41845,
+      "Nuclear": 4.696173,
+      "Electronic": -4.696910,
+      "Total": -0.000737
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.93950,
+      "PosY": 2.41845,
+      "PosZ": -0.74734,
+      "Nuclear": 4.292380,
+      "Electronic": -4.308902,
+      "Total": -0.016521
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.37401,
+      "PosY": 2.13843,
+      "PosZ": -2.13843,
+      "Nuclear": 4.388844,
+      "Electronic": -4.401688,
+      "Total": -0.012844
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.44481,
+      "PosY": 1.49469,
+      "PosZ": -3.16580,
+      "Nuclear": 4.580460,
+      "Electronic": -4.585767,
+      "Total": -0.005307
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.40138,
+      "PosY": 1.20923,
+      "PosZ": -1.49469,
+      "Nuclear": 4.222257,
+      "Electronic": -4.241334,
+      "Total": -0.019078
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.65404,
+      "PosY": 0.74734,
+      "PosZ": -2.70391,
+      "Nuclear": 4.339474,
+      "Electronic": -4.354217,
+      "Total": -0.014743
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.38628,
+      "PosY": 0.00000,
+      "PosZ": -1.94724,
+      "Nuclear": 4.224441,
+      "Electronic": -4.243441,
+      "Total": -0.019000
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.65404,
+      "PosY": -0.74734,
+      "PosZ": -2.70391,
+      "Nuclear": 4.339474,
+      "Electronic": -4.354217,
+      "Total": -0.014743
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.55721,
+      "PosY": 0.00000,
+      "PosZ": -3.46005,
+      "Nuclear": 4.554624,
+      "Electronic": -4.560953,
+      "Total": -0.006329
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.44481,
+      "PosY": -1.49469,
+      "PosZ": -3.16580,
+      "Nuclear": 4.580460,
+      "Electronic": -4.585767,
+      "Total": -0.005307
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.44481,
+      "PosY": 1.49469,
+      "PosZ": 3.16580,
+      "Nuclear": 4.580460,
+      "Electronic": -4.585767,
+      "Total": -0.005307
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.37401,
+      "PosY": 2.13843,
+      "PosZ": 2.13843,
+      "Nuclear": 4.388844,
+      "Electronic": -4.401688,
+      "Total": -0.012844
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.93950,
+      "PosY": 2.41845,
+      "PosZ": 0.74734,
+      "Nuclear": 4.292380,
+      "Electronic": -4.308902,
+      "Total": -0.016521
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.65404,
+      "PosY": 0.74734,
+      "PosZ": 2.70391,
+      "Nuclear": 4.339474,
+      "Electronic": -4.354217,
+      "Total": -0.014743
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.40138,
+      "PosY": 1.20923,
+      "PosZ": 1.49469,
+      "Nuclear": 4.222257,
+      "Electronic": -4.241334,
+      "Total": -0.019078
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.38628,
+      "PosY": 0.00000,
+      "PosZ": 1.94724,
+      "Nuclear": 4.224441,
+      "Electronic": -4.243441,
+      "Total": -0.019000
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.86327,
+      "PosY": 0.00000,
+      "PosZ": 0.74734,
+      "Nuclear": 4.158630,
+      "Electronic": -4.179890,
+      "Total": -0.021260
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.69563,
+      "PosY": 1.32162,
+      "PosZ": 0.00000,
+      "Nuclear": 4.181036,
+      "Electronic": -4.201545,
+      "Total": -0.020510
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.86327,
+      "PosY": 0.00000,
+      "PosZ": -0.74734,
+      "Nuclear": 4.158630,
+      "Electronic": -4.179890,
+      "Total": -0.021260
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.18282,
+      "PosY": -3.15069,
+      "PosZ": 0.00000,
+      "Nuclear": 4.424548,
+      "Electronic": -4.436002,
+      "Total": -0.011453
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.93950,
+      "PosY": -2.41845,
+      "PosZ": 0.74734,
+      "Nuclear": 4.292380,
+      "Electronic": -4.308902,
+      "Total": -0.016521
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.40138,
+      "PosY": -1.20923,
+      "PosZ": 1.49469,
+      "Nuclear": 4.222257,
+      "Electronic": -4.241334,
+      "Total": -0.019078
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.93950,
+      "PosY": -2.41845,
+      "PosZ": -0.74734,
+      "Nuclear": 4.292380,
+      "Electronic": -4.308902,
+      "Total": -0.016521
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.69563,
+      "PosY": -1.32162,
+      "PosZ": 0.00000,
+      "Nuclear": 4.181036,
+      "Electronic": -4.201545,
+      "Total": -0.020510
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.40138,
+      "PosY": -1.20923,
+      "PosZ": -1.49469,
+      "Nuclear": 4.222257,
+      "Electronic": -4.241334,
+      "Total": -0.019078
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.98293,
+      "PosY": -2.70391,
+      "PosZ": -2.41845,
+      "Nuclear": 4.696173,
+      "Electronic": -4.696910,
+      "Total": -0.000737
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.73027,
+      "PosY": -3.16580,
+      "PosZ": -1.20923,
+      "Nuclear": 4.516412,
+      "Electronic": -4.524252,
+      "Total": -0.007840
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.37401,
+      "PosY": -2.13843,
+      "PosZ": -2.13843,
+      "Nuclear": 4.388844,
+      "Electronic": -4.401688,
+      "Total": -0.012844
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.98293,
+      "PosY": -3.62768,
+      "PosZ": 0.00000,
+      "Nuclear": 4.696173,
+      "Electronic": -4.696910,
+      "Total": -0.000737
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -3.46005,
+      "PosZ": -1.32162,
+      "Nuclear": 4.924668,
+      "Electronic": -4.916501,
+      "Total": 0.008167
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.65404,
+      "PosY": -0.74734,
+      "PosZ": 2.70391,
+      "Nuclear": 4.339474,
+      "Electronic": -4.354217,
+      "Total": -0.014743
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.37401,
+      "PosY": -2.13843,
+      "PosZ": 2.13843,
+      "Nuclear": 4.388844,
+      "Electronic": -4.401688,
+      "Total": -0.012844
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.73027,
+      "PosY": -3.16580,
+      "PosZ": 1.20923,
+      "Nuclear": 4.516412,
+      "Electronic": -4.524252,
+      "Total": -0.007840
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.44481,
+      "PosY": -1.49469,
+      "PosZ": 3.16580,
+      "Nuclear": 4.580460,
+      "Electronic": -4.585767,
+      "Total": -0.005307
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.98293,
+      "PosY": -2.70391,
+      "PosZ": 2.41845,
+      "Nuclear": 4.696173,
+      "Electronic": -4.696910,
+      "Total": -0.000737
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -3.46005,
+      "PosZ": 1.32162,
+      "Nuclear": 4.924668,
+      "Electronic": -4.916501,
+      "Total": 0.008167
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.55721,
+      "PosY": 0.00000,
+      "PosZ": 3.46005,
+      "Nuclear": 4.554624,
+      "Electronic": -4.560953,
+      "Total": -0.006329
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -1.94724,
+      "PosZ": 3.15069,
+      "Nuclear": 4.924669,
+      "Electronic": -4.916501,
+      "Total": 0.008168
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.44481,
+      "PosY": -1.49469,
+      "PosZ": 3.16580,
+      "Nuclear": 4.580461,
+      "Electronic": -4.585767,
+      "Total": -0.005306
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.65404,
+      "PosY": -0.74734,
+      "PosZ": 2.70391,
+      "Nuclear": 4.339475,
+      "Electronic": -4.354218,
+      "Total": -0.014743
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.38628,
+      "PosY": 0.00000,
+      "PosZ": 1.94724,
+      "Nuclear": 4.224442,
+      "Electronic": -4.243442,
+      "Total": -0.019000
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -0.74734,
+      "PosZ": 3.62768,
+      "Nuclear": 4.924669,
+      "Electronic": -4.916501,
+      "Total": 0.008168
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.55720,
+      "PosY": 0.00000,
+      "PosZ": 3.46005,
+      "Nuclear": 4.554625,
+      "Electronic": -4.560953,
+      "Total": -0.006329
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.65404,
+      "PosY": 0.74734,
+      "PosZ": 2.70391,
+      "Nuclear": 4.339475,
+      "Electronic": -4.354218,
+      "Total": -0.014743
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 0.74734,
+      "PosZ": 3.62768,
+      "Nuclear": 4.924669,
+      "Electronic": -4.916501,
+      "Total": 0.008168
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.44481,
+      "PosY": 1.49469,
+      "PosZ": 3.16580,
+      "Nuclear": 4.580461,
+      "Electronic": -4.585767,
+      "Total": -0.005306
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 1.94724,
+      "PosZ": 3.15069,
+      "Nuclear": 4.924669,
+      "Electronic": -4.916501,
+      "Total": 0.008168
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.18282,
+      "PosY": -3.15069,
+      "PosZ": 0.00000,
+      "Nuclear": 4.424549,
+      "Electronic": -4.436002,
+      "Total": -0.011453
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.93950,
+      "PosY": -2.41845,
+      "PosZ": 0.74734,
+      "Nuclear": 4.292381,
+      "Electronic": -4.308902,
+      "Total": -0.016521
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.40138,
+      "PosY": -1.20923,
+      "PosZ": 1.49469,
+      "Nuclear": 4.222258,
+      "Electronic": -4.241335,
+      "Total": -0.019077
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.73027,
+      "PosY": -3.16580,
+      "PosZ": 1.20923,
+      "Nuclear": 4.516413,
+      "Electronic": -4.524252,
+      "Total": -0.007839
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.37401,
+      "PosY": -2.13843,
+      "PosZ": 2.13843,
+      "Nuclear": 4.388845,
+      "Electronic": -4.401688,
+      "Total": -0.012843
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.98293,
+      "PosY": -2.70391,
+      "PosZ": 2.41845,
+      "Nuclear": 4.696174,
+      "Electronic": -4.696911,
+      "Total": -0.000736
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.40138,
+      "PosY": 1.20923,
+      "PosZ": 1.49469,
+      "Nuclear": 4.222258,
+      "Electronic": -4.241335,
+      "Total": -0.019077
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.93950,
+      "PosY": 2.41845,
+      "PosZ": 0.74734,
+      "Nuclear": 4.292381,
+      "Electronic": -4.308902,
+      "Total": -0.016521
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.18282,
+      "PosY": 3.15069,
+      "PosZ": 0.00000,
+      "Nuclear": 4.424549,
+      "Electronic": -4.436002,
+      "Total": -0.011453
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.37401,
+      "PosY": 2.13843,
+      "PosZ": 2.13843,
+      "Nuclear": 4.388845,
+      "Electronic": -4.401688,
+      "Total": -0.012843
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.73027,
+      "PosY": 3.16580,
+      "PosZ": 1.20923,
+      "Nuclear": 4.516413,
+      "Electronic": -4.524252,
+      "Total": -0.007839
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.98293,
+      "PosY": 2.70391,
+      "PosZ": 2.41845,
+      "Nuclear": 4.696174,
+      "Electronic": -4.696911,
+      "Total": -0.000736
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.93950,
+      "PosY": 2.41845,
+      "PosZ": -0.74734,
+      "Nuclear": 4.292381,
+      "Electronic": -4.308902,
+      "Total": -0.016521
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.69563,
+      "PosY": 1.32162,
+      "PosZ": 0.00000,
+      "Nuclear": 4.181037,
+      "Electronic": -4.201546,
+      "Total": -0.020509
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.86327,
+      "PosY": 0.00000,
+      "PosZ": 0.74734,
+      "Nuclear": 4.158631,
+      "Electronic": -4.179891,
+      "Total": -0.021260
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.40138,
+      "PosY": 1.20923,
+      "PosZ": -1.49469,
+      "Nuclear": 4.222258,
+      "Electronic": -4.241335,
+      "Total": -0.019077
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.86327,
+      "PosY": 0.00000,
+      "PosZ": -0.74734,
+      "Nuclear": 4.158631,
+      "Electronic": -4.179891,
+      "Total": -0.021260
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.38628,
+      "PosY": 0.00000,
+      "PosZ": -1.94724,
+      "Nuclear": 4.224442,
+      "Electronic": -4.243442,
+      "Total": -0.019000
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.93950,
+      "PosY": -2.41845,
+      "PosZ": -0.74734,
+      "Nuclear": 4.292381,
+      "Electronic": -4.308902,
+      "Total": -0.016521
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.40138,
+      "PosY": -1.20923,
+      "PosZ": -1.49469,
+      "Nuclear": 4.222258,
+      "Electronic": -4.241335,
+      "Total": -0.019077
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.69563,
+      "PosY": -1.32162,
+      "PosZ": 0.00000,
+      "Nuclear": 4.181037,
+      "Electronic": -4.201546,
+      "Total": -0.020509
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -1.94724,
+      "PosZ": -3.15069,
+      "Nuclear": 4.924669,
+      "Electronic": -4.916501,
+      "Total": 0.008168
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.44481,
+      "PosY": -1.49469,
+      "PosZ": -3.16580,
+      "Nuclear": 4.580461,
+      "Electronic": -4.585767,
+      "Total": -0.005306
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.65404,
+      "PosY": -0.74734,
+      "PosZ": -2.70391,
+      "Nuclear": 4.339475,
+      "Electronic": -4.354218,
+      "Total": -0.014743
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.98293,
+      "PosY": -2.70391,
+      "PosZ": -2.41845,
+      "Nuclear": 4.696174,
+      "Electronic": -4.696911,
+      "Total": -0.000736
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.37401,
+      "PosY": -2.13843,
+      "PosZ": -2.13843,
+      "Nuclear": 4.388845,
+      "Electronic": -4.401688,
+      "Total": -0.012843
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.73027,
+      "PosY": -3.16580,
+      "PosZ": -1.20923,
+      "Nuclear": 4.516413,
+      "Electronic": -4.524252,
+      "Total": -0.007839
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 1.94724,
+      "PosZ": -3.15069,
+      "Nuclear": 4.924669,
+      "Electronic": -4.916501,
+      "Total": 0.008168
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.44481,
+      "PosY": 1.49469,
+      "PosZ": -3.16580,
+      "Nuclear": 4.580461,
+      "Electronic": -4.585767,
+      "Total": -0.005306
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.65404,
+      "PosY": 0.74734,
+      "PosZ": -2.70391,
+      "Nuclear": 4.339475,
+      "Electronic": -4.354218,
+      "Total": -0.014743
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 0.74734,
+      "PosZ": -3.62768,
+      "Nuclear": 4.924669,
+      "Electronic": -4.916501,
+      "Total": 0.008168
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.55720,
+      "PosY": 0.00000,
+      "PosZ": -3.46005,
+      "Nuclear": 4.554625,
+      "Electronic": -4.560953,
+      "Total": -0.006329
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -0.74734,
+      "PosZ": -3.62768,
+      "Nuclear": 4.924669,
+      "Electronic": -4.916501,
+      "Total": 0.008168
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.73027,
+      "PosY": 3.16580,
+      "PosZ": -1.20923,
+      "Nuclear": 4.516413,
+      "Electronic": -4.524252,
+      "Total": -0.007839
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.37401,
+      "PosY": 2.13843,
+      "PosZ": -2.13843,
+      "Nuclear": 4.388845,
+      "Electronic": -4.401688,
+      "Total": -0.012843
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.98293,
+      "PosY": 2.70391,
+      "PosZ": -2.41845,
+      "Nuclear": 4.696174,
+      "Electronic": -4.696911,
+      "Total": -0.000736
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.98293,
+      "PosY": 3.62768,
+      "PosZ": 0.00000,
+      "Nuclear": 4.696174,
+      "Electronic": -4.696911,
+      "Total": -0.000736
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 3.46005,
+      "PosZ": 1.32162,
+      "Nuclear": 4.924669,
+      "Electronic": -4.916501,
+      "Total": 0.008168
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 3.46005,
+      "PosZ": -1.32162,
+      "Nuclear": 4.924669,
+      "Electronic": -4.916501,
+      "Total": 0.008168
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -3.46005,
+      "PosZ": -1.32162,
+      "Nuclear": 4.924669,
+      "Electronic": -4.916501,
+      "Total": 0.008168
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.98293,
+      "PosY": -3.62768,
+      "PosZ": 0.00000,
+      "Nuclear": 4.696174,
+      "Electronic": -4.696911,
+      "Total": -0.000736
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -3.46005,
+      "PosZ": 1.32162,
+      "Nuclear": 4.924669,
+      "Electronic": -4.916501,
+      "Total": 0.008168
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -2.38437,
+      "PosZ": 3.85799,
+      "Nuclear": 4.487251,
+      "Electronic": -4.468859,
+      "Total": 0.018392
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.48069,
+      "PosY": -1.83023,
+      "PosZ": 3.87649,
+      "Nuclear": 4.570932,
+      "Electronic": -4.556773,
+      "Total": 0.014159
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -0.91511,
+      "PosZ": 4.44206,
+      "Nuclear": 4.487251,
+      "Electronic": -4.468859,
+      "Total": 0.018392
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.61831,
+      "PosY": 0.00000,
+      "PosZ": 4.23679,
+      "Nuclear": 4.588236,
+      "Electronic": -4.574955,
+      "Total": 0.013282
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 0.91511,
+      "PosZ": 4.44206,
+      "Nuclear": 4.487251,
+      "Electronic": -4.468859,
+      "Total": 0.018392
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.48069,
+      "PosY": 1.83023,
+      "PosZ": 3.87649,
+      "Nuclear": 4.570932,
+      "Electronic": -4.556773,
+      "Total": 0.014159
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 2.38437,
+      "PosZ": 3.85799,
+      "Nuclear": 4.487251,
+      "Electronic": -4.468859,
+      "Total": 0.018392
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.91512,
+      "PosY": -3.31092,
+      "PosZ": 2.96137,
+      "Nuclear": 4.518221,
+      "Electronic": -4.501394,
+      "Total": 0.016827
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.91512,
+      "PosY": 3.31092,
+      "PosZ": 2.96137,
+      "Nuclear": 4.518221,
+      "Electronic": -4.501394,
+      "Total": 0.016827
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -2.38437,
+      "PosZ": -3.85799,
+      "Nuclear": 4.487251,
+      "Electronic": -4.468859,
+      "Total": 0.018392
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.48069,
+      "PosY": -1.83023,
+      "PosZ": -3.87649,
+      "Nuclear": 4.570932,
+      "Electronic": -4.556773,
+      "Total": 0.014159
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.91512,
+      "PosY": -3.31092,
+      "PosZ": -2.96137,
+      "Nuclear": 4.518221,
+      "Electronic": -4.501394,
+      "Total": 0.016827
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 2.38437,
+      "PosZ": -3.85799,
+      "Nuclear": 4.487251,
+      "Electronic": -4.468859,
+      "Total": 0.018392
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.48069,
+      "PosY": 1.83023,
+      "PosZ": -3.87649,
+      "Nuclear": 4.570932,
+      "Electronic": -4.556773,
+      "Total": 0.014159
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 0.91511,
+      "PosZ": -4.44206,
+      "Nuclear": 4.487251,
+      "Electronic": -4.468859,
+      "Total": 0.018392
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.61831,
+      "PosY": 0.00000,
+      "PosZ": -4.23679,
+      "Nuclear": 4.588236,
+      "Electronic": -4.574955,
+      "Total": 0.013282
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -0.91511,
+      "PosZ": -4.44206,
+      "Nuclear": 4.487251,
+      "Electronic": -4.468859,
+      "Total": 0.018392
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.91512,
+      "PosY": 3.31092,
+      "PosZ": -2.96137,
+      "Nuclear": 4.518221,
+      "Electronic": -4.501394,
+      "Total": 0.016827
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.91512,
+      "PosY": 4.44206,
+      "PosZ": 0.00000,
+      "Nuclear": 4.518221,
+      "Electronic": -4.501394,
+      "Total": 0.016827
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -0.91511,
+      "PosY": 4.44206,
+      "PosZ": 0.00000,
+      "Nuclear": 4.518221,
+      "Electronic": -4.501394,
+      "Total": 0.016827
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 4.23679,
+      "PosZ": 1.61831,
+      "Nuclear": 4.487251,
+      "Electronic": -4.468859,
+      "Total": 0.018392
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -0.91511,
+      "PosY": 3.31092,
+      "PosZ": 2.96137,
+      "Nuclear": 4.518221,
+      "Electronic": -4.501394,
+      "Total": 0.016827
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 4.23679,
+      "PosZ": -1.61831,
+      "Nuclear": 4.487251,
+      "Electronic": -4.468859,
+      "Total": 0.018392
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -0.91511,
+      "PosY": 3.31092,
+      "PosZ": -2.96137,
+      "Nuclear": 4.518221,
+      "Electronic": -4.501394,
+      "Total": 0.016827
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.48068,
+      "PosY": 1.83023,
+      "PosZ": -3.87649,
+      "Nuclear": 4.570933,
+      "Electronic": -4.556774,
+      "Total": 0.014159
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.61831,
+      "PosY": 0.00000,
+      "PosZ": -4.23679,
+      "Nuclear": 4.588237,
+      "Electronic": -4.574955,
+      "Total": 0.013281
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.48068,
+      "PosY": -1.83023,
+      "PosZ": -3.87649,
+      "Nuclear": 4.570933,
+      "Electronic": -4.556774,
+      "Total": 0.014159
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.48068,
+      "PosY": 1.83023,
+      "PosZ": 3.87649,
+      "Nuclear": 4.570933,
+      "Electronic": -4.556774,
+      "Total": 0.014159
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -0.91511,
+      "PosY": -3.31092,
+      "PosZ": -2.96137,
+      "Nuclear": 4.518221,
+      "Electronic": -4.501394,
+      "Total": 0.016827
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -0.91511,
+      "PosY": -4.44206,
+      "PosZ": 0.00000,
+      "Nuclear": 4.518221,
+      "Electronic": -4.501394,
+      "Total": 0.016827
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -4.23679,
+      "PosZ": -1.61831,
+      "Nuclear": 4.487251,
+      "Electronic": -4.468859,
+      "Total": 0.018392
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.91512,
+      "PosY": -4.44206,
+      "PosZ": 0.00000,
+      "Nuclear": 4.518221,
+      "Electronic": -4.501394,
+      "Total": 0.016827
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.48068,
+      "PosY": -1.83023,
+      "PosZ": 3.87649,
+      "Nuclear": 4.570933,
+      "Electronic": -4.556774,
+      "Total": 0.014159
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -0.91511,
+      "PosY": -3.31092,
+      "PosZ": 2.96137,
+      "Nuclear": 4.518221,
+      "Electronic": -4.501394,
+      "Total": 0.016827
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -4.23679,
+      "PosZ": 1.61831,
+      "Nuclear": 4.487251,
+      "Electronic": -4.468859,
+      "Total": 0.018392
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.61831,
+      "PosY": 0.00000,
+      "PosZ": 4.23679,
+      "Nuclear": 4.588237,
+      "Electronic": -4.574955,
+      "Total": 0.013281
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -2.22541,
+      "PosZ": 3.60079,
+      "Nuclear": 4.442615,
+      "Electronic": -4.434926,
+      "Total": 0.007689
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -0.85411,
+      "PosZ": 4.14592,
+      "Nuclear": 4.442615,
+      "Electronic": -4.434926,
+      "Total": 0.007689
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 0.85411,
+      "PosZ": 4.14592,
+      "Nuclear": 4.442615,
+      "Electronic": -4.434926,
+      "Total": 0.007689
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 2.22541,
+      "PosZ": 3.60079,
+      "Nuclear": 4.442615,
+      "Electronic": -4.434926,
+      "Total": 0.007689
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -2.22541,
+      "PosZ": -3.60079,
+      "Nuclear": 4.442615,
+      "Electronic": -4.434926,
+      "Total": 0.007689
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 2.22541,
+      "PosZ": -3.60079,
+      "Nuclear": 4.442615,
+      "Electronic": -4.434926,
+      "Total": 0.007689
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 0.85411,
+      "PosZ": -4.14592,
+      "Nuclear": 4.442615,
+      "Electronic": -4.434926,
+      "Total": 0.007689
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -0.85411,
+      "PosZ": -4.14592,
+      "Nuclear": 4.442615,
+      "Electronic": -4.434926,
+      "Total": 0.007689
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.08969,
+      "PosY": 4.14592,
+      "PosZ": 0.00000,
+      "Nuclear": 4.235714,
+      "Electronic": -4.234862,
+      "Total": 0.000852
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.46100,
+      "PosY": 3.60079,
+      "PosZ": 0.00000,
+      "Nuclear": 3.988685,
+      "Electronic": -3.996425,
+      "Total": -0.007740
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 3.95434,
+      "PosZ": 1.51042,
+      "Nuclear": 4.442615,
+      "Electronic": -4.434926,
+      "Total": 0.007689
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.94380,
+      "PosY": 3.61806,
+      "PosZ": 1.38197,
+      "Nuclear": 4.072364,
+      "Electronic": -4.077160,
+      "Total": -0.004796
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.08969,
+      "PosY": 3.09019,
+      "PosZ": 2.76395,
+      "Nuclear": 4.235714,
+      "Electronic": -4.234862,
+      "Total": 0.000852
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.94380,
+      "PosY": 3.61806,
+      "PosZ": -1.38197,
+      "Nuclear": 4.072364,
+      "Electronic": -4.077160,
+      "Total": -0.004796
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 3.95434,
+      "PosZ": -1.51042,
+      "Nuclear": 4.442615,
+      "Electronic": -4.434926,
+      "Total": 0.007689
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.08969,
+      "PosY": 3.09019,
+      "PosZ": -2.76395,
+      "Nuclear": 4.235714,
+      "Electronic": -4.234862,
+      "Total": 0.000852
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.32577,
+      "PosY": 2.76395,
+      "PosZ": -0.85411,
+      "Nuclear": 3.868053,
+      "Electronic": -3.880028,
+      "Total": -0.011975
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.67950,
+      "PosY": 2.44392,
+      "PosZ": -2.44392,
+      "Nuclear": 3.956126,
+      "Electronic": -3.965013,
+      "Total": -0.008888
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.61756,
+      "PosY": 1.70821,
+      "PosZ": -3.61806,
+      "Nuclear": 4.130625,
+      "Electronic": -4.133386,
+      "Total": -0.002762
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.85364,
+      "PosY": 1.38197,
+      "PosZ": -1.70821,
+      "Nuclear": 3.803934,
+      "Electronic": -3.818112,
+      "Total": -0.014178
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.99953,
+      "PosY": 0.85411,
+      "PosZ": -3.09019,
+      "Nuclear": 3.911069,
+      "Electronic": -3.921541,
+      "Total": -0.010472
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.83638,
+      "PosY": 0.00000,
+      "PosZ": -2.22541,
+      "Nuclear": 3.805932,
+      "Electronic": -3.820043,
+      "Total": -0.014111
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.99953,
+      "PosY": -0.85411,
+      "PosZ": -3.09019,
+      "Nuclear": 3.911069,
+      "Electronic": -3.921541,
+      "Total": -0.010472
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.74601,
+      "PosY": 0.00000,
+      "PosZ": -3.95434,
+      "Nuclear": 4.107131,
+      "Electronic": -4.110711,
+      "Total": -0.003580
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.61756,
+      "PosY": -1.70821,
+      "PosZ": -3.61806,
+      "Nuclear": 4.130625,
+      "Electronic": -4.133386,
+      "Total": -0.002762
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.61756,
+      "PosY": 1.70821,
+      "PosZ": 3.61806,
+      "Nuclear": 4.130625,
+      "Electronic": -4.133386,
+      "Total": -0.002762
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.67950,
+      "PosY": 2.44392,
+      "PosZ": 2.44392,
+      "Nuclear": 3.956126,
+      "Electronic": -3.965013,
+      "Total": -0.008888
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.32577,
+      "PosY": 2.76395,
+      "PosZ": 0.85411,
+      "Nuclear": 3.868053,
+      "Electronic": -3.880028,
+      "Total": -0.011975
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.99953,
+      "PosY": 0.85411,
+      "PosZ": 3.09019,
+      "Nuclear": 3.911069,
+      "Electronic": -3.921541,
+      "Total": -0.010472
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.85364,
+      "PosY": 1.38197,
+      "PosZ": 1.70821,
+      "Nuclear": 3.803934,
+      "Electronic": -3.818112,
+      "Total": -0.014178
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.83638,
+      "PosY": 0.00000,
+      "PosZ": 2.22541,
+      "Nuclear": 3.805932,
+      "Electronic": -3.820043,
+      "Total": -0.014111
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.38151,
+      "PosY": 0.00000,
+      "PosZ": 0.85411,
+      "Nuclear": 3.745686,
+      "Electronic": -3.761803,
+      "Total": -0.016117
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.18992,
+      "PosY": 1.51042,
+      "PosZ": 0.00000,
+      "Nuclear": 3.766205,
+      "Electronic": -3.781648,
+      "Total": -0.015443
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.38151,
+      "PosY": 0.00000,
+      "PosZ": -0.85411,
+      "Nuclear": 3.745686,
+      "Electronic": -3.761803,
+      "Total": -0.016117
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.46100,
+      "PosY": -3.60079,
+      "PosZ": 0.00000,
+      "Nuclear": 3.988685,
+      "Electronic": -3.996425,
+      "Total": -0.007740
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.32577,
+      "PosY": -2.76395,
+      "PosZ": 0.85411,
+      "Nuclear": 3.868053,
+      "Electronic": -3.880028,
+      "Total": -0.011975
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.85364,
+      "PosY": -1.38197,
+      "PosZ": 1.70821,
+      "Nuclear": 3.803934,
+      "Electronic": -3.818112,
+      "Total": -0.014178
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.32577,
+      "PosY": -2.76395,
+      "PosZ": -0.85411,
+      "Nuclear": 3.868053,
+      "Electronic": -3.880028,
+      "Total": -0.011975
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.18992,
+      "PosY": -1.51042,
+      "PosZ": 0.00000,
+      "Nuclear": 3.766205,
+      "Electronic": -3.781648,
+      "Total": -0.015443
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.85364,
+      "PosY": -1.38197,
+      "PosZ": -1.70821,
+      "Nuclear": 3.803934,
+      "Electronic": -3.818112,
+      "Total": -0.014178
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.08969,
+      "PosY": -3.09019,
+      "PosZ": -2.76395,
+      "Nuclear": 4.235714,
+      "Electronic": -4.234862,
+      "Total": 0.000852
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.94380,
+      "PosY": -3.61806,
+      "PosZ": -1.38197,
+      "Nuclear": 4.072364,
+      "Electronic": -4.077160,
+      "Total": -0.004796
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.67950,
+      "PosY": -2.44392,
+      "PosZ": -2.44392,
+      "Nuclear": 3.956126,
+      "Electronic": -3.965013,
+      "Total": -0.008888
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.08969,
+      "PosY": -4.14592,
+      "PosZ": 0.00000,
+      "Nuclear": 4.235714,
+      "Electronic": -4.234862,
+      "Total": 0.000852
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -3.95434,
+      "PosZ": -1.51042,
+      "Nuclear": 4.442615,
+      "Electronic": -4.434926,
+      "Total": 0.007689
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.99953,
+      "PosY": -0.85411,
+      "PosZ": 3.09019,
+      "Nuclear": 3.911069,
+      "Electronic": -3.921541,
+      "Total": -0.010472
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.67950,
+      "PosY": -2.44392,
+      "PosZ": 2.44392,
+      "Nuclear": 3.956126,
+      "Electronic": -3.965013,
+      "Total": -0.008888
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.94380,
+      "PosY": -3.61806,
+      "PosZ": 1.38197,
+      "Nuclear": 4.072364,
+      "Electronic": -4.077160,
+      "Total": -0.004796
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.61756,
+      "PosY": -1.70821,
+      "PosZ": 3.61806,
+      "Nuclear": 4.130625,
+      "Electronic": -4.133386,
+      "Total": -0.002762
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.08969,
+      "PosY": -3.09019,
+      "PosZ": 2.76395,
+      "Nuclear": 4.235714,
+      "Electronic": -4.234862,
+      "Total": 0.000852
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -3.95434,
+      "PosZ": 1.51042,
+      "Nuclear": 4.442615,
+      "Electronic": -4.434926,
+      "Total": 0.007689
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.74601,
+      "PosY": 0.00000,
+      "PosZ": 3.95434,
+      "Nuclear": 4.107131,
+      "Electronic": -4.110711,
+      "Total": -0.003580
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -2.22541,
+      "PosZ": 3.60079,
+      "Nuclear": 4.442616,
+      "Electronic": -4.434926,
+      "Total": 0.007690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.61756,
+      "PosY": -1.70821,
+      "PosZ": 3.61806,
+      "Nuclear": 4.130625,
+      "Electronic": -4.133387,
+      "Total": -0.002761
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.99953,
+      "PosY": -0.85411,
+      "PosZ": 3.09019,
+      "Nuclear": 3.911069,
+      "Electronic": -3.921541,
+      "Total": -0.010472
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.83638,
+      "PosY": 0.00000,
+      "PosZ": 2.22541,
+      "Nuclear": 3.805933,
+      "Electronic": -3.820044,
+      "Total": -0.014110
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -0.85411,
+      "PosZ": 4.14592,
+      "Nuclear": 4.442616,
+      "Electronic": -4.434926,
+      "Total": 0.007690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.74601,
+      "PosY": 0.00000,
+      "PosZ": 3.95434,
+      "Nuclear": 4.107132,
+      "Electronic": -4.110711,
+      "Total": -0.003579
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.99953,
+      "PosY": 0.85411,
+      "PosZ": 3.09019,
+      "Nuclear": 3.911069,
+      "Electronic": -3.921541,
+      "Total": -0.010472
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 0.85411,
+      "PosZ": 4.14592,
+      "Nuclear": 4.442616,
+      "Electronic": -4.434926,
+      "Total": 0.007690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.61756,
+      "PosY": 1.70821,
+      "PosZ": 3.61806,
+      "Nuclear": 4.130625,
+      "Electronic": -4.133387,
+      "Total": -0.002761
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 2.22541,
+      "PosZ": 3.60079,
+      "Nuclear": 4.442616,
+      "Electronic": -4.434926,
+      "Total": 0.007690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.46100,
+      "PosY": -3.60079,
+      "PosZ": 0.00000,
+      "Nuclear": 3.988686,
+      "Electronic": -3.996426,
+      "Total": -0.007740
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.32577,
+      "PosY": -2.76395,
+      "PosZ": 0.85411,
+      "Nuclear": 3.868054,
+      "Electronic": -3.880028,
+      "Total": -0.011974
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.85364,
+      "PosY": -1.38197,
+      "PosZ": 1.70821,
+      "Nuclear": 3.803934,
+      "Electronic": -3.818113,
+      "Total": -0.014178
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.94380,
+      "PosY": -3.61806,
+      "PosZ": 1.38197,
+      "Nuclear": 4.072365,
+      "Electronic": -4.077160,
+      "Total": -0.004795
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.67950,
+      "PosY": -2.44392,
+      "PosZ": 2.44392,
+      "Nuclear": 3.956126,
+      "Electronic": -3.965014,
+      "Total": -0.008887
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.08969,
+      "PosY": -3.09019,
+      "PosZ": 2.76395,
+      "Nuclear": 4.235715,
+      "Electronic": -4.234863,
+      "Total": 0.000852
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.85364,
+      "PosY": 1.38197,
+      "PosZ": 1.70821,
+      "Nuclear": 3.803934,
+      "Electronic": -3.818113,
+      "Total": -0.014178
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.32577,
+      "PosY": 2.76395,
+      "PosZ": 0.85411,
+      "Nuclear": 3.868054,
+      "Electronic": -3.880028,
+      "Total": -0.011974
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.46100,
+      "PosY": 3.60079,
+      "PosZ": 0.00000,
+      "Nuclear": 3.988686,
+      "Electronic": -3.996426,
+      "Total": -0.007740
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.67950,
+      "PosY": 2.44392,
+      "PosZ": 2.44392,
+      "Nuclear": 3.956126,
+      "Electronic": -3.965014,
+      "Total": -0.008887
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.94380,
+      "PosY": 3.61806,
+      "PosZ": 1.38197,
+      "Nuclear": 4.072365,
+      "Electronic": -4.077160,
+      "Total": -0.004795
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.08969,
+      "PosY": 3.09019,
+      "PosZ": 2.76395,
+      "Nuclear": 4.235715,
+      "Electronic": -4.234863,
+      "Total": 0.000852
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.32577,
+      "PosY": 2.76395,
+      "PosZ": -0.85411,
+      "Nuclear": 3.868054,
+      "Electronic": -3.880028,
+      "Total": -0.011974
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.18992,
+      "PosY": 1.51042,
+      "PosZ": 0.00000,
+      "Nuclear": 3.766206,
+      "Electronic": -3.781648,
+      "Total": -0.015443
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.38151,
+      "PosY": 0.00000,
+      "PosZ": 0.85411,
+      "Nuclear": 3.745687,
+      "Electronic": -3.761803,
+      "Total": -0.016116
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.85364,
+      "PosY": 1.38197,
+      "PosZ": -1.70821,
+      "Nuclear": 3.803934,
+      "Electronic": -3.818113,
+      "Total": -0.014178
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.38151,
+      "PosY": 0.00000,
+      "PosZ": -0.85411,
+      "Nuclear": 3.745687,
+      "Electronic": -3.761803,
+      "Total": -0.016116
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.83638,
+      "PosY": 0.00000,
+      "PosZ": -2.22541,
+      "Nuclear": 3.805933,
+      "Electronic": -3.820044,
+      "Total": -0.014110
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.32577,
+      "PosY": -2.76395,
+      "PosZ": -0.85411,
+      "Nuclear": 3.868054,
+      "Electronic": -3.880028,
+      "Total": -0.011974
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.85364,
+      "PosY": -1.38197,
+      "PosZ": -1.70821,
+      "Nuclear": 3.803934,
+      "Electronic": -3.818113,
+      "Total": -0.014178
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.18992,
+      "PosY": -1.51042,
+      "PosZ": 0.00000,
+      "Nuclear": 3.766206,
+      "Electronic": -3.781648,
+      "Total": -0.015443
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -2.22541,
+      "PosZ": -3.60079,
+      "Nuclear": 4.442616,
+      "Electronic": -4.434926,
+      "Total": 0.007690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.61756,
+      "PosY": -1.70821,
+      "PosZ": -3.61806,
+      "Nuclear": 4.130625,
+      "Electronic": -4.133387,
+      "Total": -0.002761
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.99953,
+      "PosY": -0.85411,
+      "PosZ": -3.09019,
+      "Nuclear": 3.911069,
+      "Electronic": -3.921541,
+      "Total": -0.010472
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.08969,
+      "PosY": -3.09019,
+      "PosZ": -2.76395,
+      "Nuclear": 4.235715,
+      "Electronic": -4.234863,
+      "Total": 0.000852
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.67950,
+      "PosY": -2.44392,
+      "PosZ": -2.44392,
+      "Nuclear": 3.956126,
+      "Electronic": -3.965014,
+      "Total": -0.008887
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.94380,
+      "PosY": -3.61806,
+      "PosZ": -1.38197,
+      "Nuclear": 4.072365,
+      "Electronic": -4.077160,
+      "Total": -0.004795
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 2.22541,
+      "PosZ": -3.60079,
+      "Nuclear": 4.442616,
+      "Electronic": -4.434926,
+      "Total": 0.007690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.61756,
+      "PosY": 1.70821,
+      "PosZ": -3.61806,
+      "Nuclear": 4.130625,
+      "Electronic": -4.133387,
+      "Total": -0.002761
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.99953,
+      "PosY": 0.85411,
+      "PosZ": -3.09019,
+      "Nuclear": 3.911069,
+      "Electronic": -3.921541,
+      "Total": -0.010472
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 0.85411,
+      "PosZ": -4.14592,
+      "Nuclear": 4.442616,
+      "Electronic": -4.434926,
+      "Total": 0.007690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.74601,
+      "PosY": 0.00000,
+      "PosZ": -3.95434,
+      "Nuclear": 4.107132,
+      "Electronic": -4.110711,
+      "Total": -0.003579
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -0.85411,
+      "PosZ": -4.14592,
+      "Nuclear": 4.442616,
+      "Electronic": -4.434926,
+      "Total": 0.007690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.94380,
+      "PosY": 3.61806,
+      "PosZ": -1.38197,
+      "Nuclear": 4.072365,
+      "Electronic": -4.077160,
+      "Total": -0.004795
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.67950,
+      "PosY": 2.44392,
+      "PosZ": -2.44392,
+      "Nuclear": 3.956126,
+      "Electronic": -3.965014,
+      "Total": -0.008887
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.08969,
+      "PosY": 3.09019,
+      "PosZ": -2.76395,
+      "Nuclear": 4.235715,
+      "Electronic": -4.234863,
+      "Total": 0.000852
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.08969,
+      "PosY": 4.14592,
+      "PosZ": 0.00000,
+      "Nuclear": 4.235715,
+      "Electronic": -4.234863,
+      "Total": 0.000852
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 3.95434,
+      "PosZ": 1.51042,
+      "Nuclear": 4.442616,
+      "Electronic": -4.434926,
+      "Total": 0.007690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 3.95434,
+      "PosZ": -1.51042,
+      "Nuclear": 4.442616,
+      "Electronic": -4.434926,
+      "Total": 0.007690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -3.95434,
+      "PosZ": -1.51042,
+      "Nuclear": 4.442616,
+      "Electronic": -4.434926,
+      "Total": 0.007690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.08969,
+      "PosY": -4.14592,
+      "PosZ": 0.00000,
+      "Nuclear": 4.235715,
+      "Electronic": -4.234863,
+      "Total": 0.000852
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -3.95434,
+      "PosZ": 1.51042,
+      "Nuclear": 4.442616,
+      "Electronic": -4.434926,
+      "Total": 0.007690
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -2.68242,
+      "PosZ": 4.34024,
+      "Nuclear": 4.048203,
+      "Electronic": -4.034904,
+      "Total": 0.013299
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.66577,
+      "PosY": -2.05901,
+      "PosZ": 4.36105,
+      "Nuclear": 4.112990,
+      "Electronic": -4.102976,
+      "Total": 0.010013
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -1.02950,
+      "PosZ": 4.99732,
+      "Nuclear": 4.048203,
+      "Electronic": -4.034904,
+      "Total": 0.013299
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.82060,
+      "PosY": 0.00000,
+      "PosZ": 4.76639,
+      "Nuclear": 4.126267,
+      "Electronic": -4.116929,
+      "Total": 0.009338
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 1.02950,
+      "PosZ": 4.99732,
+      "Nuclear": 4.048203,
+      "Electronic": -4.034904,
+      "Total": 0.013299
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.66577,
+      "PosY": 2.05901,
+      "PosZ": 4.36105,
+      "Nuclear": 4.112990,
+      "Electronic": -4.102976,
+      "Total": 0.010013
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 2.68242,
+      "PosZ": 4.34024,
+      "Nuclear": 4.048203,
+      "Electronic": -4.034904,
+      "Total": 0.013299
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.02951,
+      "PosY": -3.72478,
+      "PosZ": 3.33154,
+      "Nuclear": 4.072291,
+      "Electronic": -4.060212,
+      "Total": 0.012079
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.02951,
+      "PosY": 3.72478,
+      "PosZ": 3.33154,
+      "Nuclear": 4.072291,
+      "Electronic": -4.060212,
+      "Total": 0.012079
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -2.68242,
+      "PosZ": -4.34024,
+      "Nuclear": 4.048203,
+      "Electronic": -4.034904,
+      "Total": 0.013299
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.66577,
+      "PosY": -2.05901,
+      "PosZ": -4.36105,
+      "Nuclear": 4.112990,
+      "Electronic": -4.102976,
+      "Total": 0.010013
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.02951,
+      "PosY": -3.72478,
+      "PosZ": -3.33154,
+      "Nuclear": 4.072291,
+      "Electronic": -4.060212,
+      "Total": 0.012079
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 2.68242,
+      "PosZ": -4.34024,
+      "Nuclear": 4.048203,
+      "Electronic": -4.034904,
+      "Total": 0.013299
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.66577,
+      "PosY": 2.05901,
+      "PosZ": -4.36105,
+      "Nuclear": 4.112990,
+      "Electronic": -4.102976,
+      "Total": 0.010013
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 1.02950,
+      "PosZ": -4.99732,
+      "Nuclear": 4.048203,
+      "Electronic": -4.034904,
+      "Total": 0.013299
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.82060,
+      "PosY": 0.00000,
+      "PosZ": -4.76639,
+      "Nuclear": 4.126267,
+      "Electronic": -4.116929,
+      "Total": 0.009338
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -1.02950,
+      "PosZ": -4.99732,
+      "Nuclear": 4.048203,
+      "Electronic": -4.034904,
+      "Total": 0.013299
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.02951,
+      "PosY": 3.72478,
+      "PosZ": -3.33154,
+      "Nuclear": 4.072291,
+      "Electronic": -4.060212,
+      "Total": 0.012079
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.02951,
+      "PosY": 4.99732,
+      "PosZ": 0.00000,
+      "Nuclear": 4.072291,
+      "Electronic": -4.060212,
+      "Total": 0.012079
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.02950,
+      "PosY": 4.99732,
+      "PosZ": 0.00000,
+      "Nuclear": 4.072292,
+      "Electronic": -4.060213,
+      "Total": 0.012079
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 4.76639,
+      "PosZ": 1.82060,
+      "Nuclear": 4.048203,
+      "Electronic": -4.034904,
+      "Total": 0.013299
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.02950,
+      "PosY": 3.72478,
+      "PosZ": 3.33154,
+      "Nuclear": 4.072292,
+      "Electronic": -4.060213,
+      "Total": 0.012079
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 4.76639,
+      "PosZ": -1.82060,
+      "Nuclear": 4.048203,
+      "Electronic": -4.034904,
+      "Total": 0.013299
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.02950,
+      "PosY": 3.72478,
+      "PosZ": -3.33154,
+      "Nuclear": 4.072292,
+      "Electronic": -4.060213,
+      "Total": 0.012079
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.66577,
+      "PosY": 2.05901,
+      "PosZ": -4.36105,
+      "Nuclear": 4.112990,
+      "Electronic": -4.102977,
+      "Total": 0.010013
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.82060,
+      "PosY": 0.00000,
+      "PosZ": -4.76639,
+      "Nuclear": 4.126268,
+      "Electronic": -4.116929,
+      "Total": 0.009338
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.66577,
+      "PosY": -2.05901,
+      "PosZ": -4.36105,
+      "Nuclear": 4.112990,
+      "Electronic": -4.102977,
+      "Total": 0.010013
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.66577,
+      "PosY": 2.05901,
+      "PosZ": 4.36105,
+      "Nuclear": 4.112990,
+      "Electronic": -4.102977,
+      "Total": 0.010013
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.02950,
+      "PosY": -3.72478,
+      "PosZ": -3.33154,
+      "Nuclear": 4.072292,
+      "Electronic": -4.060213,
+      "Total": 0.012079
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.02950,
+      "PosY": -4.99732,
+      "PosZ": 0.00000,
+      "Nuclear": 4.072292,
+      "Electronic": -4.060213,
+      "Total": 0.012079
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -4.76639,
+      "PosZ": -1.82060,
+      "Nuclear": 4.048203,
+      "Electronic": -4.034904,
+      "Total": 0.013299
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.02951,
+      "PosY": -4.99732,
+      "PosZ": 0.00000,
+      "Nuclear": 4.072291,
+      "Electronic": -4.060212,
+      "Total": 0.012079
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.66577,
+      "PosY": -2.05901,
+      "PosZ": 4.36105,
+      "Nuclear": 4.112990,
+      "Electronic": -4.102977,
+      "Total": 0.010013
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.02950,
+      "PosY": -3.72478,
+      "PosZ": 3.33154,
+      "Nuclear": 4.072292,
+      "Electronic": -4.060213,
+      "Total": 0.012079
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -4.76639,
+      "PosZ": 1.82060,
+      "Nuclear": 4.048203,
+      "Electronic": -4.034904,
+      "Total": 0.013299
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.82060,
+      "PosY": 0.00000,
+      "PosZ": 4.76639,
+      "Nuclear": 4.126268,
+      "Electronic": -4.116929,
+      "Total": 0.009338
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -2.50359,
+      "PosZ": 4.05089,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -0.96087,
+      "PosZ": 4.66416,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 0.96087,
+      "PosZ": 4.66416,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 2.50359,
+      "PosZ": 4.05089,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -2.50359,
+      "PosZ": -4.05089,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 2.50359,
+      "PosZ": -4.05089,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 0.96087,
+      "PosZ": -4.66416,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -0.96087,
+      "PosZ": -4.66416,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.19646,
+      "PosY": 4.66416,
+      "PosZ": 0.00000,
+      "Nuclear": 3.858420,
+      "Electronic": -3.856865,
+      "Total": 0.001555
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.73917,
+      "PosY": 4.05089,
+      "PosZ": 0.00000,
+      "Nuclear": 3.634151,
+      "Electronic": -3.639536,
+      "Total": -0.005385
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 4.44863,
+      "PosZ": 1.69923,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.15733,
+      "PosY": 4.07031,
+      "PosZ": 1.55472,
+      "Nuclear": 3.710282,
+      "Electronic": -3.713254,
+      "Total": -0.002972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.19646,
+      "PosY": 3.47646,
+      "PosZ": 3.10944,
+      "Nuclear": 3.858420,
+      "Electronic": -3.856865,
+      "Total": 0.001555
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.15733,
+      "PosY": 4.07031,
+      "PosZ": -1.55472,
+      "Nuclear": 3.710282,
+      "Electronic": -3.713254,
+      "Total": -0.002972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 4.44863,
+      "PosZ": -1.69923,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.19646,
+      "PosY": 3.47646,
+      "PosZ": -3.10944,
+      "Nuclear": 3.858420,
+      "Electronic": -3.856865,
+      "Total": 0.001555
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.71205,
+      "PosY": 3.10944,
+      "PosZ": -0.96087,
+      "Nuclear": 3.524107,
+      "Electronic": -3.533036,
+      "Total": -0.008928
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.98499,
+      "PosY": 2.74941,
+      "PosZ": -2.74941,
+      "Nuclear": 3.604484,
+      "Electronic": -3.610819,
+      "Total": -0.006336
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.79031,
+      "PosY": 1.92174,
+      "PosZ": -4.07031,
+      "Nuclear": 3.763189,
+      "Electronic": -3.764516,
+      "Total": -0.001327
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.30590,
+      "PosY": 1.55472,
+      "PosZ": -1.92174,
+      "Nuclear": 3.465476,
+      "Electronic": -3.476292,
+      "Total": -0.010816
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.34503,
+      "PosY": 0.96087,
+      "PosZ": -3.47646,
+      "Nuclear": 3.563387,
+      "Electronic": -3.571047,
+      "Total": -0.007660
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.28648,
+      "PosY": 0.00000,
+      "PosZ": -2.50359,
+      "Nuclear": 3.467305,
+      "Electronic": -3.478062,
+      "Total": -0.010757
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.34503,
+      "PosY": -0.96087,
+      "PosZ": -3.47646,
+      "Nuclear": 3.563387,
+      "Electronic": -3.571047,
+      "Total": -0.007660
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.93481,
+      "PosY": 0.00000,
+      "PosZ": -4.44863,
+      "Nuclear": 3.741864,
+      "Electronic": -3.743851,
+      "Total": -0.001986
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.79031,
+      "PosY": -1.92174,
+      "PosZ": -4.07031,
+      "Nuclear": 3.763189,
+      "Electronic": -3.764516,
+      "Total": -0.001327
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.79031,
+      "PosY": 1.92174,
+      "PosZ": 4.07031,
+      "Nuclear": 3.763189,
+      "Electronic": -3.764516,
+      "Total": -0.001327
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.98499,
+      "PosY": 2.74941,
+      "PosZ": 2.74941,
+      "Nuclear": 3.604484,
+      "Electronic": -3.610819,
+      "Total": -0.006336
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.71205,
+      "PosY": 3.10944,
+      "PosZ": 0.96087,
+      "Nuclear": 3.524107,
+      "Electronic": -3.533036,
+      "Total": -0.008928
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.34503,
+      "PosY": 0.96087,
+      "PosZ": 3.47646,
+      "Nuclear": 3.563387,
+      "Electronic": -3.571047,
+      "Total": -0.007660
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.30590,
+      "PosY": 1.55472,
+      "PosZ": 1.92174,
+      "Nuclear": 3.465476,
+      "Electronic": -3.476292,
+      "Total": -0.010816
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.28648,
+      "PosY": 0.00000,
+      "PosZ": 2.50359,
+      "Nuclear": 3.467305,
+      "Electronic": -3.478062,
+      "Total": -0.010757
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.89975,
+      "PosY": 0.00000,
+      "PosZ": 0.96087,
+      "Nuclear": 3.412129,
+      "Electronic": -3.424639,
+      "Total": -0.012510
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.68422,
+      "PosY": 1.69923,
+      "PosZ": 0.00000,
+      "Nuclear": 3.430931,
+      "Electronic": -3.442848,
+      "Total": -0.011917
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.89975,
+      "PosY": 0.00000,
+      "PosZ": -0.96087,
+      "Nuclear": 3.412129,
+      "Electronic": -3.424639,
+      "Total": -0.012510
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.73917,
+      "PosY": -4.05089,
+      "PosZ": 0.00000,
+      "Nuclear": 3.634151,
+      "Electronic": -3.639536,
+      "Total": -0.005385
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.71205,
+      "PosY": -3.10944,
+      "PosZ": 0.96087,
+      "Nuclear": 3.524107,
+      "Electronic": -3.533036,
+      "Total": -0.008928
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.30590,
+      "PosY": -1.55472,
+      "PosZ": 1.92174,
+      "Nuclear": 3.465476,
+      "Electronic": -3.476292,
+      "Total": -0.010816
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.71205,
+      "PosY": -3.10944,
+      "PosZ": -0.96087,
+      "Nuclear": 3.524107,
+      "Electronic": -3.533036,
+      "Total": -0.008928
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.68422,
+      "PosY": -1.69923,
+      "PosZ": 0.00000,
+      "Nuclear": 3.430931,
+      "Electronic": -3.442848,
+      "Total": -0.011917
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.30590,
+      "PosY": -1.55472,
+      "PosZ": -1.92174,
+      "Nuclear": 3.465476,
+      "Electronic": -3.476292,
+      "Total": -0.010816
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.19646,
+      "PosY": -3.47646,
+      "PosZ": -3.10944,
+      "Nuclear": 3.858420,
+      "Electronic": -3.856865,
+      "Total": 0.001555
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.15733,
+      "PosY": -4.07031,
+      "PosZ": -1.55472,
+      "Nuclear": 3.710282,
+      "Electronic": -3.713254,
+      "Total": -0.002972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.98499,
+      "PosY": -2.74941,
+      "PosZ": -2.74941,
+      "Nuclear": 3.604484,
+      "Electronic": -3.610819,
+      "Total": -0.006336
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.19646,
+      "PosY": -4.66416,
+      "PosZ": 0.00000,
+      "Nuclear": 3.858420,
+      "Electronic": -3.856865,
+      "Total": 0.001555
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -4.44863,
+      "PosZ": -1.69923,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.34503,
+      "PosY": -0.96087,
+      "PosZ": 3.47646,
+      "Nuclear": 3.563387,
+      "Electronic": -3.571047,
+      "Total": -0.007660
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.98499,
+      "PosY": -2.74941,
+      "PosZ": 2.74941,
+      "Nuclear": 3.604484,
+      "Electronic": -3.610819,
+      "Total": -0.006336
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.15733,
+      "PosY": -4.07031,
+      "PosZ": 1.55472,
+      "Nuclear": 3.710282,
+      "Electronic": -3.713254,
+      "Total": -0.002972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.79031,
+      "PosY": -1.92174,
+      "PosZ": 4.07031,
+      "Nuclear": 3.763189,
+      "Electronic": -3.764516,
+      "Total": -0.001327
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.19646,
+      "PosY": -3.47646,
+      "PosZ": 3.10944,
+      "Nuclear": 3.858420,
+      "Electronic": -3.856865,
+      "Total": 0.001555
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -4.44863,
+      "PosZ": 1.69923,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.93481,
+      "PosY": 0.00000,
+      "PosZ": 4.44863,
+      "Nuclear": 3.741864,
+      "Electronic": -3.743851,
+      "Total": -0.001986
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -2.50359,
+      "PosZ": 4.05089,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.79030,
+      "PosY": -1.92174,
+      "PosZ": 4.07031,
+      "Nuclear": 3.763190,
+      "Electronic": -3.764516,
+      "Total": -0.001326
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.34502,
+      "PosY": -0.96087,
+      "PosZ": 3.47646,
+      "Nuclear": 3.563388,
+      "Electronic": -3.571047,
+      "Total": -0.007660
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.28648,
+      "PosY": 0.00000,
+      "PosZ": 2.50359,
+      "Nuclear": 3.467306,
+      "Electronic": -3.478063,
+      "Total": -0.010757
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -0.96087,
+      "PosZ": 4.66416,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.93481,
+      "PosY": 0.00000,
+      "PosZ": 4.44863,
+      "Nuclear": 3.741865,
+      "Electronic": -3.743851,
+      "Total": -0.001986
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.34502,
+      "PosY": 0.96087,
+      "PosZ": 3.47646,
+      "Nuclear": 3.563388,
+      "Electronic": -3.571047,
+      "Total": -0.007660
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 0.96087,
+      "PosZ": 4.66416,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.79030,
+      "PosY": 1.92174,
+      "PosZ": 4.07031,
+      "Nuclear": 3.763190,
+      "Electronic": -3.764516,
+      "Total": -0.001326
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 2.50359,
+      "PosZ": 4.05089,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.73917,
+      "PosY": -4.05089,
+      "PosZ": 0.00000,
+      "Nuclear": 3.634152,
+      "Electronic": -3.639537,
+      "Total": -0.005384
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.71204,
+      "PosY": -3.10944,
+      "PosZ": 0.96087,
+      "Nuclear": 3.524108,
+      "Electronic": -3.533036,
+      "Total": -0.008928
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.30590,
+      "PosY": -1.55472,
+      "PosZ": 1.92174,
+      "Nuclear": 3.465477,
+      "Electronic": -3.476292,
+      "Total": -0.010815
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.15732,
+      "PosY": -4.07031,
+      "PosZ": 1.55472,
+      "Nuclear": 3.710283,
+      "Electronic": -3.713255,
+      "Total": -0.002972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.98499,
+      "PosY": -2.74941,
+      "PosZ": 2.74941,
+      "Nuclear": 3.604484,
+      "Electronic": -3.610820,
+      "Total": -0.006336
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.19645,
+      "PosY": -3.47646,
+      "PosZ": 3.10944,
+      "Nuclear": 3.858421,
+      "Electronic": -3.856865,
+      "Total": 0.001556
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.30590,
+      "PosY": 1.55472,
+      "PosZ": 1.92174,
+      "Nuclear": 3.465477,
+      "Electronic": -3.476292,
+      "Total": -0.010815
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.71204,
+      "PosY": 3.10944,
+      "PosZ": 0.96087,
+      "Nuclear": 3.524108,
+      "Electronic": -3.533036,
+      "Total": -0.008928
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.73917,
+      "PosY": 4.05089,
+      "PosZ": 0.00000,
+      "Nuclear": 3.634152,
+      "Electronic": -3.639537,
+      "Total": -0.005384
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.98499,
+      "PosY": 2.74941,
+      "PosZ": 2.74941,
+      "Nuclear": 3.604484,
+      "Electronic": -3.610820,
+      "Total": -0.006336
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.15732,
+      "PosY": 4.07031,
+      "PosZ": 1.55472,
+      "Nuclear": 3.710283,
+      "Electronic": -3.713255,
+      "Total": -0.002972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.19645,
+      "PosY": 3.47646,
+      "PosZ": 3.10944,
+      "Nuclear": 3.858421,
+      "Electronic": -3.856865,
+      "Total": 0.001556
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.71204,
+      "PosY": 3.10944,
+      "PosZ": -0.96087,
+      "Nuclear": 3.524108,
+      "Electronic": -3.533036,
+      "Total": -0.008928
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.68421,
+      "PosY": 1.69923,
+      "PosZ": 0.00000,
+      "Nuclear": 3.430932,
+      "Electronic": -3.442848,
+      "Total": -0.011916
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.89975,
+      "PosY": 0.00000,
+      "PosZ": 0.96087,
+      "Nuclear": 3.412130,
+      "Electronic": -3.424640,
+      "Total": -0.012510
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.30590,
+      "PosY": 1.55472,
+      "PosZ": -1.92174,
+      "Nuclear": 3.465477,
+      "Electronic": -3.476292,
+      "Total": -0.010815
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.89975,
+      "PosY": 0.00000,
+      "PosZ": -0.96087,
+      "Nuclear": 3.412130,
+      "Electronic": -3.424640,
+      "Total": -0.012510
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.28648,
+      "PosY": 0.00000,
+      "PosZ": -2.50359,
+      "Nuclear": 3.467306,
+      "Electronic": -3.478063,
+      "Total": -0.010757
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.71204,
+      "PosY": -3.10944,
+      "PosZ": -0.96087,
+      "Nuclear": 3.524108,
+      "Electronic": -3.533036,
+      "Total": -0.008928
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.30590,
+      "PosY": -1.55472,
+      "PosZ": -1.92174,
+      "Nuclear": 3.465477,
+      "Electronic": -3.476292,
+      "Total": -0.010815
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.68421,
+      "PosY": -1.69923,
+      "PosZ": 0.00000,
+      "Nuclear": 3.430932,
+      "Electronic": -3.442848,
+      "Total": -0.011916
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -2.50359,
+      "PosZ": -4.05089,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.79030,
+      "PosY": -1.92174,
+      "PosZ": -4.07031,
+      "Nuclear": 3.763190,
+      "Electronic": -3.764516,
+      "Total": -0.001326
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.34502,
+      "PosY": -0.96087,
+      "PosZ": -3.47646,
+      "Nuclear": 3.563388,
+      "Electronic": -3.571047,
+      "Total": -0.007660
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.19645,
+      "PosY": -3.47646,
+      "PosZ": -3.10944,
+      "Nuclear": 3.858421,
+      "Electronic": -3.856865,
+      "Total": 0.001556
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.98499,
+      "PosY": -2.74941,
+      "PosZ": -2.74941,
+      "Nuclear": 3.604484,
+      "Electronic": -3.610820,
+      "Total": -0.006336
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.15732,
+      "PosY": -4.07031,
+      "PosZ": -1.55472,
+      "Nuclear": 3.710283,
+      "Electronic": -3.713255,
+      "Total": -0.002972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 2.50359,
+      "PosZ": -4.05089,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.79030,
+      "PosY": 1.92174,
+      "PosZ": -4.07031,
+      "Nuclear": 3.763190,
+      "Electronic": -3.764516,
+      "Total": -0.001326
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.34502,
+      "PosY": 0.96087,
+      "PosZ": -3.47646,
+      "Nuclear": 3.563388,
+      "Electronic": -3.571047,
+      "Total": -0.007660
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 0.96087,
+      "PosZ": -4.66416,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.93481,
+      "PosY": 0.00000,
+      "PosZ": -4.44863,
+      "Nuclear": 3.741865,
+      "Electronic": -3.743851,
+      "Total": -0.001986
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -0.96087,
+      "PosZ": -4.66416,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.15732,
+      "PosY": 4.07031,
+      "PosZ": -1.55472,
+      "Nuclear": 3.710283,
+      "Electronic": -3.713255,
+      "Total": -0.002972
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.98499,
+      "PosY": 2.74941,
+      "PosZ": -2.74941,
+      "Nuclear": 3.604484,
+      "Electronic": -3.610820,
+      "Total": -0.006336
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.19645,
+      "PosY": 3.47646,
+      "PosZ": -3.10944,
+      "Nuclear": 3.858421,
+      "Electronic": -3.856865,
+      "Total": 0.001556
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.19645,
+      "PosY": 4.66416,
+      "PosZ": 0.00000,
+      "Nuclear": 3.858421,
+      "Electronic": -3.856865,
+      "Total": 0.001556
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 4.44863,
+      "PosZ": 1.69923,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 4.44863,
+      "PosZ": -1.69923,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -4.44863,
+      "PosZ": -1.69923,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.19645,
+      "PosY": -4.66416,
+      "PosZ": 0.00000,
+      "Nuclear": 3.858421,
+      "Electronic": -3.856865,
+      "Total": 0.001556
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -4.44863,
+      "PosZ": 1.69923,
+      "Nuclear": 4.045160,
+      "Electronic": -4.038302,
+      "Total": 0.006858
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -2.98046,
+      "PosZ": 4.82249,
+      "Nuclear": 3.683867,
+      "Electronic": -3.673951,
+      "Total": 0.009916
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.85086,
+      "PosY": -2.28779,
+      "PosZ": 4.84561,
+      "Nuclear": 3.734602,
+      "Electronic": -3.727261,
+      "Total": 0.007340
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -1.14389,
+      "PosZ": 5.55257,
+      "Nuclear": 3.683867,
+      "Electronic": -3.673951,
+      "Total": 0.009916
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.02289,
+      "PosY": 0.00000,
+      "PosZ": 5.29599,
+      "Nuclear": 3.744923,
+      "Electronic": -3.738107,
+      "Total": 0.006816
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 1.14389,
+      "PosZ": 5.55257,
+      "Nuclear": 3.683867,
+      "Electronic": -3.673951,
+      "Total": 0.009916
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.85086,
+      "PosY": 2.28779,
+      "PosZ": 4.84561,
+      "Nuclear": 3.734602,
+      "Electronic": -3.727261,
+      "Total": 0.007340
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 2.98046,
+      "PosZ": 4.82249,
+      "Nuclear": 3.683867,
+      "Electronic": -3.673951,
+      "Total": 0.009916
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.14390,
+      "PosY": -4.13864,
+      "PosZ": 3.70172,
+      "Nuclear": 3.702803,
+      "Electronic": -3.693848,
+      "Total": 0.008955
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.14390,
+      "PosY": 4.13864,
+      "PosZ": 3.70172,
+      "Nuclear": 3.702803,
+      "Electronic": -3.693848,
+      "Total": 0.008955
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -2.98046,
+      "PosZ": -4.82249,
+      "Nuclear": 3.683867,
+      "Electronic": -3.673951,
+      "Total": 0.009916
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.85086,
+      "PosY": -2.28779,
+      "PosZ": -4.84561,
+      "Nuclear": 3.734602,
+      "Electronic": -3.727261,
+      "Total": 0.007340
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.14390,
+      "PosY": -4.13864,
+      "PosZ": -3.70172,
+      "Nuclear": 3.702803,
+      "Electronic": -3.693848,
+      "Total": 0.008955
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 2.98046,
+      "PosZ": -4.82249,
+      "Nuclear": 3.683867,
+      "Electronic": -3.673951,
+      "Total": 0.009916
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.85086,
+      "PosY": 2.28779,
+      "PosZ": -4.84561,
+      "Nuclear": 3.734602,
+      "Electronic": -3.727261,
+      "Total": 0.007340
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 1.14389,
+      "PosZ": -5.55257,
+      "Nuclear": 3.683867,
+      "Electronic": -3.673951,
+      "Total": 0.009916
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.02289,
+      "PosY": 0.00000,
+      "PosZ": -5.29599,
+      "Nuclear": 3.744923,
+      "Electronic": -3.738107,
+      "Total": 0.006816
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -1.14389,
+      "PosZ": -5.55257,
+      "Nuclear": 3.683867,
+      "Electronic": -3.673951,
+      "Total": 0.009916
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.14390,
+      "PosY": 4.13864,
+      "PosZ": -3.70172,
+      "Nuclear": 3.702803,
+      "Electronic": -3.693848,
+      "Total": 0.008955
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.14390,
+      "PosY": 5.55257,
+      "PosZ": 0.00000,
+      "Nuclear": 3.702803,
+      "Electronic": -3.693848,
+      "Total": 0.008955
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.14389,
+      "PosY": 5.55257,
+      "PosZ": 0.00000,
+      "Nuclear": 3.702804,
+      "Electronic": -3.693848,
+      "Total": 0.008955
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 5.29599,
+      "PosZ": 2.02289,
+      "Nuclear": 3.683867,
+      "Electronic": -3.673951,
+      "Total": 0.009916
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.14389,
+      "PosY": 4.13864,
+      "PosZ": 3.70172,
+      "Nuclear": 3.702804,
+      "Electronic": -3.693848,
+      "Total": 0.008955
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": 5.29599,
+      "PosZ": -2.02289,
+      "Nuclear": 3.683867,
+      "Electronic": -3.673951,
+      "Total": 0.009916
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.14389,
+      "PosY": 4.13864,
+      "PosZ": -3.70172,
+      "Nuclear": 3.702804,
+      "Electronic": -3.693848,
+      "Total": 0.008955
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.85086,
+      "PosY": 2.28779,
+      "PosZ": -4.84561,
+      "Nuclear": 3.734602,
+      "Electronic": -3.727262,
+      "Total": 0.007340
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.02289,
+      "PosY": 0.00000,
+      "PosZ": -5.29599,
+      "Nuclear": 3.744923,
+      "Electronic": -3.738107,
+      "Total": 0.006816
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.85086,
+      "PosY": -2.28779,
+      "PosZ": -4.84561,
+      "Nuclear": 3.734602,
+      "Electronic": -3.727262,
+      "Total": 0.007340
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.85086,
+      "PosY": 2.28779,
+      "PosZ": 4.84561,
+      "Nuclear": 3.734602,
+      "Electronic": -3.727262,
+      "Total": 0.007340
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.14389,
+      "PosY": -4.13864,
+      "PosZ": -3.70172,
+      "Nuclear": 3.702804,
+      "Electronic": -3.693848,
+      "Total": 0.008955
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.14389,
+      "PosY": -5.55257,
+      "PosZ": 0.00000,
+      "Nuclear": 3.702804,
+      "Electronic": -3.693848,
+      "Total": 0.008955
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -5.29599,
+      "PosZ": -2.02289,
+      "Nuclear": 3.683867,
+      "Electronic": -3.673951,
+      "Total": 0.009916
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 1.14390,
+      "PosY": -5.55257,
+      "PosZ": 0.00000,
+      "Nuclear": 3.702803,
+      "Electronic": -3.693848,
+      "Total": 0.008955
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.85086,
+      "PosY": -2.28779,
+      "PosZ": 4.84561,
+      "Nuclear": 3.734602,
+      "Electronic": -3.727262,
+      "Total": 0.007340
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -1.14389,
+      "PosY": -4.13864,
+      "PosZ": 3.70172,
+      "Nuclear": 3.702804,
+      "Electronic": -3.693848,
+      "Total": 0.008955
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 0.00000,
+      "PosY": -5.29599,
+      "PosZ": 2.02289,
+      "Nuclear": 3.683867,
+      "Electronic": -3.673951,
+      "Total": 0.009916
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.02289,
+      "PosY": 0.00000,
+      "PosZ": 5.29599,
+      "Nuclear": 3.744923,
+      "Electronic": -3.738107,
+      "Total": 0.006816
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -2.78177,
+      "PosZ": 4.50099,
+      "Nuclear": 3.711319,
+      "Electronic": -3.705367,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -1.06763,
+      "PosZ": 5.18240,
+      "Nuclear": 3.711319,
+      "Electronic": -3.705367,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 1.06763,
+      "PosZ": 5.18240,
+      "Nuclear": 3.711319,
+      "Electronic": -3.705367,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 2.78177,
+      "PosZ": 4.50099,
+      "Nuclear": 3.711319,
+      "Electronic": -3.705367,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -2.78177,
+      "PosZ": -4.50099,
+      "Nuclear": 3.711319,
+      "Electronic": -3.705367,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 2.78177,
+      "PosZ": -4.50099,
+      "Nuclear": 3.711319,
+      "Electronic": -3.705367,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 1.06763,
+      "PosZ": -5.18240,
+      "Nuclear": 3.711319,
+      "Electronic": -3.705367,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -1.06763,
+      "PosZ": -5.18240,
+      "Nuclear": 3.711319,
+      "Electronic": -3.705367,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.30322,
+      "PosY": 5.18240,
+      "PosZ": 0.00000,
+      "Nuclear": 3.542923,
+      "Electronic": -3.541119,
+      "Total": 0.001804
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.01735,
+      "PosY": 4.50099,
+      "PosZ": 0.00000,
+      "Nuclear": 3.339295,
+      "Electronic": -3.343139,
+      "Total": -0.003844
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 4.94292,
+      "PosZ": 1.88803,
+      "Nuclear": 3.711319,
+      "Electronic": -3.705367,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.37085,
+      "PosY": 4.52257,
+      "PosZ": 1.72747,
+      "Nuclear": 3.408589,
+      "Electronic": -3.410443,
+      "Total": -0.001854
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.30322,
+      "PosY": 3.86274,
+      "PosZ": 3.45494,
+      "Nuclear": 3.542923,
+      "Electronic": -3.541119,
+      "Total": 0.001804
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.37085,
+      "PosY": 4.52257,
+      "PosZ": -1.72747,
+      "Nuclear": 3.408589,
+      "Electronic": -3.410443,
+      "Total": -0.001854
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": 4.94292,
+      "PosZ": -1.88803,
+      "Nuclear": 3.711319,
+      "Electronic": -3.705367,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.30322,
+      "PosY": 3.86274,
+      "PosZ": -3.45494,
+      "Nuclear": 3.542923,
+      "Electronic": -3.541119,
+      "Total": 0.001804
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.09832,
+      "PosY": 3.45494,
+      "PosZ": -1.06763,
+      "Nuclear": 3.238824,
+      "Electronic": -3.245645,
+      "Total": -0.006821
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.29048,
+      "PosY": 3.05489,
+      "PosZ": -3.05489,
+      "Nuclear": 3.312244,
+      "Electronic": -3.316880,
+      "Total": -0.004636
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.96305,
+      "PosY": 2.13527,
+      "PosZ": -4.52257,
+      "Nuclear": 3.456642,
+      "Electronic": -3.457155,
+      "Total": -0.000513
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.75815,
+      "PosY": 1.72747,
+      "PosZ": -2.13527,
+      "Nuclear": 3.185146,
+      "Electronic": -3.193583,
+      "Total": -0.008437
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.69052,
+      "PosY": 1.06763,
+      "PosZ": -3.86274,
+      "Nuclear": 3.274729,
+      "Electronic": -3.280476,
+      "Total": -0.005747
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.73658,
+      "PosY": 0.00000,
+      "PosZ": -2.78177,
+      "Nuclear": 3.186822,
+      "Electronic": -3.195208,
+      "Total": -0.008386
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.69052,
+      "PosY": -1.06763,
+      "PosZ": -3.86274,
+      "Nuclear": 3.274729,
+      "Electronic": -3.280476,
+      "Total": -0.005747
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.12361,
+      "PosY": 0.00000,
+      "PosZ": -4.94292,
+      "Nuclear": 3.437284,
+      "Electronic": -3.438333,
+      "Total": -0.001049
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.96305,
+      "PosY": -2.13527,
+      "PosZ": -4.52257,
+      "Nuclear": 3.456642,
+      "Electronic": -3.457155,
+      "Total": -0.000513
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.96305,
+      "PosY": 2.13527,
+      "PosZ": 4.52257,
+      "Nuclear": 3.456642,
+      "Electronic": -3.457155,
+      "Total": -0.000513
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.29048,
+      "PosY": 3.05489,
+      "PosZ": 3.05489,
+      "Nuclear": 3.312244,
+      "Electronic": -3.316880,
+      "Total": -0.004636
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.09832,
+      "PosY": 3.45494,
+      "PosZ": 1.06763,
+      "Nuclear": 3.238824,
+      "Electronic": -3.245645,
+      "Total": -0.006821
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.69052,
+      "PosY": 1.06763,
+      "PosZ": 3.86274,
+      "Nuclear": 3.274729,
+      "Electronic": -3.280476,
+      "Total": -0.005747
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.75815,
+      "PosY": 1.72747,
+      "PosZ": 2.13527,
+      "Nuclear": 3.185146,
+      "Electronic": -3.193583,
+      "Total": -0.008437
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.73658,
+      "PosY": 0.00000,
+      "PosZ": 2.78177,
+      "Nuclear": 3.186822,
+      "Electronic": -3.195208,
+      "Total": -0.008386
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -7.41799,
+      "PosY": 0.00000,
+      "PosZ": 1.06763,
+      "Nuclear": 3.136217,
+      "Electronic": -3.146127,
+      "Total": -0.009910
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -7.17851,
+      "PosY": 1.88803,
+      "PosZ": 0.00000,
+      "Nuclear": 3.153471,
+      "Electronic": -3.162863,
+      "Total": -0.009392
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -7.41799,
+      "PosY": 0.00000,
+      "PosZ": -1.06763,
+      "Nuclear": 3.136217,
+      "Electronic": -3.146127,
+      "Total": -0.009910
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.01735,
+      "PosY": -4.50099,
+      "PosZ": 0.00000,
+      "Nuclear": 3.339295,
+      "Electronic": -3.343139,
+      "Total": -0.003844
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.09832,
+      "PosY": -3.45494,
+      "PosZ": 1.06763,
+      "Nuclear": 3.238824,
+      "Electronic": -3.245645,
+      "Total": -0.006821
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.75815,
+      "PosY": -1.72747,
+      "PosZ": 2.13527,
+      "Nuclear": 3.185146,
+      "Electronic": -3.193583,
+      "Total": -0.008437
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.09832,
+      "PosY": -3.45494,
+      "PosZ": -1.06763,
+      "Nuclear": 3.238824,
+      "Electronic": -3.245645,
+      "Total": -0.006821
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -7.17851,
+      "PosY": -1.88803,
+      "PosZ": 0.00000,
+      "Nuclear": 3.153471,
+      "Electronic": -3.162863,
+      "Total": -0.009392
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -6.75815,
+      "PosY": -1.72747,
+      "PosZ": -2.13527,
+      "Nuclear": 3.185146,
+      "Electronic": -3.193583,
+      "Total": -0.008437
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.30322,
+      "PosY": -3.86274,
+      "PosZ": -3.45494,
+      "Nuclear": 3.542923,
+      "Electronic": -3.541119,
+      "Total": 0.001804
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.37085,
+      "PosY": -4.52257,
+      "PosZ": -1.72747,
+      "Nuclear": 3.408589,
+      "Electronic": -3.410443,
+      "Total": -0.001854
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.29048,
+      "PosY": -3.05489,
+      "PosZ": -3.05489,
+      "Nuclear": 3.312244,
+      "Electronic": -3.316880,
+      "Total": -0.004636
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.30322,
+      "PosY": -5.18240,
+      "PosZ": 0.00000,
+      "Nuclear": 3.542923,
+      "Electronic": -3.541119,
+      "Total": 0.001804
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -4.94292,
+      "PosZ": -1.88803,
+      "Nuclear": 3.711319,
+      "Electronic": -3.705367,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.69052,
+      "PosY": -1.06763,
+      "PosZ": 3.86274,
+      "Nuclear": 3.274729,
+      "Electronic": -3.280476,
+      "Total": -0.005747
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -5.29048,
+      "PosY": -3.05489,
+      "PosZ": 3.05489,
+      "Nuclear": 3.312244,
+      "Electronic": -3.316880,
+      "Total": -0.004636
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.37085,
+      "PosY": -4.52257,
+      "PosZ": 1.72747,
+      "Nuclear": 3.408589,
+      "Electronic": -3.410443,
+      "Total": -0.001854
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.96305,
+      "PosY": -2.13527,
+      "PosZ": 4.52257,
+      "Nuclear": 3.456642,
+      "Electronic": -3.457155,
+      "Total": -0.000513
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -3.30322,
+      "PosY": -3.86274,
+      "PosZ": 3.45494,
+      "Nuclear": 3.542923,
+      "Electronic": -3.541119,
+      "Total": 0.001804
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -2.23558,
+      "PosY": -4.94292,
+      "PosZ": 1.88803,
+      "Nuclear": 3.711319,
+      "Electronic": -3.705367,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": -4.12361,
+      "PosY": 0.00000,
+      "PosZ": 4.94292,
+      "Nuclear": 3.437284,
+      "Electronic": -3.438333,
+      "Total": -0.001049
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -2.78177,
+      "PosZ": 4.50099,
+      "Nuclear": 3.711320,
+      "Electronic": -3.705368,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.96305,
+      "PosY": -2.13527,
+      "PosZ": 4.52257,
+      "Nuclear": 3.456643,
+      "Electronic": -3.457156,
+      "Total": -0.000512
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.69052,
+      "PosY": -1.06763,
+      "PosZ": 3.86274,
+      "Nuclear": 3.274729,
+      "Electronic": -3.280476,
+      "Total": -0.005747
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.73657,
+      "PosY": 0.00000,
+      "PosZ": 2.78177,
+      "Nuclear": 3.186822,
+      "Electronic": -3.195209,
+      "Total": -0.008386
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -1.06763,
+      "PosZ": 5.18240,
+      "Nuclear": 3.711320,
+      "Electronic": -3.705368,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.12361,
+      "PosY": 0.00000,
+      "PosZ": 4.94292,
+      "Nuclear": 3.437285,
+      "Electronic": -3.438333,
+      "Total": -0.001049
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.69052,
+      "PosY": 1.06763,
+      "PosZ": 3.86274,
+      "Nuclear": 3.274729,
+      "Electronic": -3.280476,
+      "Total": -0.005747
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 1.06763,
+      "PosZ": 5.18240,
+      "Nuclear": 3.711320,
+      "Electronic": -3.705368,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.96305,
+      "PosY": 2.13527,
+      "PosZ": 4.52257,
+      "Nuclear": 3.456643,
+      "Electronic": -3.457156,
+      "Total": -0.000512
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 2.78177,
+      "PosZ": 4.50099,
+      "Nuclear": 3.711320,
+      "Electronic": -3.705368,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.01735,
+      "PosY": -4.50099,
+      "PosZ": 0.00000,
+      "Nuclear": 3.339296,
+      "Electronic": -3.343139,
+      "Total": -0.003843
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.09832,
+      "PosY": -3.45494,
+      "PosZ": 1.06763,
+      "Nuclear": 3.238825,
+      "Electronic": -3.245645,
+      "Total": -0.006820
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.75815,
+      "PosY": -1.72747,
+      "PosZ": 2.13527,
+      "Nuclear": 3.185146,
+      "Electronic": -3.193583,
+      "Total": -0.008437
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.37085,
+      "PosY": -4.52257,
+      "PosZ": 1.72747,
+      "Nuclear": 3.408590,
+      "Electronic": -3.410443,
+      "Total": -0.001853
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.29048,
+      "PosY": -3.05489,
+      "PosZ": 3.05489,
+      "Nuclear": 3.312245,
+      "Electronic": -3.316881,
+      "Total": -0.004636
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.30322,
+      "PosY": -3.86274,
+      "PosZ": 3.45494,
+      "Nuclear": 3.542924,
+      "Electronic": -3.541119,
+      "Total": 0.001804
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.75815,
+      "PosY": 1.72747,
+      "PosZ": 2.13527,
+      "Nuclear": 3.185146,
+      "Electronic": -3.193583,
+      "Total": -0.008437
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.09832,
+      "PosY": 3.45494,
+      "PosZ": 1.06763,
+      "Nuclear": 3.238825,
+      "Electronic": -3.245645,
+      "Total": -0.006820
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.01735,
+      "PosY": 4.50099,
+      "PosZ": 0.00000,
+      "Nuclear": 3.339296,
+      "Electronic": -3.343139,
+      "Total": -0.003843
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.29048,
+      "PosY": 3.05489,
+      "PosZ": 3.05489,
+      "Nuclear": 3.312245,
+      "Electronic": -3.316881,
+      "Total": -0.004636
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.37085,
+      "PosY": 4.52257,
+      "PosZ": 1.72747,
+      "Nuclear": 3.408590,
+      "Electronic": -3.410443,
+      "Total": -0.001853
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.30322,
+      "PosY": 3.86274,
+      "PosZ": 3.45494,
+      "Nuclear": 3.542924,
+      "Electronic": -3.541119,
+      "Total": 0.001804
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.09832,
+      "PosY": 3.45494,
+      "PosZ": -1.06763,
+      "Nuclear": 3.238825,
+      "Electronic": -3.245645,
+      "Total": -0.006820
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 7.17851,
+      "PosY": 1.88803,
+      "PosZ": 0.00000,
+      "Nuclear": 3.153472,
+      "Electronic": -3.162863,
+      "Total": -0.009391
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 7.41799,
+      "PosY": 0.00000,
+      "PosZ": 1.06763,
+      "Nuclear": 3.136217,
+      "Electronic": -3.146128,
+      "Total": -0.009910
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.75815,
+      "PosY": 1.72747,
+      "PosZ": -2.13527,
+      "Nuclear": 3.185146,
+      "Electronic": -3.193583,
+      "Total": -0.008437
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 7.41799,
+      "PosY": 0.00000,
+      "PosZ": -1.06763,
+      "Nuclear": 3.136217,
+      "Electronic": -3.146128,
+      "Total": -0.009910
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.73657,
+      "PosY": 0.00000,
+      "PosZ": -2.78177,
+      "Nuclear": 3.186822,
+      "Electronic": -3.195209,
+      "Total": -0.008386
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.09832,
+      "PosY": -3.45494,
+      "PosZ": -1.06763,
+      "Nuclear": 3.238825,
+      "Electronic": -3.245645,
+      "Total": -0.006820
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 6.75815,
+      "PosY": -1.72747,
+      "PosZ": -2.13527,
+      "Nuclear": 3.185146,
+      "Electronic": -3.193583,
+      "Total": -0.008437
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 7.17851,
+      "PosY": -1.88803,
+      "PosZ": 0.00000,
+      "Nuclear": 3.153472,
+      "Electronic": -3.162863,
+      "Total": -0.009391
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -2.78177,
+      "PosZ": -4.50099,
+      "Nuclear": 3.711320,
+      "Electronic": -3.705368,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.96305,
+      "PosY": -2.13527,
+      "PosZ": -4.52257,
+      "Nuclear": 3.456643,
+      "Electronic": -3.457156,
+      "Total": -0.000512
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.69052,
+      "PosY": -1.06763,
+      "PosZ": -3.86274,
+      "Nuclear": 3.274729,
+      "Electronic": -3.280476,
+      "Total": -0.005747
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.30322,
+      "PosY": -3.86274,
+      "PosZ": -3.45494,
+      "Nuclear": 3.542924,
+      "Electronic": -3.541119,
+      "Total": 0.001804
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.29048,
+      "PosY": -3.05489,
+      "PosZ": -3.05489,
+      "Nuclear": 3.312245,
+      "Electronic": -3.316881,
+      "Total": -0.004636
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.37085,
+      "PosY": -4.52257,
+      "PosZ": -1.72747,
+      "Nuclear": 3.408590,
+      "Electronic": -3.410443,
+      "Total": -0.001853
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 2.78177,
+      "PosZ": -4.50099,
+      "Nuclear": 3.711320,
+      "Electronic": -3.705368,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.96305,
+      "PosY": 2.13527,
+      "PosZ": -4.52257,
+      "Nuclear": 3.456643,
+      "Electronic": -3.457156,
+      "Total": -0.000512
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.69052,
+      "PosY": 1.06763,
+      "PosZ": -3.86274,
+      "Nuclear": 3.274729,
+      "Electronic": -3.280476,
+      "Total": -0.005747
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 1.06763,
+      "PosZ": -5.18240,
+      "Nuclear": 3.711320,
+      "Electronic": -3.705368,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.12361,
+      "PosY": 0.00000,
+      "PosZ": -4.94292,
+      "Nuclear": 3.437285,
+      "Electronic": -3.438333,
+      "Total": -0.001049
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -1.06763,
+      "PosZ": -5.18240,
+      "Nuclear": 3.711320,
+      "Electronic": -3.705368,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 4.37085,
+      "PosY": 4.52257,
+      "PosZ": -1.72747,
+      "Nuclear": 3.408590,
+      "Electronic": -3.410443,
+      "Total": -0.001853
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 5.29048,
+      "PosY": 3.05489,
+      "PosZ": -3.05489,
+      "Nuclear": 3.312245,
+      "Electronic": -3.316881,
+      "Total": -0.004636
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.30322,
+      "PosY": 3.86274,
+      "PosZ": -3.45494,
+      "Nuclear": 3.542924,
+      "Electronic": -3.541119,
+      "Total": 0.001804
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.30322,
+      "PosY": 5.18240,
+      "PosZ": 0.00000,
+      "Nuclear": 3.542924,
+      "Electronic": -3.541119,
+      "Total": 0.001804
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 4.94292,
+      "PosZ": 1.88803,
+      "Nuclear": 3.711320,
+      "Electronic": -3.705368,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": 4.94292,
+      "PosZ": -1.88803,
+      "Nuclear": 3.711320,
+      "Electronic": -3.705368,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -4.94292,
+      "PosZ": -1.88803,
+      "Nuclear": 3.711320,
+      "Electronic": -3.705368,
+      "Total": 0.005952
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 3.30322,
+      "PosY": -5.18240,
+      "PosZ": 0.00000,
+      "Nuclear": 3.542924,
+      "Electronic": -3.541119,
+      "Total": 0.001804
+    },
+    {
+      "MoleculeID": 0,
+      "Type": 2,
+      "PosX": 2.23558,
+      "PosY": -4.94292,
+      "PosZ": 1.88803,
+      "Nuclear": 3.711320,
+      "Electronic": -3.705368,
+      "Total": 0.005952
+    }
+  ],
+  "Charge": 0,
+  "DftEnergy": -187.4409864268,
+  "HFEnergy": -186.5581863722,
+  "ElectronAffinity": -0.1395750935,
+  "Hardness": 0.3009859220
+}

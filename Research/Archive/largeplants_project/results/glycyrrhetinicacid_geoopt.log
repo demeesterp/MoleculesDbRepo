@@ -1,0 +1,354 @@
+-------------------------------------------------------------------------
+
+  .g8"""bgd       db      `7MMM.     ,MMF'`7MM"""YMM   .M"""bgd  .M"""bgd
+.dP'     `M      ;MM:       MMMb    dPMM    MM    `7  ,MI    "Y ,MI    "Y
+dM'       `     ,V^MML      M YM   ,M MM    MM   d    `MMb.     `MMb.
+MM             ,M  `MM      M  Mb  M' MM    MMmmMM      `YMMNq.   `YMMNq.
+MM.    `7MMF'  A     MA     M  YM.P'  MM    MM   Y  , .     `MM .     `MM
+`Mb.     MM   A'     VML    M  `YM'   MM    MM     ,M Mb     dM Mb     dM
+  `"bmmm!GO .YAN.   .KEES!.JML. `'  .JMML..JMMmmmmMMM P"Ybmmd"  P"Ybmmd"
+
+-------------------------------------------------------------------------
+
+                       GAMESS for Microsoft Windows
+                    http://www.msg.ameslab.gov/gamess
+
+GAMESS References:
+
+"General Atomic and Molecular Electronic Structure System" 
+M.W.Schmidt, K.K.Baldridge, J.A.Boatz, S.T.Elbert, M.S.Gordon,
+J.H.Jensen, S.Koseki, N.Matsunaga, K.A.Nguyen, S.Su, T.L.Windus, M.Dupuis,
+J.A.Montgomery J. Comput. Chem., 14, 1347-1363(1993).
+
+"Advances in electronic structure theory: GAMESS a decade later" 
+M.S.Gordon, M.W.Schmidt pp. 1167-1189, in 
+"Theory and Applications of Computational Chemistry: the first forty years" 
+C.E.Dykstra, G.Frenking, K.S.Kim, G.E.Scuseria (editors),
+Elsevier, Amsterdam, 2005.
+=========================================================================
+
+Contents of rungms.gms file:
+
+GAMESSDIR=C:\Users\Public\gamess-64
+AUXDATADIR=C:\Users\Public\gamess-64\auxdata
+RESTARTDIR=C:\Users\Public\gamess-64\restart
+SCRATCHDIR=C:\Users\Public\gamess-64\scratch
+
+=========================================================================
+
+Job Properties
+
+Input Filename               : glycyrrhetinicacid_geoopt.inp
+GAMESS Version               : gamess.2019.R1.P1.mkl.exe
+Compute Processes Requested  : 12
+Compute Processes Per Node   : 0 (0 = running locally)
+Nodes Required               : 1
+
+=========================================================================
+
+------------------------ GAMESS EXECUTION SCRIPT ------------------------
+This job is running on host Development under operating system
+Microsoft Windows [Version 10.0.19041.508] at 13/10/2020 - 13:39:55.61
+Available scratch disk at beginning of the job is 799,319,392,256 bytes
+
+EXTBAS=/dev/null
+NUCBAS=/dev/null
+EXTCAB=/dev/null
+POSBAS=/dev/null
+DFTBPAR=C:\Users\Public\gamess-64\auxdata\DFTB
+ERICFMT=C:\Users\Public\gamess-64\auxdata\ericfmt.dat
+MCPPATH=C:\Users\Public\gamess-64\auxdata\MCP
+BASPATH=C:\Users\Public\gamess-64\auxdata\BASES
+QUANPOL=C:\Users\Public\gamess-64\auxdata\QUANPOL
+MAKEFP=C:\Users\Public\gamess-64\restart\glycyrrhetinicacid_geoopt.efp
+GAMMA=C:\Users\Public\gamess-64\restart\glycyrrhetinicacid_geoopt.gamma
+TRAJECT=C:\Users\Public\gamess-64\restart\glycyrrhetinicacid_geoopt.trj
+RESTART=C:\Users\Public\gamess-64\restart\glycyrrhetinicacid_geoopt.rst
+QMWAVE=C:\Users\Public\gamess-64\restart\glycyrrhetinicacid_geoopt.qmw
+MDDIP=C:\Users\Public\gamess-64\restart\glycyrrhetinicacid_geoopt.dip
+OPTHES1=C:\Users\Public\gamess-64\restart\glycyrrhetinicacid_geoopt.hs1
+OPTHES2=C:\Users\Public\gamess-64\restart\glycyrrhetinicacid_geoopt.hs2
+XYZ=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.xyz
+INPUT=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F05
+PUNCH=C:\Users\Public\gamess-64\restart\glycyrrhetinicacid_geoopt.dat
+AOINTS=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F08
+MOINTS=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F09
+DICTNRY=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F10
+DRTFILE=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F11
+CIVECTR=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F12
+CASINTS=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F13
+CIINTS=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F14
+WORK15=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F15
+WORK16=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F16
+CSFSAVE=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F17
+FOCKDER=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F18
+WORK19=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F19
+DASORT=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F20
+DIABDAT=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F21
+DFTINTS=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F21
+DFTGRID=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F22
+JKFILE=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F23
+ORDINT=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F24
+EFPIND=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F25
+PCMDATA=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F26
+PCMINTS=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F27
+SVPWRK1=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F26
+SVPWRK2=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F27
+COSCAV=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F26
+COSDATA=C:\Users\Public\gamess-64\restart\glycyrrhetinicacid_geoopt.cosmo
+COSPOT=C:\Users\Public\gamess-64\restart\glycyrrhetinicacid_geoopt.pot
+MLTPL=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F28
+MLTPLT=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F29
+DAFL30=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F30
+SOINTX=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F31
+SOINTY=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F32
+SOINTZ=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F33
+SORESC=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F34
+GCILIST=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F37
+HESSIAN=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F38
+QMMMTEI=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F39
+SOCCDAT=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F40
+AABB41=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F41
+BBAA42=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F42
+BBBB43=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F43
+REMD=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F44
+UNV=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F45
+UNPV=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F46
+MCQD50=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F50
+MCQD51=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F51
+MCQD52=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F52
+MCQD53=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F53
+MCQD54=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F54
+MCQD55=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F55
+MCQD56=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F56
+MCQD57=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F57
+MCQD58=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F58
+MCQD59=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F59
+MCQD60=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F60
+MCQD61=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F61
+MCQD62=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F62
+MCQD63=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F63
+MCQD64=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F64
+NMRINT1=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F61
+NMRINT2=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F62
+NMRINT3=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F63
+NMRINT4=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F64
+NMRINT5=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F65
+NMRINT6=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F66
+DCPHFH2=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F67
+DCPHF21=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F68
+ELNUINT=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F67
+NUNUINT=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F68
+GVVPT=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F69
+NUMOCAS=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F70
+NUELCAS=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F72
+RIVMAT=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F51
+RIT2A=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F52
+RIT3A=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F53
+RIT2B=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F54
+RIT3B=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F55
+DEN2P1=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F70
+DEN2P2=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F71
+DEN2P3=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F72
+DEN2P4=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F73
+DEN2NM=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F74
+DEN2OPT=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F75
+GMCREF=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F70
+GMCO2R=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F71
+GMCROC=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F72
+GMCOOC=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F73
+GMCCC0=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F74
+GMCHMA=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F75
+GMCEI1=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F76
+GMCEI2=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F77
+GMCEOB=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F78
+GMCEDT=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F79
+GMCERF=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F80
+GMCHCR=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F81
+GMCGJK=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F82
+GMCGAI=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F83
+GMCGEO=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F84
+GMCTE1=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F85
+GMCTE2=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F86
+GMCHEF=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F87
+GMCMOL=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F88
+GMCMOS=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F89
+GMCWGT=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F90
+GMCRM2=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F91
+GMCRM1=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F92
+GMCR00=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F93
+GMCRP1=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F94
+GMCRP2=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F95
+GMCVEF=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F96
+GMCDIN=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F97
+GMC2SZ=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F98
+GMCCCS=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F99
+DCSUB=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F250
+DCVEC=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F251
+DCEIG=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F252
+DCDM=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F253
+DCDMO=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F254
+DCQ=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F255
+DCW=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F256
+DCEDM=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F257
+LHYPWRK=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F297
+LHYPWK2=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F298
+BONDDPF=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.F299
+VB2000PATH=C:\Users\Public\gamess-64\vb2000
+GMSJOBNAME=glycyrrhetinicacid_geoopt
+CIMFILE=C:\Users\Public\gamess-64\restart\glycyrrhetinicacid_geoopt.cim
+CIMDMN=C:\Users\Public\gamess-64\restart\glycyrrhetinicacid_geoopt.dmn
+CIMDCT=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.Fcdt
+CIMAOI=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.Fcao
+CIMMOI=C:\Users\Public\gamess-64\scratch\glycyrrhetinicacid_geoopt.Fcmo
+CASINO=C:\Users\Public\gamess-64\restart\glycyrrhetinicacid_geoopt.casino
+
+=========================================================================
+
+Searching for restart files from a previous glycyrrhetinicacid_geoopt run.
+
+None found.
+
+=========================================================================
+Microsoft MPI (MS-MPI) will be running GAMESS on 1 node(s).
+The binary will be kicked off by 'mpiexec' is gamess.2019.R1.P1.mkl.exe
+MS-MPI will run 12 compute process(es) and 12 data server(s).
+
+          ******************************************************
+          *      GAMESS VERSION = 30 JUN 2019 R1 Patch 1       *
+          *             FROM IOWA STATE UNIVERSITY             *
+          * M.W.SCHMIDT, K.K.BALDRIDGE, J.A.BOATZ, S.T.ELBERT, *
+          *   M.S.GORDON, J.H.JENSEN, S.KOSEKI, N.MATSUNAGA,   *
+          *          K.A.NGUYEN, S.J.SU, T.L.WINDUS,           *
+          *       TOGETHER WITH M.DUPUIS, J.A.MONTGOMERY       *
+          *         J.COMPUT.CHEM.  14, 1347-1363(1993)        *
+          *************** 64 BIT WINDOWS VERSION ***************
+
+  SINCE 1993, STUDENTS AND POSTDOCS WORKING AT IOWA STATE UNIVERSITY
+  AND ALSO IN THEIR VARIOUS JOBS AFTER LEAVING ISU HAVE MADE IMPORTANT
+  CONTRIBUTIONS TO THE CODE:
+     IVANA ADAMOVIC, CHRISTINE AIKENS, YURI ALEXEEV, POOJA ARORA,
+     ANDREY ASADCHEV, ROB BELL, PRADIPTA BANDYOPADHYAY, JONATHAN BENTZ,
+     COLLEEN BERTONI, BRETT BODE, KURT BRORSEN, CALEB CARLIN, GALINA CHABAN,
+     WEI CHEN, CHEOL HO CHOI, PAUL DAY, ALBERT DEFUSCO, NUWAN DESILVA,
+     TIM DUDLEY, DMITRI FEDOROV, ALEX FINDLATER, GRAHAM FLETCHER, 
+     MARK FREITAG, KURT GLAESEMANN, ANASTASIA GUNINA,
+     DAN KEMP, GRANT MERRILL, NORIYUKI MINEZAWA, JONATHAN MULLIN,
+     TAKESHI NAGATA, SEAN NEDD, HEATHER NETZLOFF, BOSILJKA NJEGIC, RYAN OLSON,
+     MIKE PAK, BUU PHAM,
+     SPENCER PRUITT, LUKE ROSKOP, JIM SHOEMAKER, LYUDMILA SLIPCHENKO,
+     TONY SMITH, SAROM SOK LEANG, JIE SONG, TETSUYA TAKETSUGU, SIMON WEBB,
+     PENG XU, SOOHAENG YOO, FEDERICO ZAHARIEV
+
+  ADDITIONAL CODE HAS BEEN PROVIDED BY COLLABORATORS IN OTHER GROUPS:
+     IOWA STATE UNIVERSITY:
+          JOE IVANIC, AARON WEST, LAIMUTIS BYTAUTAS, KLAUS RUEDENBERG
+     UNIVERSITY OF TOKYO: KIMIHIKO HIRAO, TAKAHITO NAKAJIMA,
+          TAKAO TSUNEDA, MUNEAKI KAMIYA, SUSUMU YANAGISAWA,
+          KIYOSHI YAGI, MAHITO CHIBA, SEIKEN TOKURA, NAOAKI KAWAKAMI
+     UNIVERSITY OF AARHUS: FRANK JENSEN
+     UNIVERSITY OF IOWA: VISVALDAS KAIRYS, HUI LI
+     NATIONAL INST. OF STANDARDS AND TECHNOLOGY: WALT STEVENS, DAVID GARMER
+     UNIVERSITY OF PISA: BENEDETTA MENNUCCI, JACOPO TOMASI
+     UNIVERSITY OF MEMPHIS: HENRY KURTZ, PRAKASHAN KORAMBATH
+     UNIVERSITY OF ALBERTA: TOBY ZENG, MARIUSZ KLOBUKOWSKI
+     UNIVERSITY OF NEW ENGLAND: MARK SPACKMAN
+     MIE UNIVERSITY: HIROAKI UMEDA
+     NAT. INST. OF ADVANCED INDUSTRIAL SCIENCE AND TECHNOLOGY: KAZUO KITAURA
+     MICHIGAN STATE UNIVERSITY:
+          KAROL KOWALSKI, MARTA WLOCH, JEFFREY GOUR, JESSE LUTZ,
+          WEI LI, JUN SHEN, J. EMILIANO DEUSTUA, PIOTR PIECUCH
+     UNIVERSITY OF MINNESOTA:
+          YINAN SHU
+     UNIVERSITY OF SILESIA: MONIKA MUSIAL, STANISLAW KUCHARSKI
+     FACULTES UNIVERSITAIRES NOTRE-DAME DE LA PAIX:
+          OLIVIER QUINET, BENOIT CHAMPAGNE
+     UNIVERSITY OF CALIFORNIA - SANTA BARBARA: BERNARD KIRTMAN
+     INSTITUTE FOR MOLECULAR SCIENCE:
+          KAZUYA ISHIMURA, MICHIO KATOUDA, AND SHIGERU NAGASE
+     UNIVERSITY OF NOTRE DAME: ANNA POMOGAEVA, DAN CHIPMAN
+     KYUSHU UNIVERSITY:
+          HARUYUKI NAKANO,
+          FENG LONG GU, JACEK KORCHOWIEC, MARCIN MAKOWSKI, AND YURIKO AOKI,
+          HIROTOSHI MORI AND EISAKU MIYOSHI
+     PENNSYLVANIA STATE UNIVERSITY:
+          TZVETELIN IORDANOV, CHET SWALINA, JONATHAN SKONE,
+          SHARON HAMMES-SCHIFFER
+     WASEDA UNIVERSITY:
+          MASATO KOBAYASHI, TOMOKO AKAMA, TSUGUKI TOUMA,
+          TAKESHI YOSHIKAWA, YASUHIRO IKABATA, JUNJI SEINO,
+          YUYA NAKAJIMA, HIROMI NAKAI
+     NANJING UNIVERSITY: SHUHUA LI
+     UNIVERSITY OF NEBRASKA:
+          PEIFENG SU, DEJUN SI, NANDUN THELLAMUREGE, YALI WANG, HUI LI
+     UNIVERSITY OF ZURICH: ROBERTO PEVERATI, KIM BALDRIDGE
+     N. COPERNICUS UNIVERSITY AND JACKSON STATE UNIVERSITY:
+          MARIA BARYSZ
+     UNIVERSITY OF COPENHAGEN: Jimmy Kromann, CASPER STEINMANN
+     TOKYO INSTITUTE OF TECHNOLOGY: HIROYA NAKATA
+     NAGOYA UNIVERSITY: YOSHIO NISHIMOTO, STEPHAN IRLE
+     MOSCOW STATE UNIVERSITY: VLADIMIR MIRONOV
+     A.N.NESMEYANOV INSTITUTE OF ORGANOELEMENT COMPOUNDS OF RUSSIAN ACADEMY OF SCIENCES:
+          IGOR S. GERASIMOV
+
+
+ PARALLEL VERSION RUNNING ON       12 PROCESSORS IN       12 NODES.
+
+ EXECUTION OF GAMESS BEGUN Tue Oct 13 13:39:58 2020
+
+            ECHO OF THE FIRST FEW INPUT CARDS -
+ INPUT CARD> $BASIS GBASIS=N31 NGAUSS=6 NDFUNC=1 NPFUNC=1 $END                              
+ INPUT CARD> $CONTRL SCFTYP=RHF RUNTYP=OPTIMIZE DFTTYP=B3LYP MAXIT=60 MULT=1 ICHARG=0 $END  
+ INPUT CARD> $SYSTEM MEMDDI=1000 MWORDS=30 $END                                             
+ INPUT CARD> $STATPT NSTEP=999 $END                                                         
+ INPUT CARD> $SCF DIRSCF=.TRUE. $END                                                        
+ INPUT CARD> $DATA                                                                          
+ INPUT CARD>                                                                                
+ INPUT CARD>C1                                                                              
+ INPUT CARD> $END                                                                           
+   30000000 WORDS OF MEMORY AVAILABLE
+
+     BASIS OPTIONS
+     -------------
+     GBASIS=N31          IGAUSS=       6      POLAR=POPN31  
+     NDFUNC=       1     NFFUNC=       0     DIFFSP=       F
+     NPFUNC=       1      DIFFS=       F     BASNAM=        
+
+
+     RUN TITLE
+     ---------
+                                                                                 
+
+ THE POINT GROUP OF THE MOLECULE IS C1      
+ THE ORDER OF THE PRINCIPAL AXIS IS     0
+ ERROR!  THERE ARE NO BASIS FUNCTIONS DEFINED.
+ CHECK YOUR $BASIS/$DATA INPUT FOR ERRORS.
+ EXECUTION OF GAMESS TERMINATED -ABNORMALLY- AT Tue Oct 13 13:39:58 2020
+                   580000  WORDS OF DYNAMIC MEMORY USED
+ CPU     0: STEP CPU TIME=     0.09 TOTAL CPU TIME=          0.1 (      0.0 MIN)
+ TOTAL WALL CLOCK TIME=          0.1 SECONDS, CPU UTILIZATION IS   100.00%
+
+job aborted:
+[ranks] message
+
+[0] application aborted
+aborting MPI_COMM_WORLD (comm=0x44000000), error 911, comm rank 0
+
+[1-23] terminated
+
+---- error analysis -----
+
+[0] on DEVELOPMENT
+C:\Users\Public\gamess-64\gamess.2019.R1.P1.mkl.exe aborted the job. abort code 911
+
+---- error analysis -----
+           Disk usage (in bytes)
+ ========================================
+03/10/2020  16:59               233 glycyrrhetinicacid_geoopt.F05
+13/10/2020  13:39        11,468,800 glycyrrhetinicacid_geoopt.F10
+13/10/2020  13:39            21,543 glycyrrhetinicacid_geoopt.GMS.ENV
+13/10/2020  13:39               140 glycyrrhetinicacid_geoopt.processes.mpd
+ ----------------------------------------
+            Local date and time
+ ========================================
+13/10/2020 - 13:40:03.66

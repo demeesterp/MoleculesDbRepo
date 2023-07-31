@@ -1,0 +1,747 @@
+----- GAMESS execution script 'rungms' -----
+This job is running on host pietdev
+under operating system Linux at zo 17 mei 2020 11:52:20 CEST
+Available scratch disk space (Kbyte units) at beginning of the job is
+Filesystem     1K-blocks     Used Available Use% Mounted on
+/dev/sda2      244568380 30341540 201733784  14% /
+GAMESS temporary binary files will be written to /home/piet/scr
+GAMESS supplementary output files will be written to /home/piet/gamess/scr
+Copying input file co2_fukui_neu.inp to your run's scratch directory...
+cp co2_fukui_neu.inp /home/piet/scr/co2_fukui_neu.F05
+unset echo
+ 
+Assuming a single but multicore node.
+ 
+/home/piet/gamess/ddikick.x /home/piet/gamess/gamess.03.x co2_fukui_neu -ddi 1 6 pietdev:cpus=6 -scr /home/piet/scr
+
+ Distributed Data Interface kickoff program.
+ Initiating 6 compute processes on 1 nodes to run the following command:
+ /home/piet/gamess/gamess.03.x co2_fukui_neu 
+
+          ******************************************************
+          *         GAMESS VERSION = 30 SEP 2019 (R2)          *
+          *             FROM IOWA STATE UNIVERSITY             *
+          * M.W.SCHMIDT, K.K.BALDRIDGE, J.A.BOATZ, S.T.ELBERT, *
+          *   M.S.GORDON, J.H.JENSEN, S.KOSEKI, N.MATSUNAGA,   *
+          *          K.A.NGUYEN, S.J.SU, T.L.WINDUS,           *
+          *       TOGETHER WITH M.DUPUIS, J.A.MONTGOMERY       *
+          *         J.COMPUT.CHEM.  14, 1347-1363(1993)        *
+          **************** 64 BIT LINUX VERSION ****************
+
+  SINCE 1993, STUDENTS AND POSTDOCS WORKING AT IOWA STATE UNIVERSITY
+  AND ALSO IN THEIR VARIOUS JOBS AFTER LEAVING ISU HAVE MADE IMPORTANT
+  CONTRIBUTIONS TO THE CODE:
+     IVANA ADAMOVIC, CHRISTINE AIKENS, YURI ALEXEEV, POOJA ARORA,
+     ANDREY ASADCHEV, ROB BELL, PRADIPTA BANDYOPADHYAY, JONATHAN BENTZ,
+     COLLEEN BERTONI, BRETT BODE, KURT BRORSEN, CALEB CARLIN, GALINA CHABAN,
+     WEI CHEN, CHEOL HO CHOI, PAUL DAY, ALBERT DEFUSCO, NUWAN DESILVA,
+     TIM DUDLEY, DMITRI FEDOROV, ALEX FINDLATER, GRAHAM FLETCHER, 
+     MARK FREITAG, KURT GLAESEMANN, EMILIE B GUIDEZ, ANASTASIA GUNINA, 
+     DAN KEMP, SAROM SOK LEANG, GRANT MERRILL,
+     NORIYUKI MINEZAWA, JONATHAN MULLIN,
+     TAKESHI NAGATA, SEAN NEDD, HEATHER NETZLOFF, BOSILJKA NJEGIC, RYAN OLSON,
+     MIKE PAK, BUU PHAM, DAVID POOLE,
+     SPENCER PRUITT, LUKE ROSKOP, TOSAPORN SATTASATHUCHANA,
+     JIM SHOEMAKER, LYUDMILA SLIPCHENKO,
+     TONY SMITH, JIE SONG, TETSUYA TAKETSUGU, SIMON WEBB,
+     JORGE LUIS GALVEZ VALLEJO, PENG XU, SOOHAENG YOO,
+     FEDERICO ZAHARIEV
+
+  ADDITIONAL CODE HAS BEEN PROVIDED BY COLLABORATORS IN OTHER GROUPS:
+     IOWA STATE UNIVERSITY:
+          JOE IVANIC, AARON WEST, LAIMUTIS BYTAUTAS, KLAUS RUEDENBERG
+     UNIVERSITY OF TOKYO: KIMIHIKO HIRAO, TAKAHITO NAKAJIMA,
+          TAKAO TSUNEDA, MUNEAKI KAMIYA, SUSUMU YANAGISAWA,
+          KIYOSHI YAGI, MAHITO CHIBA, SEIKEN TOKURA, NAOAKI KAWAKAMI
+     UNIVERSITY OF AARHUS: FRANK JENSEN
+     UNIVERSITY OF IOWA: VISVALDAS KAIRYS, HUI LI
+     NATIONAL INST. OF STANDARDS AND TECHNOLOGY: WALT STEVENS, DAVID GARMER
+     UNIVERSITY OF PISA: BENEDETTA MENNUCCI, JACOPO TOMASI
+     UNIVERSITY OF MEMPHIS: HENRY KURTZ, PRAKASHAN KORAMBATH
+     UNIVERSITY OF ALBERTA: TOBY ZENG, MARIUSZ KLOBUKOWSKI
+     UNIVERSITY OF NEW ENGLAND: MARK SPACKMAN
+     MIE UNIVERSITY: HIROAKI UMEDA
+     NAT. INST. OF ADVANCED INDUSTRIAL SCIENCE AND TECHNOLOGY: KAZUO KITAURA
+     MICHIGAN STATE UNIVERSITY:
+          KAROL KOWALSKI, MARTA WLOCH, JEFFREY GOUR, JESSE LUTZ,
+          WEI LI, JUN SHEN, J. EMILIANO DEUSTUA, PIOTR PIECUCH
+     UNIVERSITY OF MINNESOTA:
+          ANDREW SAND, PRACHI SHARMA, YINAN SHU
+     UNIVERSITY OF SILESIA: MONIKA MUSIAL, STANISLAW KUCHARSKI
+     FACULTES UNIVERSITAIRES NOTRE-DAME DE LA PAIX:
+          OLIVIER QUINET, BENOIT CHAMPAGNE
+     UNIVERSITY OF CALIFORNIA - SANTA BARBARA: BERNARD KIRTMAN
+     INSTITUTE FOR MOLECULAR SCIENCE:
+          KAZUYA ISHIMURA, MICHIO KATOUDA, AND SHIGERU NAGASE
+     UNIVERSITY OF NOTRE DAME: ANNA POMOGAEVA, DAN CHIPMAN
+     KYUSHU UNIVERSITY:
+          HARUYUKI NAKANO,
+          FENG LONG GU, JACEK KORCHOWIEC, MARCIN MAKOWSKI, AND YURIKO AOKI,
+          HIROTOSHI MORI AND EISAKU MIYOSHI
+     PENNSYLVANIA STATE UNIVERSITY:
+          TZVETELIN IORDANOV, CHET SWALINA, JONATHAN SKONE,
+          SHARON HAMMES-SCHIFFER
+     WASEDA UNIVERSITY:
+          MASATO KOBAYASHI, TOMOKO AKAMA, TSUGUKI TOUMA,
+          TAKESHI YOSHIKAWA, YASUHIRO IKABATA, JUNJI SEINO,
+          YUYA NAKAJIMA, HIROMI NAKAI
+     NANJING UNIVERSITY: SHUHUA LI
+     UNIVERSITY OF NEBRASKA:
+          PEIFENG SU, DEJUN SI, NANDUN THELLAMUREGE, YALI WANG, HUI LI
+     UNIVERSITY OF ZURICH: ROBERTO PEVERATI, KIM BALDRIDGE
+     N. COPERNICUS UNIVERSITY AND JACKSON STATE UNIVERSITY:
+          MARIA BARYSZ
+     UNIVERSITY OF COPENHAGEN: Jimmy Kromann, CASPER STEINMANN
+     TOKYO INSTITUTE OF TECHNOLOGY: HIROYA NAKATA
+     NAGOYA UNIVERSITY: YOSHIO NISHIMOTO, STEPHAN IRLE
+     MOSCOW STATE UNIVERSITY: VLADIMIR MIRONOV
+     A.N.NESMEYANOV INSTITUTE OF ORGANOELEMENT COMPOUNDS OF RUSSIAN ACADEMY OF SCIENCES:
+          IGOR S. GERASIMOV
+     JOHANNES KEPLER UNIVERSITY LINZ:
+          CHRISTIAN FRIEDL
+
+
+ PARALLEL VERSION RUNNING ON        6 PROCESSORS IN        1 NODES.
+
+ EXECUTION OF GAMESS BEGUN Sun May 17 11:52:20 2020
+
+            ECHO OF THE FIRST FEW INPUT CARDS -
+ INPUT CARD> $BASIS GBASIS=N21 NGAUSS=3 $END                                                
+ INPUT CARD> $CONTRL SCFTYP=RHF MAXIT=60 MULT=1 ICHARG=0 $END                               
+ INPUT CARD> $SYSTEM MEMDDI=1000 MWORDS=30 $END                                             
+ INPUT CARD> $SCF DIRSCF=.TRUE. $END                                                        
+ INPUT CARD> $DATA                                                                          
+ INPUT CARD>                                                                                
+ INPUT CARD>C1                                                                              
+ INPUT CARD>C 6.0000000 0.0000010146 0.0000000000 0.0000000000                              
+ INPUT CARD>O 8.0000000 -1.1830206635 0.0000000000 0.0000000000                             
+ INPUT CARD>O 8.0000000 1.1830196489 0.0000000000 0.0000000000                              
+ INPUT CARD> $END                                                                           
+   30000000 WORDS OF MEMORY AVAILABLE
+
+     BASIS OPTIONS
+     -------------
+     GBASIS=N21          IGAUSS=       3      POLAR=NONE    
+     NDFUNC=       0     NFFUNC=       0     DIFFSP=       F
+     NPFUNC=       0      DIFFS=       F     BASNAM=        
+
+
+     RUN TITLE
+     ---------
+                                                                                 
+
+ THE POINT GROUP OF THE MOLECULE IS C1      
+ THE ORDER OF THE PRINCIPAL AXIS IS     0
+
+ ATOM      ATOMIC                      COORDINATES (BOHR)
+           CHARGE         X                   Y                   Z
+ C           6.0     0.0000019173        0.0000000000        0.0000000000
+ O           8.0    -2.2355848918        0.0000000000        0.0000000000
+ O           8.0     2.2355829745        0.0000000000        0.0000000000
+
+          INTERNUCLEAR DISTANCES (ANGS.)
+          ------------------------------
+
+                1 C          2 O          3 O     
+
+   1 C       0.0000000    1.1830217 *  1.1830186 *
+   2 O       1.1830217 *  0.0000000    2.3660403 *
+   3 O       1.1830186 *  2.3660403 *  0.0000000  
+
+  * ... LESS THAN  3.000
+
+
+     ATOMIC BASIS SET
+     ----------------
+ THE CONTRACTED PRIMITIVE FUNCTIONS HAVE BEEN UNNORMALIZED
+ THE CONTRACTED BASIS FUNCTIONS ARE NOW NORMALIZED TO UNITY
+
+  SHELL TYPE  PRIMITIVE        EXPONENT          CONTRACTION COEFFICIENT(S)
+
+ C         
+
+      1   S       1           172.2560000    0.061766907377
+      1   S       2            25.9109000    0.358794042852
+      1   S       3             5.5333500    0.700713083689
+
+      2   L       4             3.6649800   -0.395895162119    0.236459946619
+      2   L       5             0.7705450    1.215834355681    0.860618805716
+
+      3   L       6             0.1958570    1.000000000000    1.000000000000
+
+ O         
+
+      4   S       7           322.0370000    0.059239393389
+      4   S       8            48.4308000    0.351499960776
+      4   S       9            10.4206000    0.707657921031
+
+      5   L      10             7.4029400   -0.404453583190    0.244586106967
+      5   L      11             1.5762000    1.221561761397    0.853955373466
+
+      6   L      12             0.3736840    1.000000000000    1.000000000000
+
+ O         
+
+      7   S      13           322.0370000    0.059239393389
+      7   S      14            48.4308000    0.351499960776
+      7   S      15            10.4206000    0.707657921031
+
+      8   L      16             7.4029400   -0.404453583190    0.244586106967
+      8   L      17             1.5762000    1.221561761397    0.853955373466
+
+      9   L      18             0.3736840    1.000000000000    1.000000000000
+
+ TOTAL NUMBER OF BASIS SET SHELLS             =    9
+ NUMBER OF CARTESIAN GAUSSIAN BASIS FUNCTIONS =   27
+ NUMBER OF ELECTRONS                          =   22
+ CHARGE OF MOLECULE                           =    0
+ SPIN MULTIPLICITY                            =    1
+ NUMBER OF OCCUPIED ORBITALS (ALPHA)          =   11
+ NUMBER OF OCCUPIED ORBITALS (BETA )          =   11
+ TOTAL NUMBER OF ATOMS                        =    3
+ THE NUCLEAR REPULSION ENERGY IS       57.2557344419
+
+ THIS MOLECULE IS RECOGNIZED AS BEING LINEAR,
+ ORBITAL LZ DEGENERACY TOLERANCE ETOLLZ= 1.00E-06
+
+     $CONTRL OPTIONS
+     ---------------
+ SCFTYP=RHF          RUNTYP=ENERGY       EXETYP=RUN     
+ MPLEVL=       0     CITYP =NONE         CCTYP =NONE         VBTYP =NONE    
+ DFTTYP=NONE         TDDFT =NONE    
+ MULT  =       1     ICHARG=       0     NZVAR =       0     COORD =UNIQUE  
+ PP    =NONE         RELWFN=NONE         LOCAL =NONE         NUMGRD=       F
+ ISPHER=      -1     NOSYM =       0     MAXIT =      60     UNITS =ANGS    
+ PLTORB=       F     MOLPLT=       F     AIMPAC=       F     FRIEND=        
+ NPRINT=       7     IREST =       0     GEOM  =INPUT   
+ NORMF =       0     NORMP =       0     ITOL  =      20     ICUT  =       9
+ INTTYP=BEST         GRDTYP=BEST         QMTTOL= 1.0E-06
+
+     $SYSTEM OPTIONS
+     ---------------
+  REPLICATED MEMORY=    30000000 WORDS (ON EVERY NODE).
+ DISTRIBUTED MEMDDI=        1000 MILLION WORDS IN AGGREGATE,
+ MEMDDI DISTRIBUTED OVER   6 PROCESSORS IS   166666666 WORDS/PROCESSOR.
+ TOTAL MEMORY REQUESTED ON EACH PROCESSOR=   196666666 WORDS.
+ TIMLIM=      525600.00 MINUTES, OR     365.0 DAYS.
+ PARALL= T  BALTYP=  DLB     KDIAG=    0  COREFL= F
+ MXSEQ2=     300 MXSEQ3=     150  mem10=         0
+
+          ----------------
+          PROPERTIES INPUT
+          ----------------
+
+     MOMENTS            FIELD           POTENTIAL          DENSITY
+ IEMOM =       1   IEFLD =       0   IEPOT =       0   IEDEN =       0
+ WHERE =COMASS     WHERE =NUCLEI     WHERE =NUCLEI     WHERE =NUCLEI  
+ OUTPUT=BOTH       OUTPUT=BOTH       OUTPUT=BOTH       OUTPUT=BOTH    
+ IEMINT=       0   IEFINT=       0                     IEDINT=       0
+                                                       MORB  =       0
+          EXTRAPOLATION IN EFFECT
+          SOSCF IN EFFECT
+ ORBITAL PRINTING OPTION: NPREO=     1    27     2     1
+
+     -------------------------------
+     INTEGRAL TRANSFORMATION OPTIONS
+     -------------------------------
+     NWORD  =            0
+     CUTOFF = 1.0E-09     MPTRAN =       0
+     DIRTRF =       T     AOINTS =DUP     
+
+          ----------------------
+          INTEGRAL INPUT OPTIONS
+          ----------------------
+ NOPK  =       1 NORDER=       0 SCHWRZ=       T
+
+     ------------------------------------------
+     THE POINT GROUP IS C1 , NAXIS= 0, ORDER= 1
+     ------------------------------------------
+
+     DIMENSIONS OF THE SYMMETRY SUBSPACES ARE
+ A   =   27
+
+ ..... DONE SETTING UP THE RUN .....
+ CPU     0: STEP CPU TIME=     0.02 TOTAL CPU TIME=          0.0 (      0.0 MIN)
+ TOTAL WALL CLOCK TIME=          0.0 SECONDS, CPU UTILIZATION IS    66.67%
+
+          ********************
+          1 ELECTRON INTEGRALS
+          ********************
+ ...... END OF ONE-ELECTRON INTEGRALS ......
+ CPU     0: STEP CPU TIME=     0.01 TOTAL CPU TIME=          0.0 (      0.0 MIN)
+ TOTAL WALL CLOCK TIME=          0.0 SECONDS, CPU UTILIZATION IS    75.00%
+
+          -------------
+          GUESS OPTIONS
+          -------------
+          GUESS =HUCKEL            NORB  =       0          NORDER=       0
+          MIX   =       F          PRTMO =       F          PUNMO =       F
+          TOLZ  = 1.0E-08          TOLE  = 1.0E-05
+          SYMDEN=       F          PURIFY=       F
+
+ INITIAL GUESS ORBITALS GENERATED BY HUCKEL   ROUTINE.
+ HUCKEL GUESS REQUIRES      8640 WORDS.
+
+ SYMMETRIES FOR INITIAL GUESS ORBITALS FOLLOW.   BOTH SET(S).
+    11 ORBITALS ARE OCCUPIED (    3 CORE ORBITALS).
+     4=A        5=A        6=A        7=A        8=A        9=A       10=A   
+    11=A       12=A       13=A       14=A       15=A       16=A       17=A   
+    18=A       19=A       20=A       21=A   
+ ...... END OF INITIAL ORBITAL SELECTION ......
+ CPU     0: STEP CPU TIME=     0.01 TOTAL CPU TIME=          0.0 (      0.0 MIN)
+ TOTAL WALL CLOCK TIME=          0.0 SECONDS, CPU UTILIZATION IS    80.00%
+
+                    ----------------------
+                    AO INTEGRAL TECHNOLOGY
+                    ----------------------
+     S,P,L SHELL ROTATED AXIS INTEGRALS, REPROGRAMMED BY
+        KAZUYA ISHIMURA (IMS) AND JOSE SIERRA (SYNSTAR).
+     S,P,D,L SHELL ROTATED AXIS INTEGRALS PROGRAMMED BY
+        KAZUYA ISHIMURA (INSTITUTE FOR MOLECULAR SCIENCE).
+     S,P,D,F,G SHELL TO TOTAL QUARTET ANGULAR MOMENTUM SUM 5,
+        ERIC PROGRAM BY GRAHAM FLETCHER (ELORET AND NASA ADVANCED
+        SUPERCOMPUTING DIVISION, AMES RESEARCH CENTER).
+     S,P,D,F,G,L SHELL GENERAL RYS QUADRATURE PROGRAMMED BY
+        MICHEL DUPUIS (PACIFIC NORTHWEST NATIONAL LABORATORY).
+
+          --------------------
+          2 ELECTRON INTEGRALS
+          --------------------
+
+ DIRECT SCF METHOD SKIPS INTEGRAL STORAGE ON DISK.
+ DIRECT TRANSFORMATION SKIPS AO INTEGRAL STORAGE ON DISK.
+  ...... END OF TWO-ELECTRON INTEGRALS .....
+ CPU     0: STEP CPU TIME=     0.01 TOTAL CPU TIME=          0.0 (      0.0 MIN)
+ TOTAL WALL CLOCK TIME=          0.1 SECONDS, CPU UTILIZATION IS    83.33%
+
+          --------------------------
+                 RHF SCF CALCULATION
+          --------------------------
+
+     NUCLEAR ENERGY =        57.2557344419
+     MAXIT =   60     NPUNCH=    2
+     EXTRAP=T  DAMP=F  SHIFT=F  RSTRCT=F  DIIS=F  DEM=F  SOSCF=T
+     DENSITY MATRIX CONV=  2.00E-05
+     SOSCF WILL OPTIMIZE     176 ORBITAL ROTATIONS, SOGTOL=   0.250
+     MEMORY REQUIRED FOR RHF ITERS=     50631 WORDS.
+
+ DIRECT SCF CALCULATION, SCHWRZ=T   FDIFF=T,  DIRTHR=  0.00E+00 NITDIR=10
+ SCHWARZ INEQUALITY OVERHEAD:       377 INTEGRALS, T=        0.00
+
+                                                                                   NONZERO     BLOCKS
+ ITER EX DEM     TOTAL ENERGY        E CHANGE  DENSITY CHANGE     ORB. GRAD      INTEGRALS    SKIPPED
+   1  0  0     -186.0732113600  -186.0732113600   0.556828808   0.000000000          20206        136
+          ---------------START SECOND ORDER SCF---------------
+   2  1  0     -186.5277754202    -0.4545640602   0.101511255   0.063664167          20198        154
+   3  2  0     -186.5499744546    -0.0221990344   0.041706013   0.040628296          20194        156
+   4  3  0     -186.5579877157    -0.0080132610   0.005944757   0.004791256          20192        158
+   5  4  0     -186.5581619582    -0.0001742426   0.003564495   0.001668052          20062        194
+   6  5  0     -186.5581861328    -0.0000241746   0.000296625   0.000219656          20012        204
+   7  6  0     -186.5581863408    -0.0000002079   0.000052268   0.000034818          19780        224
+   8  7  0     -186.5581863458    -0.0000000050   0.000003818   0.000002353          19504        232
+   9  8  0     -186.5581863458    -0.0000000000   0.000001256   0.000000701          18446        263
+
+          -----------------
+          DENSITY CONVERGED
+          -----------------
+     TIME TO FORM FOCK OPERATORS=       0.0 SECONDS (       0.0 SEC/ITER)
+     FOCK TIME ON FIRST ITERATION=       0.0, LAST ITERATION=       0.0
+     TIME TO SOLVE SCF EQUATIONS=       0.0 SECONDS (       0.0 SEC/ITER)
+
+ FINAL RHF ENERGY IS     -186.5581863458 AFTER   9 ITERATIONS
+
+ LZ VALUE ANALYSIS FOR THE MOS
+ ----------------------------------------
+ MO     1 (    1) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO     2 (    2) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO     3 (    3) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO     4 (    4) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO     5 (    5) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO     6 (    6) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO     7 (    7) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO     8 (    8) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO     9 (    8) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    10 (    9) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    11 (    9) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    12 (   10) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    13 (   10) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    14 (   11) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    15 (   12) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    16 (   13) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    17 (   13) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    18 (   14) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    19 (   15) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    20 (   16) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    21 (   16) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    22 (   17) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    23 (   18) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    24 (   19) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    25 (   19) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    26 (   20) HAS LZ(WEIGHT)= 0.00(100.0%) 
+ MO    27 (   21) HAS LZ(WEIGHT)= 0.00(100.0%) 
+
+          ------------
+          EIGENVECTORS
+          ------------
+
+                      1          2          3          4          5
+                  -20.5645   -20.5631   -11.4323    -1.5321    -1.4863
+                     A          A          A          A          A   
+    1  C  1  S    0.000001   0.000683   0.985954  -0.158079  -0.000008
+    2  C  1  S    0.000004   0.002428   0.090026   0.186466   0.000009
+    3  C  1  X    0.005614  -0.000010   0.000000   0.000015  -0.284243
+    4  C  1  Y   -0.000000  -0.000000   0.000000   0.000000  -0.000000
+    5  C  1  Z   -0.000000  -0.000000   0.000000   0.000000  -0.000000
+    6  C  1  S    0.000040   0.022695  -0.022174   0.084763   0.000005
+    7  C  1  X    0.044346  -0.000077   0.000000  -0.000004   0.068494
+    8  C  1  Y   -0.000000  -0.000000   0.000000   0.000000  -0.000000
+    9  C  1  Z   -0.000000  -0.000000   0.000000   0.000000  -0.000000
+   10  O  2  S   -0.694843   0.696652  -0.000007  -0.146424  -0.158481
+   11  O  2  S   -0.073839   0.069173   0.000558   0.139399   0.152528
+   12  O  2  X   -0.003295   0.003663  -0.000593   0.096561   0.096259
+   13  O  2  Y   -0.000000  -0.000000   0.000000   0.000000  -0.000000
+   14  O  2  Z   -0.000000  -0.000000   0.000000   0.000000  -0.000000
+   15  O  2  S    0.056225  -0.031212  -0.000931   0.445414   0.506838
+   16  O  2  X    0.014419  -0.009826  -0.005714   0.112036   0.090627
+   17  O  2  Y   -0.000000  -0.000000   0.000000   0.000000  -0.000000
+   18  O  2  Z   -0.000000  -0.000000   0.000000   0.000000  -0.000000
+   19  O  3  S    0.697273   0.694220  -0.000007  -0.146440   0.158466
+   20  O  3  S    0.074080   0.068915   0.000558   0.139414  -0.152514
+   21  O  3  X   -0.003308  -0.003651   0.000593  -0.096572   0.096250
+   22  O  3  Y   -0.000000  -0.000000   0.000000   0.000000  -0.000000
+   23  O  3  Z   -0.000000  -0.000000   0.000000   0.000000  -0.000000
+   24  O  3  S   -0.056334  -0.031016  -0.000931   0.445465  -0.506792
+   25  O  3  X    0.014453   0.009776   0.005715  -0.112045   0.090615
+   26  O  3  Y   -0.000000  -0.000000   0.000000   0.000000  -0.000000
+   27  O  3  Z   -0.000000  -0.000000   0.000000   0.000000  -0.000000
+
+                      6          7          8          9         10
+                   -0.7748    -0.7161    -0.7096    -0.7096    -0.5200
+                     A          A          A          A          A   
+    1  C  1  S    0.143756   0.000004   0.000000  -0.000000   0.000000
+    2  C  1  S   -0.220932  -0.000006   0.000000  -0.000000   0.000000
+    3  C  1  X   -0.000009   0.359367   0.000000  -0.000000   0.000000
+    4  C  1  Y    0.000000  -0.000000   0.317126  -0.015068  -0.000000
+    5  C  1  Z    0.000000  -0.000000   0.015068   0.317126   0.000002
+    6  C  1  S   -0.271120  -0.000009   0.000000  -0.000000   0.000000
+    7  C  1  X    0.000001  -0.034279   0.000000  -0.000000   0.000000
+    8  C  1  Y    0.000000  -0.000000   0.254765  -0.012105  -0.000001
+    9  C  1  Z    0.000000  -0.000000   0.012105   0.254765   0.000003
+   10  O  2  S   -0.101231  -0.077675   0.000000  -0.000000   0.000000
+   11  O  2  S    0.098696   0.074996   0.000000  -0.000000   0.000000
+   12  O  2  X   -0.260458  -0.309157   0.000000  -0.000000   0.000000
+   13  O  2  Y    0.000000  -0.000000   0.288748  -0.013720  -0.080887
+   14  O  2  Z    0.000000  -0.000000   0.013720   0.288748   0.359431
+   15  O  2  S    0.415067   0.295299   0.000000  -0.000000   0.000000
+   16  O  2  X   -0.246746  -0.289722   0.000000  -0.000000   0.000000
+   17  O  2  Y    0.000000  -0.000000   0.278088  -0.013213  -0.099081
+   18  O  2  Z    0.000000  -0.000000   0.013213   0.278088   0.440276
+   19  O  3  S   -0.101235   0.077669   0.000000  -0.000000   0.000000
+   20  O  3  S    0.098699  -0.074991   0.000000  -0.000000   0.000000
+   21  O  3  X    0.260475  -0.309145   0.000000  -0.000000   0.000000
+   22  O  3  Y    0.000000  -0.000000   0.288754  -0.013720   0.080886
+   23  O  3  Z    0.000000  -0.000000   0.013720   0.288754  -0.359427
+   24  O  3  S    0.415083  -0.295276   0.000000  -0.000000   0.000000
+   25  O  3  X    0.246761  -0.289709   0.000000  -0.000000   0.000000
+   26  O  3  Y    0.000000  -0.000000   0.278095  -0.013214   0.099080
+   27  O  3  Z    0.000000  -0.000000   0.013214   0.278095  -0.440272
+
+                     11         12         13         14         15
+                   -0.5200     0.1893     0.1893     0.2781     0.6742
+                     A          A          A          A          A   
+    1  C  1  S    0.000000   0.000000  -0.000000  -0.122212   0.000001
+    2  C  1  S    0.000000   0.000000  -0.000000  -0.051710  -0.000001
+    3  C  1  X    0.000000   0.000000  -0.000000  -0.000001  -0.095309
+    4  C  1  Y    0.000002   0.429542  -0.180153   0.000000   0.000000
+    5  C  1  Z    0.000000   0.180153   0.429542   0.000000   0.000000
+    6  C  1  S    0.000000   0.000000  -0.000000   1.855419   0.000003
+    7  C  1  X    0.000000   0.000000  -0.000000   0.000004   3.004874
+    8  C  1  Y    0.000003   0.660130  -0.276864   0.000000   0.000000
+    9  C  1  Z    0.000001   0.276864   0.660130   0.000000   0.000000
+   10  O  2  S    0.000000   0.000000  -0.000000   0.084264  -0.105767
+   11  O  2  S    0.000000   0.000000  -0.000000  -0.055830   0.013503
+   12  O  2  X    0.000000   0.000000  -0.000000  -0.253738  -0.024628
+   13  O  2  Y    0.359431  -0.255302   0.107076   0.000000   0.000000
+   14  O  2  Z    0.080887  -0.107076  -0.255302   0.000000   0.000000
+   15  O  2  S    0.000000   0.000000  -0.000000  -0.758566   1.875734
+   16  O  2  X    0.000000   0.000000  -0.000000  -0.568371   0.540707
+   17  O  2  Y    0.440276  -0.413988   0.173630   0.000000   0.000000
+   18  O  2  Z    0.099081  -0.173630  -0.413988   0.000000   0.000000
+   19  O  3  S    0.000000   0.000000  -0.000000   0.084264   0.105767
+   20  O  3  S    0.000000   0.000000  -0.000000  -0.055831  -0.013503
+   21  O  3  X    0.000000   0.000000  -0.000000   0.253737  -0.024631
+   22  O  3  Y   -0.359427  -0.255303   0.107076   0.000000   0.000000
+   23  O  3  Z   -0.080886  -0.107076  -0.255303   0.000000   0.000000
+   24  O  3  S    0.000000   0.000000  -0.000000  -0.758573  -1.875738
+   25  O  3  X    0.000000   0.000000  -0.000000   0.568369   0.540703
+   26  O  3  Y   -0.440272  -0.413989   0.173630   0.000000   0.000000
+   27  O  3  Z   -0.099080  -0.173630  -0.413989   0.000000   0.000000
+
+                     16         17         18         19         20
+                    0.8512     0.8512     1.1511     1.2445     1.7298
+                     A          A          A          A          A   
+    1  C  1  S   -0.000000   0.000000   0.000003  -0.108947  -0.000000
+    2  C  1  S   -0.000000   0.000000  -0.000031   1.517573  -0.000000
+    3  C  1  X   -0.000000   0.000000   1.299602   0.000030  -0.000000
+    4  C  1  Y    0.078701  -1.033441  -0.000000  -0.000000  -0.000000
+    5  C  1  Z   -1.033441  -0.078701  -0.000000  -0.000000   0.000000
+    6  C  1  S   -0.000000   0.000000   0.000038  -1.346366  -0.000000
+    7  C  1  X   -0.000000   0.000000   0.221799   0.000012  -0.000000
+    8  C  1  Y   -0.087322   1.146649  -0.000000  -0.000000   0.000004
+    9  C  1  Z    1.146649   0.087322  -0.000000  -0.000000  -0.000003
+   10  O  2  S   -0.000000   0.000000  -0.082457   0.013984  -0.000000
+   11  O  2  S   -0.000000   0.000000   0.092733  -0.018885  -0.000000
+   12  O  2  X   -0.000000   0.000000   0.200515  -0.268355  -0.000000
+   13  O  2  Y    0.003591  -0.047158  -0.000000  -0.000000  -0.596661
+   14  O  2  Z   -0.047158  -0.003591  -0.000000  -0.000000   0.422155
+   15  O  2  S   -0.000000   0.000000   0.557975   0.202813  -0.000000
+   16  O  2  X   -0.000000   0.000000   0.667555  -0.015592  -0.000000
+   17  O  2  Y    0.011697  -0.153597  -0.000000  -0.000000   0.567145
+   18  O  2  Z   -0.153597  -0.011697  -0.000000  -0.000000  -0.401272
+   19  O  3  S   -0.000000   0.000000   0.082457   0.013989  -0.000000
+   20  O  3  S   -0.000000   0.000000  -0.092733  -0.018891  -0.000000
+   21  O  3  X   -0.000000   0.000000   0.200503   0.268364  -0.000000
+   22  O  3  Y    0.003591  -0.047158  -0.000000  -0.000000   0.596668
+   23  O  3  Z   -0.047158  -0.003591  -0.000000  -0.000000  -0.422160
+   24  O  3  S   -0.000000   0.000000  -0.557994   0.202779  -0.000000
+   25  O  3  X   -0.000000   0.000000   0.667562   0.015628  -0.000000
+   26  O  3  Y    0.011697  -0.153596  -0.000000  -0.000000  -0.567155
+   27  O  3  Z   -0.153596  -0.011697  -0.000000  -0.000000   0.401278
+
+                     21         22         23         24         25
+                    1.7298     1.8162     1.8645     1.9403     1.9403
+                     A          A          A          A          A   
+    1  C  1  S   -0.000000   0.000003  -0.050636   0.000000  -0.000000
+    2  C  1  S   -0.000000   0.000026  -0.606756   0.000000  -0.000000
+    3  C  1  X   -0.000000   0.136677   0.000008   0.000000  -0.000000
+    4  C  1  Y   -0.000000   0.000000   0.000000   0.027956  -0.003844
+    5  C  1  Z   -0.000000   0.000000   0.000000   0.003844   0.027956
+    6  C  1  S   -0.000000   0.000019  -0.378789   0.000000  -0.000000
+    7  C  1  X   -0.000000   0.137209   0.000007   0.000000  -0.000000
+    8  C  1  Y    0.000003   0.000000   0.000000  -0.603957   0.083053
+    9  C  1  Z    0.000004   0.000000   0.000000  -0.083053  -0.603957
+   10  O  2  S   -0.000000  -0.017394  -0.050679   0.000000  -0.000000
+   11  O  2  S   -0.000000   0.031662   0.202341   0.000000  -0.000000
+   12  O  2  X   -0.000000  -0.741649  -0.672360   0.000000  -0.000000
+   13  O  2  Y   -0.422155   0.000000   0.000000  -0.726024   0.099839
+   14  O  2  Z   -0.596661   0.000000   0.000000  -0.099839  -0.726024
+   15  O  2  S   -0.000000   0.133513   0.105686   0.000000  -0.000000
+   16  O  2  X   -0.000000   0.852673   0.954981   0.000000  -0.000000
+   17  O  2  Y    0.401272   0.000000   0.000000   0.909517  -0.125071
+   18  O  2  Z    0.567145   0.000000   0.000000   0.125071   0.909517
+   19  O  3  S   -0.000000   0.017398  -0.050677   0.000000  -0.000000
+   20  O  3  S   -0.000000  -0.031678   0.202337   0.000000  -0.000000
+   21  O  3  X   -0.000000  -0.741706   0.672297   0.000000  -0.000000
+   22  O  3  Y    0.422160   0.000000   0.000000  -0.726016   0.099837
+   23  O  3  Z    0.596668   0.000000   0.000000  -0.099837  -0.726016
+   24  O  3  S   -0.000000  -0.133526   0.105675   0.000000  -0.000000
+   25  O  3  X   -0.000000   0.852756  -0.954909   0.000000  -0.000000
+   26  O  3  Y   -0.401278   0.000000   0.000000   0.909510  -0.125070
+   27  O  3  Z   -0.567155   0.000000   0.000000   0.125070   0.909510
+
+                     26         27
+                    3.2878     3.9406
+                     A          A   
+    1  C  1  S   -0.025752  -0.000001
+    2  C  1  S   -0.314530  -0.000004
+    3  C  1  X    0.000000  -0.512757
+    4  C  1  Y   -0.000000  -0.000000
+    5  C  1  Z   -0.000000  -0.000000
+    6  C  1  S   -1.369990  -0.000005
+    7  C  1  X   -0.000003  -2.549497
+    8  C  1  Y   -0.000000  -0.000000
+    9  C  1  Z   -0.000000  -0.000000
+   10  O  2  S    0.044300  -0.004177
+   11  O  2  S   -1.189612   1.387994
+   12  O  2  X   -0.226730   0.086619
+   13  O  2  Y   -0.000000  -0.000000
+   14  O  2  Z   -0.000000  -0.000000
+   15  O  2  S    1.641455  -3.009146
+   16  O  2  X    0.730801  -0.880733
+   17  O  2  Y   -0.000000  -0.000000
+   18  O  2  Z   -0.000000  -0.000000
+   19  O  3  S    0.044300   0.004176
+   20  O  3  S   -1.189614  -1.387995
+   21  O  3  X    0.226729   0.086617
+   22  O  3  Y   -0.000000  -0.000000
+   23  O  3  Z   -0.000000  -0.000000
+   24  O  3  S    1.641463   3.009156
+   25  O  3  X   -0.730803  -0.880732
+   26  O  3  Y   -0.000000  -0.000000
+   27  O  3  Z   -0.000000  -0.000000
+ ...... END OF RHF CALCULATION ......
+ CPU     0: STEP CPU TIME=     0.04 TOTAL CPU TIME=          0.1 (      0.0 MIN)
+ TOTAL WALL CLOCK TIME=          0.1 SECONDS, CPU UTILIZATION IS    90.00%
+
+     ----------------------------------------------------------------
+     PROPERTY VALUES FOR THE RHF   SELF-CONSISTENT FIELD WAVEFUNCTION
+     ----------------------------------------------------------------
+
+          -----------------
+          ENERGY COMPONENTS
+          -----------------
+
+         WAVEFUNCTION NORMALIZATION =       1.0000000000
+
+                ONE ELECTRON ENERGY =    -368.5708358501
+                TWO ELECTRON ENERGY =     124.7569150624
+           NUCLEAR REPULSION ENERGY =      57.2557344419
+                                      ------------------
+                       TOTAL ENERGY =    -186.5581863458
+
+ ELECTRON-ELECTRON POTENTIAL ENERGY =     124.7569150624
+  NUCLEUS-ELECTRON POTENTIAL ENERGY =    -554.3297432218
+   NUCLEUS-NUCLEUS POTENTIAL ENERGY =      57.2557344419
+                                      ------------------
+             TOTAL POTENTIAL ENERGY =    -372.3170937175
+               TOTAL KINETIC ENERGY =     185.7589073717
+                 VIRIAL RATIO (V/T) =       2.0043027760
+
+  ...... PI ENERGY ANALYSIS ......
+
+ ENERGY ANALYSIS:
+            FOCK ENERGY=   -119.0570057780
+          BARE H ENERGY=   -368.5708358501
+     ELECTRONIC ENERGY =   -243.8139208141
+         KINETIC ENERGY=    185.7589073717
+          N-N REPULSION=     57.2557344419
+           TOTAL ENERGY=   -186.5581863722
+        SIGMA PART(1+2)=   -199.8053253772
+               (K,V1,2)=    169.3029161188   -454.7749621242     85.6667206282
+           PI PART(1+2)=    -44.0085954368
+               (K,V1,2)=     16.4559912529    -99.5547810976     39.0901944079
+  SIGMA SKELETON, ERROR=   -142.5495909353      0.0000000000
+             MIXED PART= 0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00
+ ...... END OF PI ENERGY ANALYSIS ......
+
+          ---------------------------------------
+          MULLIKEN AND LOWDIN POPULATION ANALYSES
+          ---------------------------------------
+
+     ATOMIC MULLIKEN POPULATION IN EACH MOLECULAR ORBITAL
+
+                      1          2          3          4          5
+
+                  2.000000   2.000000   2.000000   2.000000   2.000000
+
+    1             0.013881   0.003669   2.003679   0.383611   0.281115
+    2             0.989581   1.001644  -0.001840   0.808110   0.859527
+    3             0.996538   0.994687  -0.001840   0.808279   0.859358
+
+                      6          7          8          9         10
+
+                  2.000000   2.000000   2.000000   2.000000   2.000000
+
+    1             0.353849   0.348661   0.764731   0.764731   0.000000
+    2             0.823032   0.825711   0.617621   0.617621   1.000014
+    3             0.823119   0.825628   0.617648   0.617648   0.999986
+
+                     11
+
+                  2.000000
+
+    1             0.000000
+    2             1.000014
+    3             0.999986
+
+               ----- POPULATIONS IN EACH AO -----
+                             MULLIKEN      LOWDIN
+              1  C  1  S      1.98675     1.97711
+              2  C  1  S      0.48667     0.46560
+              3  C  1  X      0.73852     0.70213
+              4  C  1  Y      0.38311     0.35829
+              5  C  1  Z      0.38311     0.35829
+              6  C  1  S      0.27139     0.44519
+              7  C  1  X     -0.09486     0.42321
+              8  C  1  Y      0.38162     0.42876
+              9  C  1  Z      0.38162     0.42876
+             10  O  2  S      1.98762     1.98195
+             11  O  2  S      0.44039     0.59213
+             12  O  2  X      0.63001     0.61279
+             13  O  2  Y      0.71085     0.70853
+             14  O  2  Z      0.71085     0.70853
+             15  O  2  S      1.53683     1.02755
+             16  O  2  X      0.71092     0.77896
+             17  O  2  Y      0.90679     0.89795
+             18  O  2  Z      0.90679     0.89795
+             19  O  3  S      1.98762     1.98195
+             20  O  3  S      0.44039     0.59213
+             21  O  3  X      0.63001     0.61279
+             22  O  3  Y      0.71085     0.70853
+             23  O  3  Z      0.71085     0.70853
+             24  O  3  S      1.53683     1.02755
+             25  O  3  X      0.71092     0.77896
+             26  O  3  Y      0.90679     0.89795
+             27  O  3  Z      0.90679     0.89795
+
+          ----- MULLIKEN ATOMIC OVERLAP POPULATIONS -----
+          (OFF-DIAGONAL ELEMENTS NEED TO BE MULTIPLIED BY 2)
+
+             1           2           3
+
+    1    3.9494143
+    2    0.4842562   8.0791536
+    3    0.4842561  -0.0223741   8.0791556
+
+          TOTAL MULLIKEN AND LOWDIN ATOMIC POPULATIONS
+       ATOM         MULL.POP.    CHARGE          LOW.POP.     CHARGE
+    1 C             4.917927    1.082073         5.587340    0.412660
+    2 O             8.541036   -0.541036         8.206330   -0.206330
+    3 O             8.541038   -0.541038         8.206330   -0.206330
+
+          -------------------------------
+          BOND ORDER AND VALENCE ANALYSIS     BOND ORDER THRESHOLD=0.050
+          -------------------------------
+
+                   BOND                       BOND                       BOND
+  ATOM PAIR DIST  ORDER      ATOM PAIR DIST  ORDER      ATOM PAIR DIST  ORDER
+    1   2  1.183  1.798        1   3  1.183  1.798        2   3  2.366  0.258
+
+                       TOTAL       BONDED        FREE
+      ATOM            VALENCE     VALENCE     VALENCE
+    1 C                 3.595       3.595      -0.000
+    2 O                 2.055       2.055      -0.000
+    3 O                 2.055       2.055      -0.000
+
+          ---------------------
+          ELECTROSTATIC MOMENTS
+          ---------------------
+
+ POINT   1           X           Y           Z (BOHR)    CHARGE
+                -0.000000    0.000000    0.000000       -0.00 (A.U.)
+         DX          DY          DZ         /D/  (DEBYE)
+     0.000002    0.000000    0.000000    0.000002
+ ...... END OF PROPERTY EVALUATION ......
+ CPU     0: STEP CPU TIME=     0.01 TOTAL CPU TIME=          0.1 (      0.0 MIN)
+ TOTAL WALL CLOCK TIME=          0.1 SECONDS, CPU UTILIZATION IS    83.33%
+               580000  WORDS OF DYNAMIC MEMORY USED
+ EXECUTION OF GAMESS TERMINATED NORMALLY Sun May 17 11:52:21 2020
+ DDI: 263640 bytes (0.3 MB / 0 MWords) used by master data server.
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAGNote: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAGNote: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAGNote: The following floating-point exceptions are signalling:
+ ----------------------------------------
+ CPU timing information for all processes
+ ========================================
+ 0: 0.38 + 0.79 = 0.118
+ 1: 0.19 + 0.08 = 0.28
+ 2: 0.16 + 0.13 = 0.29
+ 3: 0.10 + 0.18 = 0.29
+ 4: 0.10 + 0.15 = 0.26
+ 5: 0.09 + 0.13 = 0.23
+ ----------------------------------------
+ IEEE_DENORMAL
+ IEEE_DENORMAL
+ IEEE_DENORMAL
+ IEEE_UNDERFLOW_FLAG IEEE_DENORMALNote: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAGNote: The following floating-point exceptions are signalling:
+ IEEE_DENORMAL
+ IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+ ddikick.x: exited gracefully.
+unset echo
+----- accounting info -----
+Files used on the master node pietdev were:
+-rwxr-xr-x 1 piet piet      315 mei 17 11:52 /home/piet/scr/co2_fukui_neu.F05*
+-rw-r--r-- 1 piet piet 50790400 mei 17 11:52 /home/piet/scr/co2_fukui_neu.F10
+ls: No match.
+ls: No match.
+ls: No match.
+zo 17 mei 2020 11:52:24 CEST
+0.106u 0.013s 0:03.26 3.3%	0+0k 0+8io 0pf+0w

@@ -1,0 +1,11 @@
+init    geomoptinit
+init    chargeinit
+init    fukuiinit
+geomoptinit geomoptexe
+geomoptexe  geomoptparse
+geomoptparse chargeinit
+chargeinit  chargeexe
+chargeexe   chargeparse
+chargeparse fukuiinit
+fukuiinit   fukuiexe
+fukuiexe    fukuiparse

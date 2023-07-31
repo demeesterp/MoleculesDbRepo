@@ -1,0 +1,19 @@
+QbcWfVertex	0	init
+QbcWfVertex	1	geomoptinit
+QbcWfVertex	2	geomoptexe
+QbcWfVertex	3	geomoptparse
+QbcWfVertex	4	chargeinit
+QbcWfVertex	5	chargeexe
+QbcWfVertex	6	chargeparse
+QbcWfVertex	7	fukuiinit
+QbcWfVertex	8	fukuiexe
+QbcWfVertex	9	fukuiparse
+QbcWfEdge&QbcWfVertex	0	init&QbcWfVertex	1	geomoptinit
+QbcWfEdge&QbcWfVertex	1	geomoptinit&QbcWfVertex	2	geomoptexe
+QbcWfEdge&QbcWfVertex	2	geomoptexe&QbcWfVertex	3	geomoptparse
+QbcWfEdge&QbcWfVertex	3	geomoptparse&QbcWfVertex	4	chargeinit
+QbcWfEdge&QbcWfVertex	4	chargeinit&QbcWfVertex	5	chargeexe
+QbcWfEdge&QbcWfVertex	5	chargeexe&QbcWfVertex	6	chargeparse
+QbcWfEdge&QbcWfVertex	6	chargeparse&QbcWfVertex	7	fukuiinit
+QbcWfEdge&QbcWfVertex	7	fukuiinit&QbcWfVertex	8	fukuiexe
+QbcWfEdge&QbcWfVertex	8	fukuiexe&QbcWfVertex	9	fukuiparse

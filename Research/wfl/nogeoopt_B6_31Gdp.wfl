@@ -1,0 +1,21 @@
+init B6_31Gdp	            -- save the workflow in the model directories 
+geomoptinit 		-- init the geometry optimisation ( build the gamess jobfiles )
+geomoptexe 		    -- execute the geomatry optimization
+geomoptparse 		-- parse the resultfile
+chargeinit          -- generate the gms inputfiles for the charge calculations
+chargeexe           -- execute the charge calculations
+chargeparse         -- parse the charge calculations
+fukuiinit           -- generate the gms input for the fukui files
+fukuiexe            -- execute the fukui calculations
+fukuiparse          -- parse the fukui calculations
+
+init    chargeinit
+init    fukuiinit
+geomoptinit geomoptexe
+geomoptexe  geomoptparse
+geomoptparse chargeinit
+chargeinit  chargeexe
+chargeexe   chargeparse
+chargeparse fukuiinit
+fukuiinit   fukuiexe
+fukuiexe    fukuiparse
